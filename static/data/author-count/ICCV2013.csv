@@ -1,0 +1,1190 @@
+author,count,conference,year
+Xiaoou Tang,10,ICCV,2013
+Luc Van Gool,10,ICCV,2013
+Xiaogang Wang,8,ICCV,2013
+Song-Chun Zhu,8,ICCV,2013
+Shuicheng Yan,7,ICCV,2013
+Cordelia Schmid,7,ICCV,2013
+Daniel Cremers,6,ICCV,2013
+Ming-Hsuan Yang,6,ICCV,2013
+Lei Zhang,6,ICCV,2013
+Jian Sun,5,ICCV,2013
+Marc Pollefeys,5,ICCV,2013
+Antonio Torralba,5,ICCV,2013
+Kristen Grauman,5,ICCV,2013
+Raquel Urtasun,4,ICCV,2013
+Qiang Ji,4,ICCV,2013
+Li Fei-Fei,4,ICCV,2013
+Shaogang Gong,4,ICCV,2013
+Loong-Fah Cheong,4,ICCV,2013
+Karteek Alahari,4,ICCV,2013
+In So Kweon,4,ICCV,2013
+Bernt Schiele,4,ICCV,2013
+Chunhua Shen,4,ICCV,2013
+Jiaya Jia,4,ICCV,2013
+Yu-Wing Tai,4,ICCV,2013
+Devi Parikh,4,ICCV,2013
+Tinne Tuytelaars,4,ICCV,2013
+Jianxiong Xiao,4,ICCV,2013
+Trevor Darrell,3,ICCV,2013
+Ian Reid,3,ICCV,2013
+Kaiming He,3,ICCV,2013
+Yi Yang,3,ICCV,2013
+Dahua Lin,3,ICCV,2013
+Sanja Fidler,3,ICCV,2013
+Jingdong Wang,3,ICCV,2013
+Jianchao Yang,3,ICCV,2013
+Horst Bischof,3,ICCV,2013
+Silvio Savarese,3,ICCV,2013
+Wei Liu,3,ICCV,2013
+Greg Mori,3,ICCV,2013
+Rene Vidal,3,ICCV,2013
+Abhinav Gupta,3,ICCV,2013
+Feiping Nie,3,ICCV,2013
+Weidong Cai,3,ICCV,2013
+Heng Huang,3,ICCV,2013
+Martial Hebert,3,ICCV,2013
+Liang Lin,3,ICCV,2013
+Tao Xiang,3,ICCV,2013
+Chen Change Loy,3,ICCV,2013
+Stan Sclaroff,3,ICCV,2013
+C.V. Jawahar,3,ICCV,2013
+Fernando De La Torre,3,ICCV,2013
+Herve Jegou,3,ICCV,2013
+Gang Hua,3,ICCV,2013
+Ming Yang,3,ICCV,2013
+James M. Rehg,3,ICCV,2013
+Sinisa Todorovic,3,ICCV,2013
+Wanli Ouyang,3,ICCV,2013
+Michael S. Brown,3,ICCV,2013
+Anton Van Den Hengel,3,ICCV,2013
+Christian Theobalt,3,ICCV,2013
+Hongdong Li,3,ICCV,2013
+Wangmeng Zuo,3,ICCV,2013
+Cristian Sminchisescu,3,ICCV,2013
+Kevin Koser,3,ICCV,2013
+Jitendra Malik,3,ICCV,2013
+Nanning Zheng,3,ICCV,2013
+Ping Luo,3,ICCV,2013
+Jingyi Yu,3,ICCV,2013
+Zhe Lin,3,ICCV,2013
+Yangqing Jia,2,ICCV,2013
+Pierre Moulin,2,ICCV,2013
+Jeffrey Ho,2,ICCV,2013
+Zhongwen Xu,2,ICCV,2013
+Nicu Sebe,2,ICCV,2013
+Alexander G. Hauptmann,2,ICCV,2013
+Dacheng Tao,2,ICCV,2013
+Qifeng Chen,2,ICCV,2013
+Vladlen Koltun,2,ICCV,2013
+Naiyan Wang,2,ICCV,2013
+Dit-Yan Yeung,2,ICCV,2013
+Canyi Lu,2,ICCV,2013
+Zhouchen Lin,2,ICCV,2013
+Shai Avidan,2,ICCV,2013
+Radu Timofte,2,ICCV,2013
+Junliang Xing,2,ICCV,2013
+Jin Gao,2,ICCV,2013
+Weiming Hu,2,ICCV,2013
+Haibin Ling,2,ICCV,2013
+Ahmed Elgammal,2,ICCV,2013
+Deli Zhao,2,ICCV,2013
+Arash Vahdat,2,ICCV,2013
+Stefanos Zafeiriou,2,ICCV,2013
+Bangpeng Yao,2,ICCV,2013
+Abhinav Shrivastava,2,ICCV,2013
+Ping Tan,2,ICCV,2013
+Alexander G. Schwing,2,ICCV,2013
+Xiao Cai,2,ICCV,2013
+Brian C. Lovell,2,ICCV,2013
+Mathieu Salzmann,2,ICCV,2013
+Srinivasa G. Narasimhan,2,ICCV,2013
+Wei-Shi Zheng,2,ICCV,2013
+Peter N. Belhumeur,2,ICCV,2013
+Wei Xia,2,ICCV,2013
+Jian Dong,2,ICCV,2013
+Xiaokang Yang,2,ICCV,2013
+Zhuowen Tu,2,ICCV,2013
+Jianming Zhang,2,ICCV,2013
+Gemma Roig,2,ICCV,2013
+Xavier Boix,2,ICCV,2013
+Nuno Vasconcelos,2,ICCV,2013
+Christoph H. Lampert,2,ICCV,2013
+Wei Wang,2,ICCV,2013
+Santiago Manen,2,ICCV,2013
+John Wright,2,ICCV,2013
+Johannes Ulen,2,ICCV,2013
+Yuri Boykov,2,ICCV,2013
+Vladimir Kolmogorov,2,ICCV,2013
+Hans-Peter Seidel,2,ICCV,2013
+Joon-Young Lee,2,ICCV,2013
+Yudeog Han,2,ICCV,2013
+Matthieu Guillaumin,2,ICCV,2013
+Maja Pantic,2,ICCV,2013
+Paul Wohlhart,2,ICCV,2013
+Peter M. Roth,2,ICCV,2013
+Hongyuan Zha,2,ICCV,2013
+Xiaowei Zhao,2,ICCV,2013
+Shiguang Shan,2,ICCV,2013
+Xilin Chen,2,ICCV,2013
+Venu Madhav Govindu,2,ICCV,2013
+Lingqiao Liu,2,ICCV,2013
+Lei Wang,2,ICCV,2013
+Fred A. Hamprecht,2,ICCV,2013
+Chengjiang Long,2,ICCV,2013
+Ying Wu,2,ICCV,2013
+B.S. Manjunath,2,ICCV,2013
+Lihe Zhang,2,ICCV,2013
+Huchuan Lu,2,ICCV,2013
+Xiaoyu Wang,2,ICCV,2013
+Yuanqing Lin,2,ICCV,2013
+Qi Tian,2,ICCV,2013
+Jerome Revaud,2,ICCV,2013
+William T. Freeman,2,ICCV,2013
+Si Liu,2,ICCV,2013
+Amit Agrawal,2,ICCV,2013
+Ran He,2,ICCV,2013
+Tieniu Tan,2,ICCV,2013
+Mario Sznaier,2,ICCV,2013
+Ming Shao,2,ICCV,2013
+Yun Fu,2,ICCV,2013
+Theo Gevers,2,ICCV,2013
+Mehrtash Harandi,2,ICCV,2013
+Piotr Dollar,2,ICCV,2013
+C. L. Zitnick,2,ICCV,2013
+Jianping Shi,2,ICCV,2013
+Deyu Meng,2,ICCV,2013
+Xiangchu Feng,2,ICCV,2013
+David Zhang,2,ICCV,2013
+Jean Ponce,2,ICCV,2013
+Bastian Leibe,2,ICCV,2013
+Mykhaylo Andriluka,2,ICCV,2013
+Konrad Schindler,2,ICCV,2013
+Stefan Roth,2,ICCV,2013
+Li Xu,2,ICCV,2013
+Aditya Khosla,2,ICCV,2013
+Simon Lucey,2,ICCV,2013
+Jiwen Lu,2,ICCV,2013
+Gang Wang,2,ICCV,2013
+Tianfu Wu,2,ICCV,2013
+Silvia Zuffi,2,ICCV,2013
+Michael J. Black,2,ICCV,2013
+Yunde Jia,2,ICCV,2013
+Xianfeng Gu,2,ICCV,2013
+Noah Snavely,2,ICCV,2013
+Mohit Gupta,2,ICCV,2013
+Shree K. Nayar,2,ICCV,2013
+Yung-Yu Chuang,2,ICCV,2013
+Jia Deng,2,ICCV,2013
+Alexander C. Berg,2,ICCV,2013
+Thomas Brox,2,ICCV,2013
+Tae Hyun Kim,2,ICCV,2013
+Kyoung Mu Lee,2,ICCV,2013
+Dani Lischinski,2,ICCV,2013
+Hayko Riemenschneider,2,ICCV,2013
+Olivier Saurer,2,ICCV,2013
+Bodo Rosenhahn,2,ICCV,2013
+Ming-Ming Cheng,2,ICCV,2013
+Wen-Yan Lin,2,ICCV,2013
+Shuai Zheng,2,ICCV,2013
+Nigel Crook,2,ICCV,2013
+Ping Wei,2,ICCV,2013
+Yibiao Zhao,2,ICCV,2013
+Marius Leordeanu,2,ICCV,2013
+Dengxin Dai,2,ICCV,2013
+Adriana Kovashka,2,ICCV,2013
+Tae-Kyun Kim,2,ICCV,2013
+Peihua Li,2,ICCV,2013
+Qilong Wang,2,ICCV,2013
+Evgeny Strekalovskiy,2,ICCV,2013
+Jianzhuang Liu,2,ICCV,2013
+Tamara L. Berg,2,ICCV,2013
+Jiaming Guo,2,ICCV,2013
+Zhuwen Li,2,ICCV,2013
+Steven Zhiying Zhou,2,ICCV,2013
+Jakob Verbeek,2,ICCV,2013
+Seunghoon Hong,2,ICCV,2013
+Bohyung Han,2,ICCV,2013
+Michal Irani,2,ICCV,2013
+Jun Wang,2,ICCV,2013
+Shih-Fu Chang,2,ICCV,2013
+Yubin Kuang,2,ICCV,2013
+Kalle Astrom,2,ICCV,2013
+Sunyeong Kim,2,ICCV,2013
+Adrien Bartoli,2,ICCV,2013
+Yannis Avrithis,2,ICCV,2013
+Fang Wen,2,ICCV,2013
+Tsuhan Chen,2,ICCV,2013
+Jonathan Brandt,2,ICCV,2013
+Nikos Paragios,2,ICCV,2013
+Andrew Owens,2,ICCV,2013
+Basura Fernando,2,ICCV,2013
+Fan Wang,1,ICCV,2013
+Qixing Huang,1,ICCV,2013
+Leonidas J. Guibas,1,ICCV,2013
+Bingbing Ni,1,ICCV,2013
+Zheyun Feng,1,ICCV,2013
+Rong Jin,1,ICCV,2013
+Anil Jain,1,ICCV,2013
+Yi Sun,1,ICCV,2013
+Aleksandr V. Segal,1,ICCV,2013
+Hesamoddin Salehian,1,ICCV,2013
+Guang Cheng,1,ICCV,2013
+Baba C. Vemuri,1,ICCV,2013
+Zuzana Kukelova,1,ICCV,2013
+Martin Bujnak,1,ICCV,2013
+Tomas Pajdla,1,ICCV,2013
+Heng Yang,1,ICCV,2013
+Ioannis Patras,1,ICCV,2013
+Ziyang Ma,1,ICCV,2013
+Yichen Wei,1,ICCV,2013
+Enhua Wu,1,ICCV,2013
+Ivor Tsang,1,ICCV,2013
+David Eigen,1,ICCV,2013
+Dilip Krishnan,1,ICCV,2013
+Rob Fergus,1,ICCV,2013
+Zhibin Hong,1,ICCV,2013
+Xue Mei,1,ICCV,2013
+Danil Prokhorov,1,ICCV,2013
+Xiang Yu,1,ICCV,2013
+Junzhou Huang,1,ICCV,2013
+Shaoting Zhang,1,ICCV,2013
+Wang Yan,1,ICCV,2013
+Dimitris N. Metaxas,1,ICCV,2013
+Zhaowen Wang,1,ICCV,2013
+Nasser Nasrabadi,1,ICCV,2013
+Thomas Huang,1,ICCV,2013
+Sukrit Shankar,1,ICCV,2013
+Joan Lasenby,1,ICCV,2013
+Roberto Cipolla,1,ICCV,2013
+Jiashi Feng,1,ICCV,2013
+Yaron Eshet,1,ICCV,2013
+Simon Korman,1,ICCV,2013
+Eyal Ofek,1,ICCV,2013
+Baoyuan Wu,1,ICCV,2013
+Siwei Lyu,1,ICCV,2013
+Bao-Gang Hu,1,ICCV,2013
+Nicolas Martin,1,ICCV,2013
+Vincent Couture,1,ICCV,2013
+Sebastien Roy,1,ICCV,2013
+Philipp Heise,1,ICCV,2013
+Sebastian Klose,1,ICCV,2013
+Brian Jensen,1,ICCV,2013
+Alois Knoll,1,ICCV,2013
+Quanfu Fan,1,ICCV,2013
+Prasad Gabbur,1,ICCV,2013
+Sharath Pankanti,1,ICCV,2013
+Dror Aiger,1,ICCV,2013
+Efi Kokiopoulou,1,ICCV,2013
+Ehud Rivlin,1,ICCV,2013
+David Ferstl,1,ICCV,2013
+Christian Reinbacher,1,ICCV,2013
+Rene Ranftl,1,ICCV,2013
+Matthias Ruether,1,ICCV,2013
+Byung-Soo Kim,1,ICCV,2013
+Pushmeet Kohli,1,ICCV,2013
+Yan Yan,1,ICCV,2013
+Elisa Ricci,1,ICCV,2013
+Ramanathan Subramanian,1,ICCV,2013
+Oswald Lanz,1,ICCV,2013
+Ali Osman Ulusoy,1,ICCV,2013
+Octavian Biris,1,ICCV,2013
+Joseph L. Mundy,1,ICCV,2013
+Jose A. Rodriguez Serrano,1,ICCV,2013
+Diane Larlus,1,ICCV,2013
+Vincent De Smet,1,ICCV,2013
+Bing Li,1,ICCV,2013
+Yu Pang,1,ICCV,2013
+Mohamed Elhoseiny,1,ICCV,2013
+Babak Saleh,1,ICCV,2013
+Raul Diaz,1,ICCV,2013
+Sam Hallman,1,ICCV,2013
+Charless C. Fowlkes,1,ICCV,2013
+Yuanjun Xiong,1,ICCV,2013
+Kevin Cannons,1,ICCV,2013
+Sangmin Oh,1,ICCV,2013
+Ilseo Kim,1,ICCV,2013
+Jeffrey Byrne,1,ICCV,2013
+Jianbo Shi,1,ICCV,2013
+Aastha Jain,1,ICCV,2013
+Shuanak Chatterjee,1,ICCV,2013
+Derek Bradley,1,ICCV,2013
+Thabo Beeler,1,ICCV,2013
+Irene Kotsia,1,ICCV,2013
+Kevin Tang,1,ICCV,2013
+Daphne Koller,1,ICCV,2013
+Xinlei Chen,1,ICCV,2013
+Feng Liu,1,ICCV,2013
+Yuzhen Niu,1,ICCV,2013
+Hailin Jin,1,ICCV,2013
+Honghui Zhang,1,ICCV,2013
+Jinglu Wang,1,ICCV,2013
+Long Quan,1,ICCV,2013
+Nianjuan Jiang,1,ICCV,2013
+Zhaopeng Cui,1,ICCV,2013
+Scott Satkin,1,ICCV,2013
+Jinhui Tang,1,ICCV,2013
+Min Lin,1,ICCV,2013
+Mahsa Baktashmotlagh,1,ICCV,2013
+Mehrtash T. Harandi,1,ICCV,2013
+Frank Steinbrucker,1,ICCV,2013
+Christian Kerl,1,ICCV,2013
+Tom Sie Ho Lee,1,ICCV,2013
+Sven Dickinson,1,ICCV,2013
+Yuandong Tian,1,ICCV,2013
+Jian-Fang Hu,1,ICCV,2013
+Jianhuang Lai,1,ICCV,2013
+Thomas Berg,1,ICCV,2013
+Xiatian Zhu,1,ICCV,2013
+Csaba Domokos,1,ICCV,2013
+Jun Zhu,1,ICCV,2013
+Baoyuan Wang,1,ICCV,2013
+Wenjun Zhang,1,ICCV,2013
+Jimei Yang,1,ICCV,2013
+Yi-Hsuan Tsai,1,ICCV,2013
+Jiayuan Ma,1,ICCV,2013
+Roderick De Nijs,1,ICCV,2013
+Sebastian Ramos,1,ICCV,2013
+Koljia Kuhnlenz,1,ICCV,2013
+Stefan Duffner,1,ICCV,2013
+Christophe Garcia,1,ICCV,2013
+Mandar Dixit,1,ICCV,2013
+Nikhil Rasiwasia,1,ICCV,2013
+Federico Tombari,1,ICCV,2013
+Alessandro Franchi,1,ICCV,2013
+Luigi Di Stefano,1,ICCV,2013
+Jiongxin Liu,1,ICCV,2013
+Yi Wu,1,ICCV,2013
+Yoshihisa Ijiri,1,ICCV,2013
+Tomas Kazmar,1,ICCV,2013
+Evgeny Z. Kvon,1,ICCV,2013
+Alexander Stark,1,ICCV,2013
+Joseph J. Lim,1,ICCV,2013
+Hamed Pirsiavash,1,ICCV,2013
+Graham D. Finlayson,1,ICCV,2013
+Jiajia Luo,1,ICCV,2013
+Hairong Qi,1,ICCV,2013
+Michael Van Den Bergh,1,ICCV,2013
+Xu Wang,1,ICCV,2013
+Stefan Atev,1,ICCV,2013
+Gilad Lerman,1,ICCV,2013
+David F. Fouhey,1,ICCV,2013
+Carl Olsson,1,ICCV,2013
+Kristina Scherbaum,1,ICCV,2013
+James Petterson,1,ICCV,2013
+Rogerio S. Feris,1,ICCV,2013
+Volker Blanz,1,ICCV,2013
+Anand Mishra,1,ICCV,2013
+Hae-Gon Jeon,1,ICCV,2013
+Seon Joo Kim,1,ICCV,2013
+Georgios Tzimiropoulos,1,ICCV,2013
+Hua Wang,1,ICCV,2013
+Jifeng Dai,1,ICCV,2013
+Ying Nian Wu,1,ICCV,2013
+Jie Zhou,1,ICCV,2013
+Martin Kostinger,1,ICCV,2013
+Junchi Yan,1,ICCV,2013
+Yu Tian,1,ICCV,2013
+Ya Zhang,1,ICCV,2013
+Stephen M. Chu,1,ICCV,2013
+Phillip Isola,1,ICCV,2013
+Ce Liu,1,ICCV,2013
+Marc T. Law,1,ICCV,2013
+Nicolas Thome,1,ICCV,2013
+Matthieu Cord,1,ICCV,2013
+Xiaoyu Ding,1,ICCV,2013
+Wen-Sheng Chu,1,ICCV,2013
+Jeffery F. Cohn,1,ICCV,2013
+Qiao Wang,1,ICCV,2013
+Xiujuan Chai,1,ICCV,2013
+Suraj Jain,1,ICCV,2013
+Ning Zhang,1,ICCV,2013
+Ryan Farrell,1,ICCV,2013
+Forrest Iandola,1,ICCV,2013
+Supreeth Achar,1,ICCV,2013
+Stephen T. Nuske,1,ICCV,2013
+Iasonas Kokkinos,1,ICCV,2013
+Meng Tang,1,ICCV,2013
+Lena Gorelick,1,ICCV,2013
+Olga Veksler,1,ICCV,2013
+Zhiwu Huang,1,ICCV,2013
+Ruiping Wang,1,ICCV,2013
+Hang Chang,1,ICCV,2013
+Yin Zhou,1,ICCV,2013
+Paul Spellman,1,ICCV,2013
+Bahram Parvin,1,ICCV,2013
+Cai-Zhi Zhu,1,ICCV,2013
+Shin Ichi Satoh,1,ICCV,2013
+Laurent Kneip,1,ICCV,2013
+Simon Lynen,1,ICCV,2013
+R. Melo,1,ICCV,2013
+M. Antunes,1,ICCV,2013
+J.P. Barreto,1,ICCV,2013
+G. Falcao,1,ICCV,2013
+N. Goncalves,1,ICCV,2013
+Christoph Straehle,1,ICCV,2013
+Ullrich Koethe,1,ICCV,2013
+Steve Maybank,1,ICCV,2013
+Vidit Jain,1,ICCV,2013
+Sachin Sudhakar Farfade,1,ICCV,2013
+Yan Gao,1,ICCV,2013
+Yen-Lin Chen,1,ICCV,2013
+Hsiang-Tao Wu,1,ICCV,2013
+Fuhao Shi,1,ICCV,2013
+Xin Tong,1,ICCV,2013
+Jinxiang Chai,1,ICCV,2013
+Fatemeh Mirrashed,1,ICCV,2013
+Mohammad Rastegari,1,ICCV,2013
+Jia Xu,1,ICCV,2013
+Vamsi K. Ithapu,1,ICCV,2013
+Lopamudra Mukherjee,1,ICCV,2013
+Vikas Singh,1,ICCV,2013
+Ali Borji,1,ICCV,2013
+Hamed R. Tavakoli,1,ICCV,2013
+Dicky N. Sihite,1,ICCV,2013
+Laurent Itti,1,ICCV,2013
+Shaobing Gao,1,ICCV,2013
+Kaifu Yang,1,ICCV,2013
+Chaoyi Li,1,ICCV,2013
+Yongjie Li,1,ICCV,2013
+Behrooz Mahasseni,1,ICCV,2013
+Marcus Rohrbach,1,ICCV,2013
+Wei Qiu,1,ICCV,2013
+Ivan Titov,1,ICCV,2013
+Stefan Thater,1,ICCV,2013
+Manfred Pinkal,1,ICCV,2013
+Zhuoyuan Chen,1,ICCV,2013
+Netalee Efrat,1,ICCV,2013
+Daniel Glasner,1,ICCV,2013
+Alexander Apartsin,1,ICCV,2013
+Boaz Nadler,1,ICCV,2013
+Anat Levin,1,ICCV,2013
+Mohamed R. Amer,1,ICCV,2013
+Alan Fern,1,ICCV,2013
+Xingyu Zeng,1,ICCV,2013
+Chen Fang,1,ICCV,2013
+Ye Xu,1,ICCV,2013
+Daniel N. Rockmore,1,ICCV,2013
+Eran Swears,1,ICCV,2013
+Anthony Hoogs,1,ICCV,2013
+Kim Boyer,1,ICCV,2013
+Anestis Papazoglou,1,ICCV,2013
+Vittorio Ferrari,1,ICCV,2013
+Jayaguru Panda,1,ICCV,2013
+Xi Li,1,ICCV,2013
+Yao Li,1,ICCV,2013
+Anthony Dick,1,ICCV,2013
+Juan Liu,1,ICCV,2013
+Emmanouil Psarakis,1,ICCV,2013
+Ioannis Stamos,1,ICCV,2013
+S. Karthikeyan,1,ICCV,2013
+Vignesh Jagadeesh,1,ICCV,2013
+Renuka Shenoy,1,ICCV,2013
+Miguel Ecksteinz,1,ICCV,2013
+Bowen Jiang,1,ICCV,2013
+Chuan Yang,1,ICCV,2013
+Shiliang Zhang,1,ICCV,2013
+Matthijs Douze,1,ICCV,2013
+Suyog Dutt Jain,1,ICCV,2013
+Masakazu Iwamura,1,ICCV,2013
+Tomokazu Sato,1,ICCV,2013
+Koichi Kise,1,ICCV,2013
+Oren Barkan,1,ICCV,2013
+Jonathan Weill,1,ICCV,2013
+Lior Wolf,1,ICCV,2013
+Hagai Aronowitz,1,ICCV,2013
+Daozheng Chen,1,ICCV,2013
+Dhruv Batra,1,ICCV,2013
+Thomas Helten,1,ICCV,2013
+Meinard Muller,1,ICCV,2013
+Mojtaba Seyedhosseini,1,ICCV,2013
+Mehdi Sajjadi,1,ICCV,2013
+Tolga Tasdizen,1,ICCV,2013
+Tianzhu Zhang,1,ICCV,2013
+Bernard Ghanem,1,ICCV,2013
+Changsheng Xu,1,ICCV,2013
+Narendra Ahuja,1,ICCV,2013
+Viktoriia Sharmanska,1,ICCV,2013
+Novi Quadrianto,1,ICCV,2013
+Stephen Lombardi,1,ICCV,2013
+Ko Nishino,1,ICCV,2013
+Yasushi Makihara,1,ICCV,2013
+Yasushi Yagi,1,ICCV,2013
+Yingya Zhang,1,ICCV,2013
+Zhenan Sun,1,ICCV,2013
+Mei Han,1,ICCV,2013
+Chang Ma,1,ICCV,2013
+Zhongqian Dong,1,ICCV,2013
+Tingting Jiang,1,ICCV,2013
+Yizhou Wang,1,ICCV,2013
+Wen Gao,1,ICCV,2013
+Saad Ali,1,ICCV,2013
+Philippe Weinzaepfel,1,ICCV,2013
+Zaid Harchaoui,1,ICCV,2013
+Caglayan Dicle,1,ICCV,2013
+Octavia I. Camps,1,ICCV,2013
+Liangyue Li,1,ICCV,2013
+Guillaume Seguin,1,ICCV,2013
+Josef Sivic,1,ICCV,2013
+Ivan Laptev,1,ICCV,2013
+Fares Alnajar,1,ICCV,2013
+Roberto Valenti,1,ICCV,2013
+Sennay Ghebreab,1,ICCV,2013
+Srikumar Ramalingam,1,ICCV,2013
+Matthew Brand,1,ICCV,2013
+Sadeep Jayasumana,1,ICCV,2013
+Lukas Neumann,1,ICCV,2013
+Jiri Matas,1,ICCV,2013
+Renjie Liao,1,ICCV,2013
+Yu Li,1,ICCV,2013
+Emanuele Rodola,1,ICCV,2013
+Andrea Torsello,1,ICCV,2013
+Tatsuya Harada,1,ICCV,2013
+Yasuo Kuniyoshi,1,ICCV,2013
+Shahriar Shariat,1,ICCV,2013
+Vladimir Pavlovic,1,ICCV,2013
+Miao Zhang,1,ICCV,2013
+Chris Ding,1,ICCV,2013
+Minsu Cho,1,ICCV,2013
+Qiegen Liu,1,ICCV,2013
+Jianbo Liu,1,ICCV,2013
+Pei Dong,1,ICCV,2013
+Dong Liang,1,ICCV,2013
+Tobias Weyand,1,ICCV,2013
+Ruixuan Wang,1,ICCV,2013
+Emanuele Trucco,1,ICCV,2013
+Ying Fu,1,ICCV,2013
+Antony Lam,1,ICCV,2013
+Imari Sato,1,ICCV,2013
+Takahiro Okabe,1,ICCV,2013
+Yoichi Sato,1,ICCV,2013
+Yin Li,1,ICCV,2013
+Alireza Fathi,1,ICCV,2013
+E. Gavves,1,ICCV,2013
+B. Fernando,1,ICCV,2013
+C.G.M. Snoek,1,ICCV,2013
+A.W.M. Smeulders,1,ICCV,2013
+T. Tuytelaars,1,ICCV,2013
+Yuning Chai,1,ICCV,2013
+Victor Lempitsky,1,ICCV,2013
+Andrew Zisserman,1,ICCV,2013
+Siyu Tang,1,ICCV,2013
+Anton Milan,1,ICCV,2013
+Alexandra Gilinsky,1,ICCV,2013
+Lihi Zelnik Manor,1,ICCV,2013
+Shicheng Zheng,1,ICCV,2013
+Carl Vondrick,1,ICCV,2013
+Tomasz Malisiewicz,1,ICCV,2013
+Elisabeta Marinoiu,1,ICCV,2013
+Dragos Papava,1,ICCV,2013
+Victor Fragoso,1,ICCV,2013
+Pradeep Sen,1,ICCV,2013
+Sergio Rodriguez,1,ICCV,2013
+Matthew Turk,1,ICCV,2013
+Martin Schiegg,1,ICCV,2013
+Philipp Hanslovsky,1,ICCV,2013
+Bernhard X. Kausler,1,ICCV,2013
+Lars Hufnagel,1,ICCV,2013
+Jaesik Park,1,ICCV,2013
+Sudipta N. Sinha,1,ICCV,2013
+Yasuyuki Matsushita,1,ICCV,2013
+Mustafa Ayazoglu,1,ICCV,2013
+Burak Yilmaz,1,ICCV,2013
+Octavia Camps,1,ICCV,2013
+Andreas M. Lehrmann,1,ICCV,2013
+Peter V. Gehler,1,ICCV,2013
+Sebastian Nowozin,1,ICCV,2013
+Jason Chang,1,ICCV,2013
+John W. Fisher Iii,1,ICCV,2013
+Xiaohui Li,1,ICCV,2013
+Xiang Ruan,1,ICCV,2013
+Yong Jae Lee,1,ICCV,2013
+Alexei A. Efros,1,ICCV,2013
+Daniel M. Steinberg,1,ICCV,2013
+Oscar Pizarro,1,ICCV,2013
+Stefan B. Williams,1,ICCV,2013
+Hamed Kiani Galoogahi,1,ICCV,2013
+Terence Sim,1,ICCV,2013
+Bo Li,1,ICCV,2013
+Wenze Hu,1,ICCV,2013
+Ryan Tokola,1,ICCV,2013
+Wongun Choi,1,ICCV,2013
+Chen Sun,1,ICCV,2013
+Ram Nevatia,1,ICCV,2013
+Martin Kiechle,1,ICCV,2013
+Simon Hawe,1,ICCV,2013
+Martin Kleinsteuber,1,ICCV,2013
+Hueihan Jhuang,1,ICCV,2013
+Juergen Gall,1,ICCV,2013
+Jiaolong Yang,1,ICCV,2013
+Wei Zeng,1,ICCV,2013
+Mayank Goswami,1,ICCV,2013
+Feng Luo,1,ICCV,2013
+Jon Almazan,1,ICCV,2013
+Albert Gordo,1,ICCV,2013
+Alicia Fornes,1,ICCV,2013
+Ernest Valveny,1,ICCV,2013
+Srinath Sridhar,1,ICCV,2013
+Antti Oulasvirta,1,ICCV,2013
+Kyle Wilson,1,ICCV,2013
+Chao Wang,1,ICCV,2013
+Maxime Meilland,1,ICCV,2013
+Tom Drummond,1,ICCV,2013
+Andrew I. Comport,1,ICCV,2013
+Daisuke Iso,1,ICCV,2013
+Igor Gridchyn,1,ICCV,2013
+Pei-Hen Tsai,1,ICCV,2013
+Zhigang Ma,1,ICCV,2013
+Ankit Gandhi,1,ICCV,2013
+Chetan Arora,1,ICCV,2013
+Amir Globerson,1,ICCV,2013
+Zhongming Jin,1,ICCV,2013
+Yao Hu,1,ICCV,2013
+Yue Lin,1,ICCV,2013
+Debing Zhang,1,ICCV,2013
+Shiding Lin,1,ICCV,2013
+Deng Cai,1,ICCV,2013
+Xuelong Li,1,ICCV,2013
+Carlos Fernandez-Granda,1,ICCV,2013
+Emmanuel J. Candès,1,ICCV,2013
+Dan Xie,1,ICCV,2013
+Etienne Huot,1,ICCV,2013
+Giuseppe Papari,1,ICCV,2013
+Isabelle Herlin,1,ICCV,2013
+Olga Russakovsky,1,ICCV,2013
+Zhiheng Huang,1,ICCV,2013
+Nakamasa Inoue,1,ICCV,2013
+Koichi Shinoda,1,ICCV,2013
+Chenliang Xu,1,ICCV,2013
+Spencer Whitt,1,ICCV,2013
+Jason J. Corso,1,ICCV,2013
+Min Sun,1,ICCV,2013
+Wan Huang,1,ICCV,2013
+Cheng Li,1,ICCV,2013
+Kris M. Kitani,1,ICCV,2013
+Susanna Ricco,1,ICCV,2013
+Carlo Tomasi,1,ICCV,2013
+Thomas Kuo,1,ICCV,2013
+Santhoshkumar Sunderrajan,1,ICCV,2013
+Fabio Galasso,1,ICCV,2013
+Naveen Shankar Nagaraja,1,ICCV,2013
+Tatiana Jimenez Cardenas,1,ICCV,2013
+Hee Seok Lee,1,ICCV,2013
+Petter Strandmark,1,ICCV,2013
+Fredrik Kahl,1,ICCV,2013
+Leo Grady,1,ICCV,2013
+Jae-Hak Kim,1,ICCV,2013
+Yuchao Dai,1,ICCV,2013
+Xin Du,1,ICCV,2013
+Jonghyuk Kim,1,ICCV,2013
+Veronique Prinet,1,ICCV,2013
+Michael Werman,1,ICCV,2013
+M. Jose Antonio,1,ICCV,2013
+Luc De Raedt,1,ICCV,2013
+Michael Gygli,1,ICCV,2013
+Helmut Grabner,1,ICCV,2013
+Fabian Nater,1,ICCV,2013
+Jiang Wang,1,ICCV,2013
+Jean-Yves Bouguet,1,ICCV,2013
+Chenglong Bao,1,ICCV,2013
+Jian-Feng Cai,1,ICCV,2013
+Hui Ji,1,ICCV,2013
+Oliver Muller,1,ICCV,2013
+Michael Ying Yang,1,ICCV,2013
+Ross Girshick,1,ICCV,2013
+Jonathan Warrell,1,ICCV,2013
+Vibhav Vineet,1,ICCV,2013
+Fuxin Li,1,ICCV,2013
+Taeyoung Kim,1,ICCV,2013
+Ahmad Humayun,1,ICCV,2013
+David Tsai,1,ICCV,2013
+Ernesto Brau,1,ICCV,2013
+Jinyan Guan,1,ICCV,2013
+Kyle Simek,1,ICCV,2013
+Luca Del Pero,1,ICCV,2013
+Colin Reimer Dawson,1,ICCV,2013
+Kobus Barnard,1,ICCV,2013
+Reyes Rios-Cabrera,1,ICCV,2013
+Mihai Zanfir,1,ICCV,2013
+Liang-Chieh Chen,1,ICCV,2013
+George Papandreou,1,ICCV,2013
+Alan L. Yuille,1,ICCV,2013
+Ali Elqursh,1,ICCV,2013
+Evgeny Levinkov,1,ICCV,2013
+Mario Fritz,1,ICCV,2013
+Ling Wang,1,ICCV,2013
+Hichem Sahbi,1,ICCV,2013
+Leonid Pishchulin,1,ICCV,2013
+Peter Gehler,1,ICCV,2013
+Oisin Mac Aodha,1,ICCV,2013
+Gabriel J. Brostow,1,ICCV,2013
+Yaser Yacoob,1,ICCV,2013
+Abdallah El Chakik,1,ICCV,2013
+Abderrahim Elmoataz,1,ICCV,2013
+Ahcene Sadi,1,ICCV,2013
+Gerhard Schmitt,1,ICCV,2013
+Xiaochun Cao,1,ICCV,2013
+Hua Zhang,1,ICCV,2013
+Xiaojie Guo,1,ICCV,2013
+Renliang Weng,1,ICCV,2013
+Junlin Hu,1,ICCV,2013
+Gao Yang,1,ICCV,2013
+Yap-Peng Tan,1,ICCV,2013
+Xinxiao Wu,1,ICCV,2013
+Han Wang,1,ICCV,2013
+Cuiwei Liu,1,ICCV,2013
+Ashish Kapoor,1,ICCV,2013
+Kwang Moo Yi,1,ICCV,2013
+Hawook Jeong,1,ICCV,2013
+Byeongho Heo,1,ICCV,2013
+Hyung Jin Chang,1,ICCV,2013
+Jin Young Choi,1,ICCV,2013
+Anne Jordt-Sedlazeck,1,ICCV,2013
+Reinhard Koch,1,ICCV,2013
+Jakob Engel,1,ICCV,2013
+Jurgen Sturm,1,ICCV,2013
+Qiang Chen,1,ICCV,2013
+Zhongyang Huang,1,ICCV,2013
+Conrad Sanderson,1,ICCV,2013
+Danhang Tang,1,ICCV,2013
+Tsz-Ho Yu,1,ICCV,2013
+Chaochao Lu,1,ICCV,2013
+Michael W. Tao,1,ICCV,2013
+Sunil Hadap,1,ICCV,2013
+Ravi Ramamoorthi,1,ICCV,2013
+Choon-Meng Lee,1,ICCV,2013
+Yuru Pei,1,ICCV,2013
+Hongbin Zha,1,ICCV,2013
+Cheng Deng,1,ICCV,2013
+Rongrong Ji,1,ICCV,2013
+Xinbo Gao,1,ICCV,2013
+Jonathan T. Barron,1,ICCV,2013
+Mark D. Biggin,1,ICCV,2013
+Pablo Arbelaez,1,ICCV,2013
+David W. Knowles,1,ICCV,2013
+Soile V.E. Keranen,1,ICCV,2013
+Mingsheng Long,1,ICCV,2013
+Jianmin Wang,1,ICCV,2013
+Guiguang Ding,1,ICCV,2013
+Jiaguang Sun,1,ICCV,2013
+Philip S. Yu,1,ICCV,2013
+Claudia Nieuwenhuis,1,ICCV,2013
+Pierre Moulon,1,ICCV,2013
+Pascal Monasse,1,ICCV,2013
+Renaud Marlet,1,ICCV,2013
+Linjie Yang,1,ICCV,2013
+Vicente Ordonez,1,ICCV,2013
+Yejin Choi,1,ICCV,2013
+Kwang Hee Lee,1,ICCV,2013
+Sang Wook Lee,1,ICCV,2013
+Avishek Chatterjee,1,ICCV,2013
+Bernhard Zeisl,1,ICCV,2013
+Manjunath Narayana,1,ICCV,2013
+Allen Hanson,1,ICCV,2013
+Erik Learned-Miller,1,ICCV,2013
+Petri Tanskanen,1,ICCV,2013
+Kalin Kolev,1,ICCV,2013
+Lorenz Meier,1,ICCV,2013
+Federico Camposeco,1,ICCV,2013
+David Weiss,1,ICCV,2013
+Benjamin Sapp,1,ICCV,2013
+Ben Taskar,1,ICCV,2013
+Elizabeth Shtrom,1,ICCV,2013
+George Leifman,1,ICCV,2013
+Ayellet Tal,1,ICCV,2013
+Ramazan Gokberk Cinbis,1,ICCV,2013
+Taegyu Lim,1,ICCV,2013
+Joon Hee Han,1,ICCV,2013
+Kevin Matzen,1,ICCV,2013
+Feng Shi,1,ICCV,2013
+Zhong Zhou,1,ICCV,2013
+Jiangjian Xiao,1,ICCV,2013
+Wei Wu,1,ICCV,2013
+Sunil Bandla,1,ICCV,2013
+Sergio Guadarrama,1,ICCV,2013
+Niveda Krishnamoorthy,1,ICCV,2013
+Girish Malkarnenkar,1,ICCV,2013
+Subhashini Venugopalan,1,ICCV,2013
+Raymond Mooney,1,ICCV,2013
+Kate Saenko,1,ICCV,2013
+Hongteng Xu,1,ICCV,2013
+Hamdi Dibeklioglu,1,ICCV,2013
+Albert Ali Salah,1,ICCV,2013
+Yuqian Zhang,1,ICCV,2013
+Cun Mu,1,ICCV,2013
+Han-Wen Kuo,1,ICCV,2013
+Tomer Michaeli,1,ICCV,2013
+Guangnan Ye,1,ICCV,2013
+Dong Liu,1,ICCV,2013
+Peng Jiang,1,ICCV,2013
+Jingliang Peng,1,ICCV,2013
+Yinqiang Zheng,1,ICCV,2013
+Shigeki Sugimoto,1,ICCV,2013
+Masatoshi Okutomi,1,ICCV,2013
+Che-Han Chang,1,ICCV,2013
+Min-Chun Hu,1,ICCV,2013
+Wen-Huang Cheng,1,ICCV,2013
+Dihong Gong,1,ICCV,2013
+Zhifeng Li,1,ICCV,2013
+Qinxun Bai,1,ICCV,2013
+Zheng Wu,1,ICCV,2013
+Margrit Betke,1,ICCV,2013
+Camille Monnier,1,ICCV,2013
+Dingzeyu Li,1,ICCV,2013
+Chi-Keung Tang,1,ICCV,2013
+Daniel Wesierski,1,ICCV,2013
+Patrick Horain,1,ICCV,2013
+Marco San Biagio,1,ICCV,2013
+Marco Crocco,1,ICCV,2013
+Marco Cristani,1,ICCV,2013
+Samuele Martelli,1,ICCV,2013
+Vittorio Murino,1,ICCV,2013
+Inchang Choi,1,ICCV,2013
+Huiwen Chang,1,ICCV,2013
+Michael Maire,1,ICCV,2013
+Stella X. Yu,1,ICCV,2013
+Kim Steenstrup Pedersen,1,ICCV,2013
+Kristoffer Stensbo-Smidt,1,ICCV,2013
+Andrew Zirm,1,ICCV,2013
+Christian Igel,1,ICCV,2013
+Wonjun Hwang,1,ICCV,2013
+Kyungshik Roh,1,ICCV,2013
+Junmo Kim,1,ICCV,2013
+Andy X. Sun,1,ICCV,2013
+Yu-Gang Jiang,1,ICCV,2013
+Daniel Pizarro,1,ICCV,2013
+Toby Collins,1,ICCV,2013
+Bastien Jacquet,1,ICCV,2013
+Christian Hane,1,ICCV,2013
+Wufeng Xue,1,ICCV,2013
+Xuanqin Mou,1,ICCV,2013
+Matthias Reso,1,ICCV,2013
+Jorn Jachalsky,1,ICCV,2013
+Jorn Ostermann,1,ICCV,2013
+Sakrapee Paisitkriangkrai,1,ICCV,2013
+Xin Cheng,1,ICCV,2013
+Sridha Sridharan,1,ICCV,2013
+Jason Saragih,1,ICCV,2013
+Javier Marin,1,ICCV,2013
+David Vazquez,1,ICCV,2013
+Antonio M. Lopez,1,ICCV,2013
+Jaume Amores,1,ICCV,2013
+Ibrahim Radwan,1,ICCV,2013
+Abhinav Dhall,1,ICCV,2013
+Roland Goecke,1,ICCV,2013
+Dapeng Chen,1,ICCV,2013
+Zejian Yuan,1,ICCV,2013
+Yang Wu,1,ICCV,2013
+Geng Zhang,1,ICCV,2013
+Limin Wang,1,ICCV,2013
+Yu Qiao,1,ICCV,2013
+Vignesh Ramanathan,1,ICCV,2013
+Percy Liang,1,ICCV,2013
+Yuanlu Xu,1,ICCV,2013
+Xiaobai Liu,1,ICCV,2013
+Katherine L. Bouman,1,ICCV,2013
+Bei Xiao,1,ICCV,2013
+Peter Battaglia,1,ICCV,2013
+Zhenyu Guo,1,ICCV,2013
+Z. Jane Wang,1,ICCV,2013
+Tae-Hyun Oh,1,ICCV,2013
+Hyeongwoo Kim,1,ICCV,2013
+Jean-Charles Bazin,1,ICCV,2013
+Huiying Liu,1,ICCV,2013
+Dong Xu,1,ICCV,2013
+Qingming Huang,1,ICCV,2013
+Wen Li,1,ICCV,2013
+Min Xu,1,ICCV,2013
+Stephen Lin,1,ICCV,2013
+Guoqing Zhou,1,ICCV,2013
+Qing Wang,1,ICCV,2013
+Yen-Liang Lin,1,ICCV,2013
+Cheng-Yu Huang,1,ICCV,2013
+Hao-Jeng Wang,1,ICCV,2013
+Winston Hsu,1,ICCV,2013
+Shuran Song,1,ICCV,2013
+Yanchao Yang,1,ICCV,2013
+Ganesh Sundaramoorthi,1,ICCV,2013
+Taehwan Kim,1,ICCV,2013
+Greg Shakhnarovich,1,ICCV,2013
+Karen Livescu,1,ICCV,2013
+Naman Turakhia,1,ICCV,2013
+Wilma A. Bainbridge,1,ICCV,2013
+Aude Oliva,1,ICCV,2013
+Ivan Sipiran,1,ICCV,2013
+Benjamin Bustos,1,ICCV,2013
+Chih-Yuan Yang,1,ICCV,2013
+Jan Stuhmer,1,ICCV,2013
+Peter Schroder,1,ICCV,2013
+Lucy Vanderwende,1,ICCV,2013
+Xiaoyang Wang,1,ICCV,2013
+Andy J. Ma,1,ICCV,2013
+Pong C. Yuen,1,ICCV,2013
+Jiawei Li,1,ICCV,2013
+Meng Yang,1,ICCV,2013
+Jian Zhang,1,ICCV,2013
+Chen Kan,1,ICCV,2013
+Qiang Zhou,1,ICCV,2013
+Kui Jia,1,ICCV,2013
+Qi Zhao,1,ICCV,2013
+Nicolas Ballas,1,ICCV,2013
+Zhen-Zhong Lan,1,ICCV,2013
+Bertrand Delezoide,1,ICCV,2013
+Francoise Preteux,1,ICCV,2013
+Alexander Hauptmann,1,ICCV,2013
+Bryan Klingner,1,ICCV,2013
+David Martin,1,ICCV,2013
+James Roseborough,1,ICCV,2013
+Weixin Li,1,ICCV,2013
+Qian Yu,1,ICCV,2013
+Ajay Divakaran,1,ICCV,2013
+Xudong Cao,1,ICCV,2013
+David Wipf,1,ICCV,2013
+Genquan Duan,1,ICCV,2013
+Kuan-Chuan Peng,1,ICCV,2013
+Weiyu Zhang,1,ICCV,2013
+Menglong Zhu,1,ICCV,2013
+Konstantinos G. Derpanis,1,ICCV,2013
+Ameet Talwalkar,1,ICCV,2013
+Lester Mackey,1,ICCV,2013
+Yadong Mu,1,ICCV,2013
+Michael I. Jordan,1,ICCV,2013
+Zhenyang Li,1,ICCV,2013
+Efstratios Gavves,1,ICCV,2013
+Koen E.A. Van De Sande,1,ICCV,2013
+Cees G.M. Snoek,1,ICCV,2013
+Arnold W.M. Smeulders,1,ICCV,2013
+Masoud S. Nosrati,1,ICCV,2013
+Shawn Andrews,1,ICCV,2013
+Ghassan Hamarneh,1,ICCV,2013
+Trung Quy Phan,1,ICCV,2013
+Palaiahnakote Shivakumara,1,ICCV,2013
+Shangxuan Tian,1,ICCV,2013
+Chew Lim Tan,1,ICCV,2013
+Ricardo Cabral,1,ICCV,2013
+Joao P. Costeira,1,ICCV,2013
+Alexandre Bernardino,1,ICCV,2013
+Olaf Kahler,1,ICCV,2013
+Chi Xu,1,ICCV,2013
+Li Cheng,1,ICCV,2013
+Lixin Fan,1,ICCV,2013
+Ira Kemelmacher-Shlizerman,1,ICCV,2013
+Kwang In Kim,1,ICCV,2013
+James Tompkin,1,ICCV,2013
+Tian Lan,1,ICCV,2013
+Michalis Raptis,1,ICCV,2013
+Leonid Sigal,1,ICCV,2013
+Yi-Lei Chen,1,ICCV,2013
+Chiou-Ting Hsu,1,ICCV,2013
+Qian Xie,1,ICCV,2013
+Sebastian Kurtek,1,ICCV,2013
+Huiling Le,1,ICCV,2013
+Anuj Srivastava,1,ICCV,2013
+Jungseock Joo,1,ICCV,2013
+Shuo Wang,1,ICCV,2013
+Zhiyuan Shi,1,ICCV,2013
+Timothy M. Hospedales,1,ICCV,2013
+Tatiana Tommasi,1,ICCV,2013
+Barbara Caputo,1,ICCV,2013
+Joao F. Henriques,1,ICCV,2013
+Joao Carreira,1,ICCV,2013
+Rui Caseiro,1,ICCV,2013
+Jorge Batista,1,ICCV,2013
+Qiong Yan,1,ICCV,2013
+Xiaoyong Shen,1,ICCV,2013
+Shaojie Zhuo,1,ICCV,2013
+Xiaopeng Zhang,1,ICCV,2013
+Liang Shen,1,ICCV,2013
+Carl Yuheng Ren,1,ICCV,2013
+Victor Prisacariu,1,ICCV,2013
+David Murray,1,ICCV,2013
+Engin Turetken,1,ICCV,2013
+Carlos Becker,1,ICCV,2013
+Przemyslaw Glowacki,1,ICCV,2013
+Fethallah Benmansour,1,ICCV,2013
+Pascal Fua,1,ICCV,2013
+Lazaros Zafeiriou,1,ICCV,2013
+Mihalis A. Nicolaou,1,ICCV,2013
+Symeon Nikitidis,1,ICCV,2013
+Abdelaziz Djelouah,1,ICCV,2013
+Jean-Sebastien Franco,1,ICCV,2013
+Edmond Boyer,1,ICCV,2013
+Francois Le Clerc,1,ICCV,2013
+Patrick Perez,1,ICCV,2013
+Mithun Das Gupta,1,ICCV,2013
+Sanjeev Kumar,1,ICCV,2013
+Guosheng Lin,1,ICCV,2013
+David Suter,1,ICCV,2013
+Byeongjoo Ahn,1,ICCV,2013
+Kota Yamaguchi,1,ICCV,2013
+M. Hadi Kiapour,1,ICCV,2013
+Zhenyao Zhu,1,ICCV,2013
+Hyun Soo Park,1,ICCV,2013
+Eakta Jain,1,ICCV,2013
+Yaser Sheikh,1,ICCV,2013
+Diego Thomas,1,ICCV,2013
+Akihiro Sugimoto,1,ICCV,2013
+Michael Weinmann,1,ICCV,2013
+Aljosa Osep,1,ICCV,2013
+Roland Ruiters,1,ICCV,2013
+Reinhard Klein,1,ICCV,2013
+Feng Zhou,1,ICCV,2013
+Tali Dekel (Basha),1,ICCV,2013
+Yael Moses,1,ICCV,2013
+Javier Romero,1,ICCV,2013
+Dan Oneata,1,ICCV,2013
+Hans Lobel,1,ICCV,2013
+Alvaro Soto,1,ICCV,2013
+Nicolas Riche,1,ICCV,2013
+Matthieu Duvinage,1,ICCV,2013
+Matei Mancas,1,ICCV,2013
+Bernard Gosselin,1,ICCV,2013
+Thierry Dutoit,1,ICCV,2013
+Bo Wang,1,ICCV,2013
+John K. Tsotsos,1,ICCV,2013
+Alon Faktor,1,ICCV,2013
+Xiangfei Kong,1,ICCV,2013
+Kuan Li,1,ICCV,2013
+Qingxiong Yang,1,ICCV,2013
+Liu Wenyin,1,ICCV,2013
+Yizhe Zhang,1,ICCV,2013
+Edward K. Wong,1,ICCV,2013
+Weilin Huang,1,ICCV,2013
+Jue Wang,1,ICCV,2013
+Donghyeon Cho,1,ICCV,2013
+Minhaeng Lee,1,ICCV,2013
+Quanshi Zhang,1,ICCV,2013
+Xuan Song,1,ICCV,2013
+Xiaowei Shao,1,ICCV,2013
+Huijing Zhao,1,ICCV,2013
+Ryosuke Shibasaki,1,ICCV,2013
+Heng Wang,1,ICCV,2013
+Yun Zeng,1,ICCV,2013
+Chaohui Wang,1,ICCV,2013
+Dimitris Samaras,1,ICCV,2013
+Yan Xia,1,ICCV,2013
+Pengfei Zhu,1,ICCV,2013
+Jingjing Zheng,1,ICCV,2013
+Zhuolin Jiang,1,ICCV,2013
+Zhan Yu,1,ICCV,2013
+Xinqing Guo,1,ICCV,2013
+Haibing Lin,1,ICCV,2013
+Andrew Lumsdaine,1,ICCV,2013
+Tal Hassner,1,ICCV,2013
+Salil Tambe,1,ICCV,2013
+Ashok Veeraraghavan,1,ICCV,2013
+Cewu Lu,1,ICCV,2013
+Qian-Yi Zhou,1,ICCV,2013
+Stephen Miller,1,ICCV,2013
+William Freeman,1,ICCV,2013
+Christoph Vogel,1,ICCV,2013
+Amir Sadovnik,1,ICCV,2013
+Andrew Gallagher,1,ICCV,2013
+De-An Huang,1,ICCV,2013
+Yu-Chiang Frank Wang,1,ICCV,2013
+Lingxi Xie,1,ICCV,2013
+Richang Hong,1,ICCV,2013
+Bo Zhang,1,ICCV,2013
+Andrei Zanfir,1,ICCV,2013
+Benjamin Ummenhofer,1,ICCV,2013
+Alexander Fix,1,ICCV,2013
+Thorsten Joachims,1,ICCV,2013
+Sung Min Park,1,ICCV,2013
+Ramin Zabih,1,ICCV,2013
+Yu-Tseh Chi,1,ICCV,2013
+Mohsen Ali,1,ICCV,2013
+Muhammad Rushdi,1,ICCV,2013
+Vishal M. Patel,1,ICCV,2013
+Hien Van Nguyen,1,ICCV,2013
+Giorgos Tolias,1,ICCV,2013
+Rui Zhao,1,ICCV,2013
+Shugao Ma,1,ICCV,2013
+Nazli Ikizler-Cinbis,1,ICCV,2013
+Jim Braux-Zin,1,ICCV,2013
+Romain Dupont,1,ICCV,2013
+Jing Wang,1,ICCV,2013
+Gang Zeng,1,ICCV,2013
+Rui Gan,1,ICCV,2013
+Shipeng Li,1,ICCV,2013
+Baining Guo,1,ICCV,2013
+Sarah Parisot,1,ICCV,2013
+William Wells Iii,1,ICCV,2013
+Stephane Chemouny,1,ICCV,2013
+Hugues Duffau,1,ICCV,2013
+Jiyan Pan,1,ICCV,2013
+Takeo Kanade,1,ICCV,2013
+Amaury Habrard,1,ICCV,2013
+Marc Sebban,1,ICCV,2013
+Zhengxiang Wang,1,ICCV,2013
+Rujie Liu,1,ICCV,2013
+Yifan Zhang,1,ICCV,2013
+Hanqing Lu,1,ICCV,2013
+Suha Kwak,1,ICCV,2013
+Jinwei Ye,1,ICCV,2013
+Yu Ji,1,ICCV,2013
+Jan Lellmann,1,ICCV,2013
+Sabrina Koetter,1,ICCV,2013
+Ziheng Wang,1,ICCV,2013
+Yongqiang Li,1,ICCV,2013
+Shangfei Wang,1,ICCV,2013
+Chunxiao Liu,1,ICCV,2013
+Guijin Wang,1,ICCV,2013
+Shi Qiu,1,ICCV,2013
+Kaoning Hu,1,ICCV,2013
+Lijun Yin,1,ICCV,2013
+Lilian Calvet,1,ICCV,2013
+Pierre Gurdjos,1,ICCV,2013
+Hongyi Zhang,1,ICCV,2013
+Andreas Geiger,1,ICCV,2013
+Alessandro Bissacco,1,ICCV,2013
+Mark Cummins,1,ICCV,2013
+Yuval Netzer,1,ICCV,2013
+Hartmut Neven,1,ICCV,2013
+Ruiqi Guo,1,ICCV,2013
+Derek Hoiem,1,ICCV,2013
+Samuel Schulter,1,ICCV,2013
+Christian Leistner,1,ICCV,2013
+Chen-Kuo Chiang,1,ICCV,2013
+Te-Feng Su,1,ICCV,2013
+Chih Yen,1,ICCV,2013
+Shang-Hong Lai,1,ICCV,2013
+Qiong Cao,1,ICCV,2013
+Yiming Ying,1,ICCV,2013
+Peng Li,1,ICCV,2013
+Gaofeng Meng,1,ICCV,2013
+Ying Wang,1,ICCV,2013
+Jiangyong Duan,1,ICCV,2013
+Shiming Xiang,1,ICCV,2013
+Chunhong Pan,1,ICCV,2013
+Xavier P. Burgos-Artizzu,1,ICCV,2013
+Pietro Perona,1,ICCV,2013
+P. Bojanowski,1,ICCV,2013
+F. Bach,1,ICCV,2013
+I. Laptev,1,ICCV,2013
+J. Ponce,1,ICCV,2013
+C. Schmid,1,ICCV,2013
+J. Sivic,1,ICCV,2013
+Yoav Hacohen,1,ICCV,2013
+Eli Shechtman,1,ICCV,2013
+K.C. Amit Kumar,1,ICCV,2013
+Christophe De Vleeschouwer,1,ICCV,2013
+Shenghuo Zhu,1,ICCV,2013
+Lukas Bossard,1,ICCV,2013
+Markus Mathias,1,ICCV,2013
+Rodrigo Benenson,1,ICCV,2013
+Bing Su,1,ICCV,2013
+Xiaoqing Ding,1,ICCV,2013
+Kaiye Wang,1,ICCV,2013
+Liang Wang,1,ICCV,2013
+Qi Yin,1,ICCV,2013
+Haoxiang Li,1,ICCV,2013
+Jiangbo Lu,1,ICCV,2013
+Ehsan Elhamifar,1,ICCV,2013
+Guillermo Sapiro,1,ICCV,2013
+Allen Yang,1,ICCV,2013
+S. Shankar Sasrty,1,ICCV,2013
+Yichang Shih,1,ICCV,2013
+Vivek Kwatra,1,ICCV,2013
+Troy Chinen,1,ICCV,2013
+Hui Fang,1,ICCV,2013
+Sergey Ioffe,1,ICCV,2013

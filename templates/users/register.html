@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+<!-- Title -->
+{% block title %}Lilac Register{% endblock %}
+
+<!-- Optional CSS -->
+{% block stylesheet %}
+    <link rel="stylesheet" href="{% static 'css/inputinfo.css' %}">
+{% endblock %}
+
+<!-- Content -->
+{% block content %}
+    <div>
+        <form class="box" action="/user/register" method="POST">
+            <!-- Message -->
+            {% if message %}
+            <div class="alert alert-warning">{{ message }}</div>
+            {% endif %}
+    
+            <!-- Register Form -->
+            {% csrf_token %}
+            <h1 style="font-family: cursive">Register</h1>
+            <br>
+            {{ register_form.username }}
+            {{ register_form.password1 }}
+            {{ register_form.password2 }}
+            {{ register_form.email }}
+            <input type="submit" name="submit" value="Register" style="font-family: cursive">
+            <br>
+            <p style="font-family: cursive; color: white">
+                If you already have an account, <a href="/user/login" style="color: #2ecc71">login</a> instead.
+            </p>
+        </form>
+    </div>
+{% endblock %}

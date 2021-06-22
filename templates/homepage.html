@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+<!-- Title -->
+{% block title %}Lilac Homepage{% endblock %}
+
+<!-- Optional CSS -->
+{% block stylesheet %}
+    <link rel="stylesheet" href="{% static 'css/homepage.css' %}">
+{% endblock %}
+
+<!-- Navigation Bar -->
+{% block navbar %}
+    {% include "includes/navbar.html" %}
+{% endblock %}
+
+<!-- Content -->
+{% block content %}
+
+    <div id="title" class="slide header">
+        <h1>Hello,&nbsp;{{ request.session.user_name }}</h1>
+        <h1>Welcome&nbsp;to&nbsp;LILAC</h1>
+    </div>
+
+    <div id="slide1" class="slide">
+        <div class="title">
+            <h1><i class="fa fa-institution"></i>&nbsp;Library</h1>
+            <br>
+            <p>
+                Collect nearly 10,000 papers from CVPR, ICCV and WACV conferences,
+                and include functions such as classification, fuzzy query,
+                one-click download , bookmark, etc. Just enjoy it!
+            </p>
+        </div>
+    </div>
+
+    <div id="slide2" class="slide">
+        <div class="title">
+            <h1><i class="fa fa-bar-chart"></i>&nbsp;Statistics</h1>
+            <br>
+            <p>
+                Use different data statistical methods to generate multi-dimensional
+                analysis of the CV papers. There are dynamic statistical graphs and
+                word cloud graphs for your reference.
+            </p>
+        </div>
+    </div>
+
+    <div id="slide3" class="slide">
+        <div class="title">
+            <h1><i class="fa fa-bookmark"></i>&nbsp;Collection</h1>
+            <br>
+            <p>
+                Keep looking,<br>
+                and never settle.<br>
+                Add bookmark,<br>
+                and always remember to finish reading.
+            </p>
+        </div>
+    </div>
+
+    <div id="slide4" class="slide header">
+        <img src="/static/images/logo-white.png" height="110" width="auto">
+        <h5><br>Copyright © 2021 Lilac Inc. All rights reserved.</h5>
+    </div>
+
+{% endblock %}

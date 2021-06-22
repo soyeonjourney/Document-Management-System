@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+<!-- Title -->
+{% block title %}Lilac Word Cloud{% endblock %}
+
+<!-- Optional CSS -->
+{% block stylesheet %}
+    <link rel="stylesheet" href="{% static 'css/statistics.css' %}">
+    <link rel="stylesheet" href="{% static 'css/wordcloud.css' %}">
+{% endblock %}
+
+<!-- Navigation Bar -->
+{% block navbar %}
+    {% include "includes/navbar.html" %}
+    {% include "includes/sidebar-statistics.html" %}
+{% endblock %}
+
+<!-- Content -->
+{% block content %}
+
+<div id="content">
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <button type="button" id="sidebarCollapse" class="btn btn-info">
+                <i class="fa fa-align-left"></i><span>&nbsp;Zoom Grid Gallery</span>
+            </button>
+        </div>
+    </nav>
+
+    <div class="row-card">
+        <div class="column-card">
+            <div class="content-card">
+                <img src="/static/images/wordcloud/WordCloud-2013.png" alt="wordcloud-2013" style="width:100%">
+                <h4><br>WordCloud-2013</h4>
+                <p>@K.W.: Tracking, Robust</p>
+            </div>
+        </div>
+        <div class="column-card">
+            <div class="content-card">
+                <img src="/static/images/wordcloud/WordCloud-2014.png" alt="wordcloud-2014" style="width:100%">
+                <h4><br>WordCloud-2014</h4>
+                <p>@K.W.: Tracking, Recognition</p>
+            </div>
+        </div>
+        <div class="column-card">
+            <div class="content-card">
+                <img src="/static/images/wordcloud/WordCloud-2015.png" alt="wordcloud-2015" style="width:100%">
+                <h4><br>WordCloud-2015</h4>
+                <p>@K.W.: Estimation</p>
+            </div>
+        </div>
+        <div class="column-card">
+            <div class="content-card">
+                <img src="/static/images/wordcloud/WordCloud-2016.png" alt="wordcloud-2016" style="width:100%">
+                <h4><br>WordCloud-2016</h4>
+                <p>@K.W.: Recognition, Scene</p>
+            </div>
+        </div>
+        <div class="column-card">
+            <div class="content-card">
+                <img src="/static/images/wordcloud/WordCloud-2017.png" alt="wordcloud-2017" style="width:100%">
+                <h4><br>WordCloud-2017</h4>
+                <p>@K.W.: Semantic, Recognition</p>
+            </div>
+        </div>
+        <div class="column-card">
+            <div class="content-card">
+                <img src="/static/images/wordcloud/WordCloud-2018.png" alt="wordcloud-2018" style="width:100%">
+                <h4><br>WordCloud-2018</h4>
+                <p>@K.W.: Semantic, Face, Neural</p>
+            </div>
+        </div>
+        <div class="column-card">
+            <div class="content-card">
+                <img src="/static/images/wordcloud/WordCloud-2019.png" alt="wordcloud-2019" style="width:100%">
+                <h4><br>WordCloud-2019</h4>
+                <p>@K.W.: Semantic, Attention, Neural</p>
+            </div>
+        </div>
+        <div class="column-card">
+            <div class="content-card">
+                <img src="/static/images/wordcloud/WordCloud-2020.png" alt="wordcloud-2020" style="width:100%">
+                <h4><br>WordCloud-2020</h4>
+                <p>@K.W.: Semantic, Neural, Representation</p>
+            </div>
+        </div>
+        <div class="column-card">
+            <div class="content-card">
+                <img src="/static/images/wordcloud/WordCloud-2021.png" alt="wordcloud-2021" style="width:100%">
+                <h4><br>WordCloud-2021</h4>
+                <p>@K.W.: Attention, Recognition, Shot</p>
+            </div>
+        </div>
+    </div>
+
+    <div><br></div>
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,129 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+<!-- Title -->
+{% block title %}Lilac Collection{% endblock %}
+
+<!-- Optional CSS -->
+{% block stylesheet %}
+    <link rel="stylesheet" href="{% static 'css/collection.css' %}">
+{% endblock %}
+
+<!-- Navigation Bar -->
+{% block navbar %}
+    {% include "includes/navbar.html" %}
+{% endblock %}
+
+<!-- Content -->
+{% block content %}
+
+    <a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+
+    <div id="content">
+        <table class="table" width="80%" height="auto">
+            <thead>
+                <tr>
+                    <td class="text-center">Mark Date</td>
+                    <td class="text-center">Title</td>
+                    <td class="text-center">Author</td>
+                    <td class="text-center">Conference</td>
+                    <td class="text-center">Year</td>
+                    <td class="text-center">Abstract</td>
+                    <td class="text-center">Download</td>
+                    <td class="text-center">Delete</td>
+                </tr>
+            </thead>
+            <tbody>
+                {% for collection in collections %}
+                    <tr>
+                        <td class="text-center">{{ collection.collection_time }}</td>
+                        <td>{{ collection.paper.title }}</td>
+                        <td>{{ collection.paper.author }}</td>
+                        <td class="text-center">{{ collection.paper.conference }}</td>
+                        <td class="text-center">{{ collection.paper.year }}</td>
+                        <td class="text-center">
+                            <a href="" data-toggle="modal" data-target="#ModalCenter{{ paper.id }}">
+                                <i class="fa fa-info-circle"></i>
+                            </a>
+                        </td>
+                        <td class="text-center">
+                            <a href="{{ collection.paper.download_link }}">
+                                <i class="fa fa-cloud-download"></i>
+                            </a>
+                        </td>
+                        <td class="text-center">
+                            <a href="/collection/delete-paper-id={{ collection.paper.id }}/return={{ request.path }}">
+                                <i class="fa fa-trash"></i>
+                            </a>
+                        </td>
+                        <div class="modal fade" id="ModalCenter{{ paper.id }}" tabindex="-1" role="dialog" aria-labelledby="myModalCenterTitle"
+                            aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLongTitle">Abstract</h5>
+                                    </div>
+                                    <div class="modal-body">
+                                        {{ collection.paper.abstract }}
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                            <i class="fa fa-reply"></i>
+                                        </button>
+                                        <button type="button" class="btn btn-info">
+                                            <a href="{{ paper.download_link }}"><i class="fa fa-download"></i></a>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </tr>
+                {% empty %}
+                    <tr>
+                        <td colspan="8" class="text-center">
+                            <a href="/library/allcvs"></a>
+                                No collection yet. Tap to get some in the Library.
+                            </a>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+            <thead>
+                <tr>
+                    <td class="text-center">Mark Date</td>
+                    <td class="text-center">Title</td>
+                    <td class="text-center">Author</td>
+                    <td class="text-center">Conference</td>
+                    <td class="text-center">Year</td>
+                    <td class="text-center">Abstract</td>
+                    <td class="text-center">Download</td>
+                    <td class="text-center">Delete</td>
+                </tr>
+            </thead>
+        </table>
+
+        <div><br></div>
+
+    </div>
+
+{% endblock %}
+
+<!-- Optional JavaScript -->
+{% block javascripts %}
+    <!-- Scroll to the top -->
+    <script>
+        $(window).scroll(function () {
+            if ($(this).scrollTop() >= 50) {         // If page is scrolled more than 50px
+                $('#return-to-top').fadeIn(200);
+            } else {
+                $('#return-to-top').fadeOut(200);
+            }
+        });
+        $('#return-to-top').click(function () {      // When arrow is clicked
+            $('body,html').animate({
+                scrollTop: 0                         // Scroll to top of body
+            }, 500);
+        });
+    </script>
+{% endblock %}

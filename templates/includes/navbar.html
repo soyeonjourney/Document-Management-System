@@ -1,0 +1,30 @@
+{% load static %}
+<!-- Top navigation -->
+<div class="topnav">
+
+    <!-- Centered link -->
+    <div class="topnav-centered">
+        <a href="/home">
+            <img src="/static/images/logo-white.png" class="logo-responsive" height="50vh" width="auto" alt="logo">
+        </a>
+    </div>
+
+    <!-- Left-aligned links (default) -->
+    <div class="topnav-left">
+        <a href="/library/allcvs"><i class="fa fa-institution"></i>&nbsp;Library</a>
+        <a href="/stats/author-ranking/cvpr/2020"><i class="fa fa-bar-chart"></i>&nbsp;Statistics</a>
+    </div>
+
+    <!-- Right-aligned links -->
+    <div class="topnav-right">
+        <a href="/collection/my-collection"><i class="fa fa-bookmark"></i>&nbsp;Collection</a>
+        {% if request.session.is_login %}
+            <a href="/user/logout">
+                <i class="fa fa-user"></i>&nbsp;{{ request.session.user_name }}
+            </a>
+        {% else %}
+            <a href="/user/login"><i class="fa fa-user-plus"></i>&nbsp;Login</a>
+        {% endif %}
+    </div>
+
+</div>

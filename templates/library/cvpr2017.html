@@ -1,0 +1,207 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+<!-- Title -->
+{% block title %}Lilac CVPR 2017{% endblock %}
+
+<!-- Optional CSS -->
+{% block stylesheet %}
+    <link rel="stylesheet" href="{% static 'css/library.css' %}">
+{% endblock %}
+
+<!-- Navigation Bar -->
+{% block navbar %}
+    {% include "includes/navbar.html" %}
+    {% include "includes/sidebar-library.html" %}
+{% endblock %}
+
+<!-- Content -->
+{% block content %}
+
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+
+<div id="content">
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+
+            <button type="button" id="sidebarCollapse" class="btn btn-info">
+                <i class="fa fa-align-left"></i><span>&nbsp;Toggle Library</span>
+            </button>
+            <form action="2017" method="POST">
+                <!-- Search Form -->
+                {% csrf_token %}
+                <select name="search_by">
+                    <option value="all">Search All</option>
+                    <option value="title">By Title</option>
+                    <option value="author">By Author</option>
+                </select>
+                <input type="text" name="search" placeholder="Just Type In & Press Enter">
+            </form>
+        </div>
+    </nav>
+
+    <table class="table" width="80%">
+        <thead>
+            <tr>
+                <th scope="col" class="text-center">Title</th>
+                <th scope="col" class="text-center">Author</th>
+                <th scope="col" class="text-center">Abstract</th>
+                <th scope="col" class="text-center">Download</th>
+                <th scope="col" class="text-center">Bookmark</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for paper in papers %}
+            <tr>
+                <td>{{ paper.title }}</td>
+                <td>{{ paper.author }}</td>
+                <td class="text-center">
+                    <a href="" data-toggle="modal" data-target="#ModalCenter{{ paper.id }}">
+                        <i class="fa fa-info-circle"></i>
+                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="{{ paper.download_link }}">
+                        <i class="fa fa-cloud-download"></i>
+                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="/collection/add-paper-id={{ paper.id }}/return={{ request.path }}">
+                        <i class="fa fa-heart"></i>
+                    </a>
+                </td>
+                <div class="modal fade" id="ModalCenter{{ paper.id }}" tabindex="-1" role="dialog"
+                    aria-labelledby="myModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLongTitle">Abstract</h5>
+                            </div>
+                            <div class="modal-body">
+                                {{ paper.abstract }}
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                                    <i class="fa fa-reply"></i>
+                                </button>
+                                <button type="button" class="btn btn-info">
+                                    <a href="{{ paper.download_link }}"><i class="fa fa-download"></i></a>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </tr>
+            {% empty %}
+            <tr>
+                <td colspan="5" class="text-center">
+                    <a href="/library/search-retry/return={{ request.path }}">
+                        Sorry, no results found. Tap to retry.
+                    </a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        <thead>
+            <tr>
+                <th scope="col" class="text-center">Title</th>
+                <th scope="col" class="text-center">Author</th>
+                <th scope="col" class="text-center">Abstract</th>
+                <th scope="col" class="text-center">Download</th>
+                <th scope="col" class="text-center">Bookmark</th>
+            </tr>
+        </thead>
+    </table>
+
+    <div><br></div>
+
+    <!--Pagination-->
+    <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-center">
+            {% if papers.has_previous %}
+            <li class="page-item">
+                <a class="page-link" href="/library/cvpr/2017"><i class="fa fa-fast-backward"></i></a>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href="/library/cvpr/2017?page={{ papers.previous_page_number }}"><i
+                        class="fa fa-backward"></i></a>
+            </li>
+            {% else %}
+            <li class="page-item disabled">
+                <a class="page-link" href="/library/cvpr/2017"><i class="fa fa-fast-backward"></i></a>
+            </li>
+            <li class="page-item disabled">
+                <a class="page-link" href="#" tabindex="-1" aria-disabled="true"><i class="fa fa-backward"></i></a>
+            </li>
+            {% endif %}
+
+            {% if papers.number|add:'-4' > 1 %}
+            <li class="page-item"><a class="page-link"
+                    href="/library/cvpr/2017?page={{ papers.number|add:'-5' }}">&hellip;</a></li>
+            {% endif %}
+
+            {% for i in papers.paginator.page_range %}
+            {% if papers.number == i %}
+            <li class="page-item active" aria-current="page">
+                <span class="page-link">
+                    {{ i }}
+                    <span class="sr-only">(current)</span>
+                </span>
+            </li>
+            {% elif i > papers.number|add:'-5' and i < papers.number|add:'5' %} <li class="page-item"><a
+                    class="page-link" href="?page={{ i }}">{{ i }}</a></li>
+                {% endif %}
+                {% endfor %}
+
+                {% if papers.paginator.num_pages > papers.number|add:'4' %}
+                <li class="page-item"><a class="page-link"
+                        href="/library/cvpr/2017?page={{ papers.number|add:'5' }}">&hellip;</a></li>
+                {% endif %}
+
+                {% if papers.has_next %}
+                <li class="page-item">
+                    <a class="page-link" href="/library/cvpr/2017?page={{ papers.next_page_number }}"><i
+                            class="fa fa-forward"></i></a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="/library/cvpr/2017?page={{ last_page }}"><i
+                            class="fa fa-fast-forward"></i></a>
+                </li>
+                {% else %}
+                <li class="page-item disabled">
+                    <a class="page-link" href="#" tabindex="-1" aria-disabled="true"><i class="fa fa-forward"></i></a>
+                </li>
+                <li class="page-item disabled">
+                    <a class="page-link" href="/library/cvpr/2017?page={{ last_page }}"><i
+                            class="fa fa-fast-forward"></i></a>
+                </li>
+                {% endif %}
+        </ul>
+    </nav>
+
+    <div><br></div>
+
+</div>
+
+{% endblock %}
+
+<!-- Optional JavaScript -->
+{% block javascripts %}
+<!-- Scroll to the top -->
+<script>
+    $(window).scroll(function () {
+        if ($(this).scrollTop() >= 50) {         // If page is scrolled more than 50px
+            $('#return-to-top').fadeIn(200);
+        } else {
+            $('#return-to-top').fadeOut(200);
+        }
+    });
+    $('#return-to-top').click(function () {      // When arrow is clicked
+        $('body,html').animate({
+            scrollTop: 0                         // Scroll to top of body
+        }, 500);
+    });
+</script>
+{% endblock %}

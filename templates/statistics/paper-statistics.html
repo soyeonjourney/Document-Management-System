@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+<!-- Title -->
+{% block title %}Lilac Paper Statistics{% endblock %}
+
+<!-- Optional CSS -->
+{% block stylesheet %}
+    <link rel="stylesheet" href="{% static 'css/statistics.css' %}">
+{% endblock %}
+
+<!-- Navigation Bar -->
+{% block navbar %}
+    {% include "includes/navbar.html" %}
+    {% include "includes/sidebar-statistics.html" %}
+{% endblock %}
+
+<!-- Content -->
+{% block content %}
+
+<div id="content">
+
+    {{ echart|safe }}
+
+</div>
+
+{% endblock %}
+
+<!-- Optional JavaScript -->
+{% block javascripts %}
+    <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+{% endblock %}

@@ -1,0 +1,1534 @@
+author,count,conference,year
+Jitendra Malik,7,ICCV,2015
+Shuicheng Yan,7,ICCV,2015
+Xiaogang Wang,7,ICCV,2015
+Sanja Fidler,6,ICCV,2015
+Cordelia Schmid,6,ICCV,2015
+Pascal Fua,6,ICCV,2015
+Tinne Tuytelaars,6,ICCV,2015
+Jiaya Jia,6,ICCV,2015
+Xiaoou Tang,6,ICCV,2015
+Marc Pollefeys,6,ICCV,2015
+Thomas Brox,6,ICCV,2015
+Raquel Urtasun,5,ICCV,2015
+Daniel Cremers,5,ICCV,2015
+Torsten Sattler,5,ICCV,2015
+Abhinav Gupta,5,ICCV,2015
+Jiwen Lu,5,ICCV,2015
+Mathieu Salzmann,5,ICCV,2015
+Alan L. Yuille,5,ICCV,2015
+Ping Luo,5,ICCV,2015
+Trevor Darrell,5,ICCV,2015
+Andrew Fitzgibbon,5,ICCV,2015
+Qi Tian,4,ICCV,2015
+Michael S. Brown,4,ICCV,2015
+Lei Zhang,4,ICCV,2015
+Deyu Meng,4,ICCV,2015
+Vincent Lepetit,4,ICCV,2015
+Yuri Boykov,4,ICCV,2015
+Vikas Singh,4,ICCV,2015
+Enrique Dunn,4,ICCV,2015
+Jan-Michael Frahm,4,ICCV,2015
+In So Kweon,4,ICCV,2015
+Martial Hebert,4,ICCV,2015
+Svetlana Lazebnik,4,ICCV,2015
+Chang Huang,4,ICCV,2015
+Xiaohui Shen,4,ICCV,2015
+Li Fei-Fei,4,ICCV,2015
+Jian Sun,4,ICCV,2015
+Deva Ramanan,4,ICCV,2015
+Kate Saenko,4,ICCV,2015
+Alexei A. Efros,4,ICCV,2015
+Shiguang Shan,4,ICCV,2015
+Xilin Chen,4,ICCV,2015
+Ivan Laptev,4,ICCV,2015
+Marcus Rohrbach,3,ICCV,2015
+Mario Fritz,3,ICCV,2015
+Joao Carreira,3,ICCV,2015
+Song-Chun Zhu,3,ICCV,2015
+Stan Z. Li,3,ICCV,2015
+Jingdong Wang,3,ICCV,2015
+Weiyao Lin,3,ICCV,2015
+Yong Rui,3,ICCV,2015
+Xiaowu Chen,3,ICCV,2015
+Nuno Vasconcelos,3,ICCV,2015
+Qian Zhao,3,ICCV,2015
+Brian Price,3,ICCV,2015
+Antony Lam,3,ICCV,2015
+Xin Li,3,ICCV,2015
+Siwei Lyu,3,ICCV,2015
+Nassir Navab,3,ICCV,2015
+Sathya N. Ravi,3,ICCV,2015
+Enliang Zheng,3,ICCV,2015
+Bernard Ghanem,3,ICCV,2015
+Konrad Schindler,3,ICCV,2015
+Jean Ponce,3,ICCV,2015
+Carsten Rother,3,ICCV,2015
+Liang Wang,3,ICCV,2015
+Zhe Lin,3,ICCV,2015
+Si Liu,3,ICCV,2015
+Rob Fergus,3,ICCV,2015
+Ross Girshick,3,ICCV,2015
+Ming-Hsuan Yang,3,ICCV,2015
+Kevin P. Murphy,3,ICCV,2015
+Yizhou Yu,3,ICCV,2015
+Chen-Change Loy,3,ICCV,2015
+Fernando De La Torre,3,ICCV,2015
+Luc Van Gool,3,ICCV,2015
+James M. Rehg,3,ICCV,2015
+Nicu Sebe,3,ICCV,2015
+Philipp Krahenbuhl,3,ICCV,2015
+Yi Yang,3,ICCV,2015
+Jamie Shotton,3,ICCV,2015
+Wanli Ouyang,3,ICCV,2015
+Cewu Lu,3,ICCV,2015
+Shu Liu,3,ICCV,2015
+Long Quan,3,ICCV,2015
+Efstratios Gavves,3,ICCV,2015
+Tao Xiang,3,ICCV,2015
+Shaogang Gong,3,ICCV,2015
+Tamara L. Berg,3,ICCV,2015
+Lin Ma,3,ICCV,2015
+Jie Zhou,3,ICCV,2015
+Ravi Ramamoorthi,3,ICCV,2015
+Larry S. Davis,3,ICCV,2015
+Silvio Savarese,3,ICCV,2015
+Ali Farhadi,2,ICCV,2015
+Ruslan Salakhutdinov,2,ICCV,2015
+Antonio Torralba,2,ICCV,2015
+Tao Mei,2,ICCV,2015
+Shubham Tulsiani,2,ICCV,2015
+Yan Huang,2,ICCV,2015
+Hui Ji,2,ICCV,2015
+Zaid Harchaoui,2,ICCV,2015
+Florent Perronin,2,ICCV,2015
+Francesc Moreno-Noguer,2,ICCV,2015
+Marco Pedersoli,2,ICCV,2015
+Yanhua Cheng,2,ICCV,2015
+Rui Cai,2,ICCV,2015
+Chi Zhang,2,ICCV,2015
+Zhiwei Li,2,ICCV,2015
+Kaiqi Huang,2,ICCV,2015
+Mohammed Bennamoun,2,ICCV,2015
+Minh N. Do,2,ICCV,2015
+Eli Shechtman,2,ICCV,2015
+Junchi Yan,2,ICCV,2015
+Hongteng Xu,2,ICCV,2015
+Hongyuan Zha,2,ICCV,2015
+Xiaokang Yang,2,ICCV,2015
+Yu Li,2,ICCV,2015
+Dongqing Zou,2,ICCV,2015
+Wangmeng Zuo,2,ICCV,2015
+Xiangchu Feng,2,ICCV,2015
+Stephen Lin,2,ICCV,2015
+Qi Xie,2,ICCV,2015
+Yao Wang,2,ICCV,2015
+Zongben Xu,2,ICCV,2015
+Scott Cohen,2,ICCV,2015
+Ying Fu,2,ICCV,2015
+Imari Sato,2,ICCV,2015
+Yoichi Sato,2,ICCV,2015
+Longquan Dai,2,ICCV,2015
+Feihu Zhang,2,ICCV,2015
+Xiaopeng Zhang,2,ICCV,2015
+Shiming Xiang,2,ICCV,2015
+Jianchao Yang,2,ICCV,2015
+Thomas Huang,2,ICCV,2015
+Dmitrii Marin,2,ICCV,2015
+Nikos Komodakis,2,ICCV,2015
+Jean-Charles Bazin,2,ICCV,2015
+Weisheng Dong,2,ICCV,2015
+Guangming Shi,2,ICCV,2015
+Ching L. Teo,2,ICCV,2015
+Cornelia Fermuller,2,ICCV,2015
+Yiannis Aloimonos,2,ICCV,2015
+Fatih Porikli,2,ICCV,2015
+Lorenzo Torresani,2,ICCV,2015
+Matthias Ruther,2,ICCV,2015
+Horst Bischof,2,ICCV,2015
+Renjie Liao,2,ICCV,2015
+Nanning Zheng,2,ICCV,2015
+Gustavo Carneiro,2,ICCV,2015
+Sterling C. Johnson,2,ICCV,2015
+Calvin Murdock,2,ICCV,2015
+Nathan Jacobs,2,ICCV,2015
+Federico Tombari,2,ICCV,2015
+Sai-Kit Yeung,2,ICCV,2015
+Christian Theobalt,2,ICCV,2015
+Simon Hadfield,2,ICCV,2015
+Richard Bowden,2,ICCV,2015
+Hyowon Ha,2,ICCV,2015
+Kyungdon Joo,2,ICCV,2015
+Hae-Gon Jeon,2,ICCV,2015
+Yaser Sheikh,2,ICCV,2015
+Iain Matthews,2,ICCV,2015
+Jean-Yves Guillemaut,2,ICCV,2015
+Adrian Hilton,2,ICCV,2015
+Menglong Zhu,2,ICCV,2015
+Xiaowei Zhou,2,ICCV,2015
+Kostas Daniilidis,2,ICCV,2015
+Subhransu Maji,2,ICCV,2015
+Yinan Yu,2,ICCV,2015
+David Kriegman,2,ICCV,2015
+Serge Belongie,2,ICCV,2015
+Radomir Mech,2,ICCV,2015
+Xiaodan Liang,2,ICCV,2015
+Luoqi Liu,2,ICCV,2015
+Liang Lin,2,ICCV,2015
+Kevin Tang,2,ICCV,2015
+Manohar Paluri,2,ICCV,2015
+Lubomir Bourdev,2,ICCV,2015
+Jia Deng,2,ICCV,2015
+Kaiming He,2,ICCV,2015
+Stan Sclaroff,2,ICCV,2015
+Rogerio S. Feris,2,ICCV,2015
+Georgia Gkioxari,2,ICCV,2015
+Aditya Khosla,2,ICCV,2015
+Chunhong Pan,2,ICCV,2015
+Shengjin Wang,2,ICCV,2015
+Jiri Matas,2,ICCV,2015
+Xiangbo Shu,2,ICCV,2015
+Lars Petersson,2,ICCV,2015
+George Papandreou,2,ICCV,2015
+Baoyuan Wang,2,ICCV,2015
+Bernt Schiele,2,ICCV,2015
+Steven M. Seitz,2,ICCV,2015
+Ziwei Liu,2,ICCV,2015
+Jinhui Tang,2,ICCV,2015
+Kristen Grauman,2,ICCV,2015
+Samuel Rota Bulo,2,ICCV,2015
+Gang Hua,2,ICCV,2015
+Bohyung Han,2,ICCV,2015
+Ismail Ben Ayed,2,ICCV,2015
+Fuxin Li,2,ICCV,2015
+William A. P. Smith,2,ICCV,2015
+Shenlong Wang,2,ICCV,2015
+Margret Keuper,2,ICCV,2015
+M. Pawan Kumar,2,ICCV,2015
+Junmo Kim,2,ICCV,2015
+Meirav Galun,2,ICCV,2015
+Ronen Basri,2,ICCV,2015
+Vamsi K. Ithapu,2,ICCV,2015
+Nagesh Adluru,2,ICCV,2015
+Dhruv Batra,2,ICCV,2015
+James S. Supancic Iii,2,ICCV,2015
+Gregory Rogez,2,ICCV,2015
+Wei Liu,2,ICCV,2015
+Yue Wu,2,ICCV,2015
+C. V. Jawahar,2,ICCV,2015
+Judy Hoffman,2,ICCV,2015
+Mubarak Shah,2,ICCV,2015
+Chi-Keung Tang,2,ICCV,2015
+Shiwei Li,2,ICCV,2015
+Tian Fang,2,ICCV,2015
+Daniel Kondermann,2,ICCV,2015
+Andrea Cohen,2,ICCV,2015
+John W. Fisher Iii,2,ICCV,2015
+Andreas Geiger,2,ICCV,2015
+Ian Reid,2,ICCV,2015
+Alberto Crivellaro,2,ICCV,2015
+Michael J. Black,2,ICCV,2015
+Valsamis Ntouskos,2,ICCV,2015
+Marta Sanzari,2,ICCV,2015
+Fabrizio Natola,2,ICCV,2015
+Fiora Pirri,2,ICCV,2015
+Narendra Ahuja,2,ICCV,2015
+Shohei Nobuhara,2,ICCV,2015
+Wei Zhang,2,ICCV,2015
+Basura Fernando,2,ICCV,2015
+C. Lawrence Zitnick,2,ICCV,2015
+Devi Parikh,2,ICCV,2015
+Yan Yan,2,ICCV,2015
+Alexander C. Berg,2,ICCV,2015
+Juan C. Caicedo,2,ICCV,2015
+Jiang Wang,2,ICCV,2015
+Jianping Shi,2,ICCV,2015
+David Eigen,2,ICCV,2015
+Joon-Young Lee,2,ICCV,2015
+Hao Su,2,ICCV,2015
+Fan Wang,2,ICCV,2015
+Leonidas J. Guibas,2,ICCV,2015
+Thomas Mensink,2,ICCV,2015
+Cees G. M. Snoek,2,ICCV,2015
+Felix X. Yu,2,ICCV,2015
+Sanjiv Kumar,2,ICCV,2015
+Shi-Fu Chang,2,ICCV,2015
+Baba C. Vemuri,2,ICCV,2015
+Sebastian Nowozin,2,ICCV,2015
+Cristian Sminchisescu,2,ICCV,2015
+Yannis Panagakis,2,ICCV,2015
+Stefanos Zafeiriou,2,ICCV,2015
+Qinfeng Shi,2,ICCV,2015
+Dit-Yan Yeung,2,ICCV,2015
+Wen-Sheng Chu,2,ICCV,2015
+Jiabei Zeng,2,ICCV,2015
+Jeffrey F. Cohn,2,ICCV,2015
+Dimitris Samaras,2,ICCV,2015
+Ashutosh Saxena,2,ICCV,2015
+Oliver Wang,2,ICCV,2015
+Alexander Sorkine-Hornung,2,ICCV,2015
+Alexandre Alahi,2,ICCV,2015
+Danhang Tang,2,ICCV,2015
+Tae-Kyun Kim,2,ICCV,2015
+Wei Yang,2,ICCV,2015
+Boxin Shi,2,ICCV,2015
+Ramesh Raskar,2,ICCV,2015
+Haiting Lin,2,ICCV,2015
+Sing Bing Kang,2,ICCV,2015
+Jingyi Yu,2,ICCV,2015
+Shree K. Nayar,2,ICCV,2015
+Qiang Ji,2,ICCV,2015
+Shengcai Liao,2,ICCV,2015
+Xiang Li,2,ICCV,2015
+Wei-Shi Zheng,2,ICCV,2015
+Brais Martinez,2,ICCV,2015
+Michel Valstar,2,ICCV,2015
+Maja Pantic,2,ICCV,2015
+Meina Kan,2,ICCV,2015
+Shaoting Zhang,2,ICCV,2015
+Ziming Zhang,2,ICCV,2015
+Venkatesh Saligrama,2,ICCV,2015
+Dinghuang Ji,2,ICCV,2015
+Greg Mori,2,ICCV,2015
+Arridhana Ciptadi,2,ICCV,2015
+Mateusz Malinowski,1,ICCV,2015
+Hamid Izadinia,1,ICCV,2015
+Fereshteh Sadeghi,1,ICCV,2015
+Santosh K. Divvala,1,ICCV,2015
+Hannaneh Hajishirzi,1,ICCV,2015
+Yejin Choi,1,ICCV,2015
+Yukun Zhu,1,ICCV,2015
+Ryan Kiros,1,ICCV,2015
+Rich Zemel,1,ICCV,2015
+Ting Yao,1,ICCV,2015
+Chong-Wah Ngo,1,ICCV,2015
+Pulkit Agrawal,1,ICCV,2015
+Haoyu Ren,1,ICCV,2015
+Ze-Nian Li,1,ICCV,2015
+Quanshi Zhang,1,ICCV,2015
+Ying Nian Wu,1,ICCV,2015
+Yuhui Quan,1,ICCV,2015
+Bin Yang,1,ICCV,2015
+Junjie Yan,1,ICCV,2015
+Zhen Lei,1,ICCV,2015
+Mattis Paulin,1,ICCV,2015
+Matthijs Douze,1,ICCV,2015
+Julien Mairal,1,ICCV,2015
+Lingxi Xie,1,ICCV,2015
+Bo Zhang,1,ICCV,2015
+Kamil Adamczewski,1,ICCV,2015
+Yumin Suh,1,ICCV,2015
+Kyoung Mu Lee,1,ICCV,2015
+Edgar Simo-Serra,1,ICCV,2015
+Eduard Trulls,1,ICCV,2015
+Luis Ferraz,1,ICCV,2015
+Iasonas Kokkinos,1,ICCV,2015
+Abhishek Kar,1,ICCV,2015
+Xin Zhao,1,ICCV,2015
+Chao Sui,1,ICCV,2015
+Roberto Togneri,1,ICCV,2015
+Flora Ponjou Tasse,1,ICCV,2015
+Jiri Kosinka,1,ICCV,2015
+Neil Dodgson,1,ICCV,2015
+Shida Beigpour,1,ICCV,2015
+Andreas Kolb,1,ICCV,2015
+Sven Kunz,1,ICCV,2015
+Siying Liu,1,ICCV,2015
+Tian-Tsong Ng,1,ICCV,2015
+Kalyan Sunkavalli,1,ICCV,2015
+Nathan Carr,1,ICCV,2015
+Jia Li,1,ICCV,2015
+Changqun Xia,1,ICCV,2015
+Yafei Song,1,ICCV,2015
+Shu Fang,1,ICCV,2015
+Huanxi Liu,1,ICCV,2015
+Stephen Chu,1,ICCV,2015
+Rang M. H. Nguyen,1,ICCV,2015
+Peng Jiang,1,ICCV,2015
+Jingliang Peng,1,ICCV,2015
+Robby T. Tan,1,ICCV,2015
+Jianwei Li,1,ICCV,2015
+Bo Gao,1,ICCV,2015
+Wei Teng,1,ICCV,2015
+Jun Xu,1,ICCV,2015
+David Zhang,1,ICCV,2015
+Jingwei Huang,1,ICCV,2015
+Huarong Chen,1,ICCV,2015
+Bin Wang,1,ICCV,2015
+Xun Huang,1,ICCV,2015
+Chengyao Shen,1,ICCV,2015
+Xavier Boix,1,ICCV,2015
+Qi Zhao,1,ICCV,2015
+Xu Kong,1,ICCV,2015
+Wenfei Cao,1,ICCV,2015
+Shengfeng He,1,ICCV,2015
+Rynson W.H. Lau,1,ICCV,2015
+Michael Moeller,1,ICCV,2015
+Julia Diebold,1,ICCV,2015
+Guy Gilboa,1,ICCV,2015
+Dongliang Cheng,1,ICCV,2015
+Hyeokhyen Kwon,1,ICCV,2015
+Yu-Wing Tai,1,ICCV,2015
+Amos Sironi,1,ICCV,2015
+Jordi Salvador,1,ICCV,2015
+Eduardo Perez-Pellitero,1,ICCV,2015
+Graham D. Finlayson,1,ICCV,2015
+Alex E. Hayes,1,ICCV,2015
+Mengke Yuan,1,ICCV,2015
+Zhaowen Wang,1,ICCV,2015
+Ding Liu,1,ICCV,2015
+Wei Han,1,ICCV,2015
+Jonathan T. Barron,1,ICCV,2015
+Daniel Zoran,1,ICCV,2015
+Phillip Isola,1,ICCV,2015
+Dilip Krishnan,1,ICCV,2015
+William T. Freeman,1,ICCV,2015
+Yuchen Zhong,1,ICCV,2015
+Maria Drangova,1,ICCV,2015
+Wenbin Zou,1,ICCV,2015
+Zezhou Cheng,1,ICCV,2015
+Qingxiong Yang,1,ICCV,2015
+Bin Sheng,1,ICCV,2015
+Levent Karacan,1,ICCV,2015
+Aykut Erdem,1,ICCV,2015
+Erkut Erdem,1,ICCV,2015
+Pierre-Yves Laffont,1,ICCV,2015
+Guangyu Li,1,ICCV,2015
+Yi Ma,1,ICCV,2015
+Yongbo Li,1,ICCV,2015
+Xuemei Xie,1,ICCV,2015
+Xing Mei,1,ICCV,2015
+Honggang Qi,1,ICCV,2015
+Bao-Gang Hu,1,ICCV,2015
+Wei-Chen Chiu,1,ICCV,2015
+Guangyong Chen,1,ICCV,2015
+Fengyuan Zhu,1,ICCV,2015
+Pheng Ann Heng,1,ICCV,2015
+Francisco Barranco,1,ICCV,2015
+Saeed Anwar,1,ICCV,2015
+Cong Phuoc Huynh,1,ICCV,2015
+Gedas Bertasius,1,ICCV,2015
+Jianbo Shi,1,ICCV,2015
+David Ferstl,1,ICCV,2015
+Gernot Riegler,1,ICCV,2015
+Samuel Schulter,1,ICCV,2015
+Xin Tao,1,ICCV,2015
+Ruiyu Li,1,ICCV,2015
+Ziyang Ma,1,ICCV,2015
+Yiyong Jiang,1,ICCV,2015
+Xinghao Ding,1,ICCV,2015
+Delu Zeng,1,ICCV,2015
+Yue Huang,1,ICCV,2015
+John Paisley,1,ICCV,2015
+Xiaolin Wu,1,ICCV,2015
+Zhenhao Li,1,ICCV,2015
+Xiaowei Deng,1,ICCV,2015
+Abhijith Punnappurath,1,ICCV,2015
+Vijay Rengarajan,1,ICCV,2015
+A.N. Rajagopalan,1,ICCV,2015
+Aditya Deshpande,1,ICCV,2015
+Jason Rock,1,ICCV,2015
+David Forsyth,1,ICCV,2015
+Chao Dong,1,ICCV,2015
+Yubin Deng,1,ICCV,2015
+Chen Change Loy,1,ICCV,2015
+Takahiro Hasegawa,1,ICCV,2015
+Mitsuru Ambai,1,ICCV,2015
+Kohta Ishikawa,1,ICCV,2015
+Gou Koutaki,1,ICCV,2015
+Yuji Yamauchi,1,ICCV,2015
+Takayoshi Yamashita,1,ICCV,2015
+Hironobu Fujiyoshi,1,ICCV,2015
+Dingwen Zhang,1,ICCV,2015
+Chao Li,1,ICCV,2015
+Lu Jiang,1,ICCV,2015
+Junwei Han,1,ICCV,2015
+Fei Chen,1,ICCV,2015
+Huimin Yu,1,ICCV,2015
+Michael Hirsch,1,ICCV,2015
+Bernhard Scholkopf,1,ICCV,2015
+Yuanliu Liu,1,ICCV,2015
+Zejian Yuan,1,ICCV,2015
+Badong Chen,1,ICCV,2015
+Jianru Xue,1,ICCV,2015
+Raviteja Vemulapalli,1,ICCV,2015
+Hien Van Nguyen,1,ICCV,2015
+Shaohua Kevin Zhou,1,ICCV,2015
+Lin Gu,1,ICCV,2015
+Li Cheng,1,ICCV,2015
+Tingying Peng,1,ICCV,2015
+Christine Bayer,1,ICCV,2015
+Toufiq Parag,1,ICCV,2015
+Dan C. Ciresan,1,ICCV,2015
+Alessandro Giusti,1,ICCV,2015
+Won Hwa Kim,1,ICCV,2015
+Ozioma C. Okonkwo,1,ICCV,2015
+Steven Diamond,1,ICCV,2015
+Stephen Boyd,1,ICCV,2015
+Robert Pless,1,ICCV,2015
+David Joseph Tan,1,ICCV,2015
+Slobodan Ilic,1,ICCV,2015
+Juan Jose Tarrio,1,ICCV,2015
+Sol Pedre,1,ICCV,2015
+Lap-Fai Yu,1,ICCV,2015
+Noah Duncan,1,ICCV,2015
+Ole Johannsen,1,ICCV,2015
+Antonin Sulc,1,ICCV,2015
+Bastian Goldluecke,1,ICCV,2015
+Dimitrios Tzionas,1,ICCV,2015
+Juergen Gall,1,ICCV,2015
+Ke Wang,1,ICCV,2015
+Jonathan Ventura,1,ICCV,2015
+Clemens Arth,1,ICCV,2015
+Antonio Agudo,1,ICCV,2015
+Helge Rhodin,1,ICCV,2015
+Nadia Robertini,1,ICCV,2015
+Christian Richardt,1,ICCV,2015
+Hans-Peter Seidel,1,ICCV,2015
+Jeremie Papon,1,ICCV,2015
+Markus Schoeler,1,ICCV,2015
+Simon Donne,1,ICCV,2015
+Bart Goossens,1,ICCV,2015
+Wilfried Philips,1,ICCV,2015
+Chris Sweeney,1,ICCV,2015
+Tobias Hollerer,1,ICCV,2015
+Matthew Turk,1,ICCV,2015
+Mohammed Hachama,1,ICCV,2015
+Peter Wonka,1,ICCV,2015
+Peiyi Li,1,ICCV,2015
+Haibin Ling,1,ICCV,2015
+Xi Li,1,ICCV,2015
+Chunyuan Liao,1,ICCV,2015
+Yunsu Bok,1,ICCV,2015
+Jiyoung Jung,1,ICCV,2015
+Sunghoon Im,1,ICCV,2015
+Gyeongmin Choe,1,ICCV,2015
+Paulo F. U. Gotardo,1,ICCV,2015
+Tomas Simon,1,ICCV,2015
+Ching-Hui Chen,1,ICCV,2015
+Hui Zhou,1,ICCV,2015
+Timo Ahonen,1,ICCV,2015
+Zhaopeng Cui,1,ICCV,2015
+Ping Tan,1,ICCV,2015
+Silvano Galliani,1,ICCV,2015
+Katrin Lasinger,1,ICCV,2015
+Philipp Heise,1,ICCV,2015
+Brian Jensen,1,ICCV,2015
+Sebastian Klose,1,ICCV,2015
+Alois Knoll,1,ICCV,2015
+Shaifali Parashar,1,ICCV,2015
+Daniel Pizarro,1,ICCV,2015
+Adrien Bartoli,1,ICCV,2015
+Toby Collins,1,ICCV,2015
+Armin Mustafa,1,ICCV,2015
+Hansung Kim,1,ICCV,2015
+Matthew Trager,1,ICCV,2015
+Rui Yu,1,ICCV,2015
+Chris Russell,1,ICCV,2015
+Neill D. F. Campbell,1,ICCV,2015
+Lourdes Agapito,1,ICCV,2015
+Arun Mallya,1,ICCV,2015
+Hang Su,1,ICCV,2015
+Evangelos Kalogerakis,1,ICCV,2015
+Erik Learned-Miller,1,ICCV,2015
+Alexander Krull,1,ICCV,2015
+Eric Brachmann,1,ICCV,2015
+Frank Michel,1,ICCV,2015
+Michael Ying Yang,1,ICCV,2015
+Stefan Gumhold,1,ICCV,2015
+Matea Donlic,1,ICCV,2015
+Tomislav Petkovic,1,ICCV,2015
+Tomislav Pribanic,1,ICCV,2015
+Zhuoyuan Chen,1,ICCV,2015
+Xun Sun,1,ICCV,2015
+Michael Wilber,1,ICCV,2015
+Iljung S. Kwak,1,ICCV,2015
+Xin Lu,1,ICCV,2015
+James Z. Wang,1,ICCV,2015
+Yunchao Wei,1,ICCV,2015
+Yu-Wei Chao,1,ICCV,2015
+Zhan Wang,1,ICCV,2015
+Yugeng He,1,ICCV,2015
+Jiaxuan Wang,1,ICCV,2015
+Xiangyu Zhang,1,ICCV,2015
+Shaoqing Ren,1,ICCV,2015
+Michele Fenzi,1,ICCV,2015
+Laura Leal-Taixe,1,ICCV,2015
+Jorn Ostermann,1,ICCV,2015
+Fatih Cakir,1,ICCV,2015
+David F. Fouhey,1,ICCV,2015
+Wajahat Hussain,1,ICCV,2015
+Junshi Huang,1,ICCV,2015
+Qiang Chen,1,ICCV,2015
+Nikita Prabhu,1,ICCV,2015
+R. Venkatesh Babu,1,ICCV,2015
+Rachit Dubey,1,ICCV,2015
+Joshua Peterson,1,ICCV,2015
+Kun Ding,1,ICCV,2015
+Chunlei Huo,1,ICCV,2015
+Bin Fan,1,ICCV,2015
+Xianglong Liu,1,ICCV,2015
+Lei Huang,1,ICCV,2015
+Cheng Deng,1,ICCV,2015
+Bo Lang,1,ICCV,2015
+Liang Zheng,1,ICCV,2015
+Liyue Shen,1,ICCV,2015
+Lu Tian,1,ICCV,2015
+Anran Wang,1,ICCV,2015
+Jianfei Cai,1,ICCV,2015
+Tat-Jen Cham,1,ICCV,2015
+Spyros Gidaris,1,ICCV,2015
+Marcel Simon,1,ICCV,2015
+Erik Rodner,1,ICCV,2015
+David Novotny,1,ICCV,2015
+Nan Ding,1,ICCV,2015
+Hartmut Neven,1,ICCV,2015
+Hyo Jin Kim,1,ICCV,2015
+Guo-Sen Xie,1,ICCV,2015
+Xu-Yao Zhang,1,ICCV,2015
+Cheng-Lin Liu,1,ICCV,2015
+Sarah Taghavi Namin,1,ICCV,2015
+Mohammad Najafi,1,ICCV,2015
+Alex Wong,1,ICCV,2015
+Michal Busta,1,ICCV,2015
+Lukas Neumann,1,ICCV,2015
+Songfan Yang,1,ICCV,2015
+Xinggang Wang,1,ICCV,2015
+Zhuotun Zhu,1,ICCV,2015
+Cong Yao,1,ICCV,2015
+Xiang Bai,1,ICCV,2015
+Austin Meyers,1,ICCV,2015
+Nick Johnston,1,ICCV,2015
+Vivek Rathod,1,ICCV,2015
+Anoop Korattikara,1,ICCV,2015
+Alex Gorban,1,ICCV,2015
+Nathan Silberman,1,ICCV,2015
+Sergio Guadarrama,1,ICCV,2015
+Jonathan Huang,1,ICCV,2015
+Albert Gordo,1,ICCV,2015
+Jon Almazan,1,ICCV,2015
+Naila Murray,1,ICCV,2015
+Borislav Antic,1,ICCV,2015
+Bjorn Ommer,1,ICCV,2015
+Wei Feng,1,ICCV,2015
+Fei-Peng Tian,1,ICCV,2015
+Qian Zhang,1,ICCV,2015
+Nan Zhang,1,ICCV,2015
+Liang Wan,1,ICCV,2015
+Jizhou Sun,1,ICCV,2015
+Artem Babenko,1,ICCV,2015
+Victor Lempitsky,1,ICCV,2015
+Xingchao Peng,1,ICCV,2015
+Baochen Sun,1,ICCV,2015
+Karim Ali,1,ICCV,2015
+Ruobing Wu,1,ICCV,2015
+Wenping Wang,1,ICCV,2015
+Gaurav Sharma,1,ICCV,2015
+Jorge Garcia,1,ICCV,2015
+Niki Martinel,1,ICCV,2015
+Christian Micheloni,1,ICCV,2015
+Alfredo Gardel,1,ICCV,2015
+Nima Sedaghat,1,ICCV,2015
+Satoshi Ikehata,1,ICCV,2015
+Hang Yang,1,ICCV,2015
+Yasutaka Furukawa,1,ICCV,2015
+Ricardo Martin-Brualla,1,ICCV,2015
+David Gallup,1,ICCV,2015
+Benjamin Ummenhofer,1,ICCV,2015
+Sagi Katz,1,ICCV,2015
+Ayellet Tal,1,ICCV,2015
+Niloufar Pourian,1,ICCV,2015
+S. Karthikeyan,1,ICCV,2015
+B.S. Manjunath,1,ICCV,2015
+Chaowei Fang,1,ICCV,2015
+Zicheng Liao,1,ICCV,2015
+Xiaoxiao Li,1,ICCV,2015
+Chunyan Xu,1,ICCV,2015
+Saining Xie,1,ICCV,2015
+Zhuowen Tu,1,ICCV,2015
+Jianming Zhang,1,ICCV,2015
+Dinesh Jayaraman,1,ICCV,2015
+Carl Doersch,1,ICCV,2015
+Xinlei Chen,1,ICCV,2015
+Tsung-Yu Lin,1,ICCV,2015
+Aruni Roychowdhury,1,ICCV,2015
+Fanyi Xiao,1,ICCV,2015
+Yong Jae Lee,1,ICCV,2015
+Peter Kontschieder,1,ICCV,2015
+Madalina Fiterau,1,ICCV,2015
+Antonio Criminisi,1,ICCV,2015
+Zichao Yang,1,ICCV,2015
+Marcin Moczulski,1,ICCV,2015
+Misha Denil,1,ICCV,2015
+Nando De Freitas,1,ICCV,2015
+Alex Smola,1,ICCV,2015
+Le Song,1,ICCV,2015
+Ziyu Wang,1,ICCV,2015
+Xiangyong Cao,1,ICCV,2015
+Yang Chen,1,ICCV,2015
+Dong Wang,1,ICCV,2015
+Yannis Avrithis,1,ICCV,2015
+Yannis Kalantidis,1,ICCV,2015
+Evangelos Anagnostopoulos,1,ICCV,2015
+Ioannis Z. Emiris,1,ICCV,2015
+Yan Xia,1,ICCV,2015
+Xudong Cao,1,ICCV,2015
+Fang Wen,1,ICCV,2015
+Hyeonwoo Noh,1,ICCV,2015
+Seunghoon Hong,1,ICCV,2015
+Shuai Zheng,1,ICCV,2015
+Sadeep Jayasumana,1,ICCV,2015
+Bernardino Romera-Paredes,1,ICCV,2015
+Vibhav Vineet,1,ICCV,2015
+Zhizhong Su,1,ICCV,2015
+Dalong Du,1,ICCV,2015
+Philip H. S. Torr,1,ICCV,2015
+Mikael Nilsson,1,ICCV,2015
+Jordi Pont-Tuset,1,ICCV,2015
+Meng Tang,1,ICCV,2015
+Guangying Cao,1,ICCV,2015
+Peng Wang,1,ICCV,2015
+Changqing Zhang,1,ICCV,2015
+Huazhu Fu,1,ICCV,2015
+Guangcan Liu,1,ICCV,2015
+Xiaochun Cao,1,ICCV,2015
+Jiangping Wang,1,ICCV,2015
+Kai Ma,1,ICCV,2015
+Vivek Kumar Singh,1,ICCV,2015
+Terrence Chen,1,ICCV,2015
+Ahmad Humayun,1,ICCV,2015
+Yuanqi Su,1,ICCV,2015
+Yuehu Liu,1,ICCV,2015
+Bonan Cuan,1,ICCV,2015
+Xiang Fu,1,ICCV,2015
+Chien-Yi Wang,1,ICCV,2015
+Chen Chen,1,ICCV,2015
+Changhu Wang,1,ICCV,2015
+C.-C. Jay Kuo,1,ICCV,2015
+Ekaterina Lobacheva,1,ICCV,2015
+Olga Veksler,1,ICCV,2015
+Jifeng Dai,1,ICCV,2015
+Mihai Marian Puscas,1,ICCV,2015
+Enver Sangineto,1,ICCV,2015
+Dubravko Culibrk,1,ICCV,2015
+Mete Ozay,1,ICCV,2015
+Umit Rusen Aktas,1,ICCV,2015
+Jeremy L. Wyatt,1,ICCV,2015
+Ales Leonardis,1,ICCV,2015
+Chao Zhang,1,ICCV,2015
+Behrend Heeren,1,ICCV,2015
+Martin Rumpf,1,ICCV,2015
+Tom Lee,1,ICCV,2015
+Sven Dickinson,1,ICCV,2015
+Gellert Mattyus,1,ICCV,2015
+Julia Kruger,1,ICCV,2015
+Jan Ehrhardt,1,ICCV,2015
+Heinz Handels,1,ICCV,2015
+Hyojin Kim,1,ICCV,2015
+Jayaraman Jayaraman J. Thiagarajan,1,ICCV,2015
+Peer-Timo Bremer,1,ICCV,2015
+Selene E. Chew,1,ICCV,2015
+Nathan D. Cahill,1,ICCV,2015
+Ran Ju,1,ICCV,2015
+Tongwei Ren,1,ICCV,2015
+Gangshan Wu,1,ICCV,2015
+Zhuo Deng,1,ICCV,2015
+Sinisa Todorovic,1,ICCV,2015
+Longin Jan Latecki,1,ICCV,2015
+Liang-Chieh Chen,1,ICCV,2015
+Evgeny Levinkov,1,ICCV,2015
+Nicolas Bonneel,1,ICCV,2015
+Guillaume Lavoue,1,ICCV,2015
+Bjorn Andres,1,ICCV,2015
+Puneet K. Dokania,1,ICCV,2015
+Hossam Isack,1,ICCV,2015
+Carl Olsson,1,ICCV,2015
+Mohamed Souiai,1,ICCV,2015
+Martin R. Oswald,1,ICCV,2015
+Youngwook Kee,1,ICCV,2015
+Xiaobo Wang,1,ICCV,2015
+Xiaojie Guo,1,ICCV,2015
+Deepak Pathak,1,ICCV,2015
+Omer Meir,1,ICCV,2015
+Stav Yagev,1,ICCV,2015
+Irad Yavneh,1,ICCV,2015
+Alexander Kirillov,1,ICCV,2015
+Bogdan Savchynskyy,1,ICCV,2015
+Dmitrij Schlesinger,1,ICCV,2015
+Dmitry Vetrov,1,ICCV,2015
+Shuhang Gu,1,ICCV,2015
+Brais Cancela,1,ICCV,2015
+Marcos Ortega,1,ICCV,2015
+Manuel G. Penedo,1,ICCV,2015
+Seong Jae Hwang,1,ICCV,2015
+Maxwell D. Collins,1,ICCV,2015
+Faruk Ahmed,1,ICCV,2015
+Dany Tarlow,1,ICCV,2015
+Jian Zhang,1,ICCV,2015
+Josip Djolonga,1,ICCV,2015
+Andreas Krause,1,ICCV,2015
+Xiaomeng Wu,1,ICCV,2015
+Kunio Kashino,1,ICCV,2015
+Go Irie,1,ICCV,2015
+Hiroyuki Arai,1,ICCV,2015
+Yukinobu Taniguchi,1,ICCV,2015
+Hongyang Li,1,ICCV,2015
+Xingyu Zeng,1,ICCV,2015
+Yonglong Tian,1,ICCV,2015
+Tomas Pfister,1,ICCV,2015
+James Charles,1,ICCV,2015
+Andrew Zisserman,1,ICCV,2015
+Dongjin Song,1,ICCV,2015
+Rongrong Ji,1,ICCV,2015
+David A. Meyer,1,ICCV,2015
+John R. Smith,1,ICCV,2015
+Kevin Matzen,1,ICCV,2015
+Noah Snavely,1,ICCV,2015
+Yusuke Matsui,1,ICCV,2015
+Toshihiko Yamasaki,1,ICCV,2015
+Kiyoharu Aizawa,1,ICCV,2015
+Sven Bambach,1,ICCV,2015
+Stefan Lee,1,ICCV,2015
+David J. Crandall,1,ICCV,2015
+Chen Yu,1,ICCV,2015
+Donghoon Lee,1,ICCV,2015
+Songhwai Oh,1,ICCV,2015
+Duc Thanh Nguyen,1,ICCV,2015
+Minh-Khoi Tran,1,ICCV,2015
+Lianrui Fu,1,ICCV,2015
+Junge Zhang,1,ICCV,2015
+Jianlong Fu,1,ICCV,2015
+Jinqiao Wang,1,ICCV,2015
+Hanqing Lu,1,ICCV,2015
+Vijay Kumar,1,ICCV,2015
+Anoop Namboodiri,1,ICCV,2015
+Damian Mrowca,1,ICCV,2015
+Ronghang Hu,1,ICCV,2015
+Dong Zhang,1,ICCV,2015
+Tobias Plotz,1,ICCV,2015
+Stefan Roth,1,ICCV,2015
+Qifeng Chen,1,ICCV,2015
+Vladlen Koltun,1,ICCV,2015
+Danda Pani Paudel,1,ICCV,2015
+Adlane Habed,1,ICCV,2015
+Cedric Demonceaux,1,ICCV,2015
+Pascal Vasseur,1,ICCV,2015
+Hongyang Chao,1,ICCV,2015
+Oliver Zendel,1,ICCV,2015
+Markus Murschitz,1,ICCV,2015
+Martin Humenberger,1,ICCV,2015
+Wolfgang Herzner,1,ICCV,2015
+Changchang Wu,1,ICCV,2015
+Runze Zhang,1,ICCV,2015
+Siyu Zhu,1,ICCV,2015
+Jingbo Liu,1,ICCV,2015
+Jinglu Wang,1,ICCV,2015
+Chiew-Lan Tai,1,ICCV,2015
+Michal Havlena,1,ICCV,2015
+Filip Radenovic,1,ICCV,2015
+Mark Brown,1,ICCV,2015
+David Windridge,1,ICCV,2015
+Katrin Honauer,1,ICCV,2015
+Lena Maier-Hein,1,ICCV,2015
+Kang Zhang,1,ICCV,2015
+Wuyi Yu,1,ICCV,2015
+Mary Manhein,1,ICCV,2015
+Warren Waggenspack,1,ICCV,2015
+Ilke Demir,1,ICCV,2015
+Daniel G. Aliaga,1,ICCV,2015
+Bedrich Benes,1,ICCV,2015
+Randi Cabezas,1,ICCV,2015
+Julian Straub,1,ICCV,2015
+Alvaro Parra Bustos,1,ICCV,2015
+Tat-Jun Chin,1,ICCV,2015
+Simon Korman,1,ICCV,2015
+Eyal Ofek,1,ICCV,2015
+Shai Avidan,1,ICCV,2015
+Weipeng Xu,1,ICCV,2015
+Yongtian Wang,1,ICCV,2015
+Yue Liu,1,ICCV,2015
+Federico Camposeco,1,ICCV,2015
+Chen Zhou,1,ICCV,2015
+Fatma Guney,1,ICCV,2015
+Yizhou Wang,1,ICCV,2015
+Hang Chu,1,ICCV,2015
+Dong Ki Kim,1,ICCV,2015
+Tsuhan Chen,1,ICCV,2015
+Eric T. Psota,1,ICCV,2015
+Jedrzej Kowalczuk,1,ICCV,2015
+Mateusz Mittek,1,ICCV,2015
+Lance C. Perez,1,ICCV,2015
+Tal Amir,1,ICCV,2015
+Tal Hassner,1,ICCV,2015
+Yaron Lipman,1,ICCV,2015
+Xinxin Zuo,1,ICCV,2015
+Chao Du,1,ICCV,2015
+Sen Wang,1,ICCV,2015
+Jiangbin Zheng,1,ICCV,2015
+Ruigang Yang,1,ICCV,2015
+Trung T. Pham,1,ICCV,2015
+Yasir Latif,1,ICCV,2015
+Stephen Gould,1,ICCV,2015
+Gil Shamai,1,ICCV,2015
+Yonathan Aflalo,1,ICCV,2015
+Michael Zibulevsky,1,ICCV,2015
+Ron Kimmel,1,ICCV,2015
+Christian Kerl,1,ICCV,2015
+Jorg Stuckler,1,ICCV,2015
+Dat Tien Ngo,1,ICCV,2015
+Sanghyuk Park,1,ICCV,2015
+Anne Jorstad,1,ICCV,2015
+Chang D. Yoo,1,ICCV,2015
+Christopher Zach,1,ICCV,2015
+Rahul Nair,1,ICCV,2015
+Federica Bogo,1,ICCV,2015
+Matthew Loper,1,ICCV,2015
+Javier Romero,1,ICCV,2015
+Zuzana Kukelova,1,ICCV,2015
+Jan Heller,1,ICCV,2015
+Martin Bujnak,1,ICCV,2015
+Tomas Pajdla,1,ICCV,2015
+Samuele Salti,1,ICCV,2015
+Riccardo Spezialetti,1,ICCV,2015
+Luigi Di Stefano,1,ICCV,2015
+Bruno Cafaro,1,ICCV,2015
+Federico Nardi,1,ICCV,2015
+Manuel Ruiz,1,ICCV,2015
+Chiho Choi,1,ICCV,2015
+Ayan Sinha,1,ICCV,2015
+Joon Hee Choi,1,ICCV,2015
+Sujin Jang,1,ICCV,2015
+Karthik Ramani,1,ICCV,2015
+Avinash Kumar,1,ICCV,2015
+Mai Nishimura,1,ICCV,2015
+Takashi Matsuyama,1,ICCV,2015
+Shinya Shimizu,1,ICCV,2015
+Kensaku Fujii,1,ICCV,2015
+Irina Nurutdinova,1,ICCV,2015
+Seyoung Park,1,ICCV,2015
+Roman Juranek,1,ICCV,2015
+Adam Herout,1,ICCV,2015
+Marketa Dubska,1,ICCV,2015
+Pavel Zemcik,1,ICCV,2015
+Akhil S. Raju,1,ICCV,2015
+Aude Oliva,1,ICCV,2015
+Dequan Wang,1,ICCV,2015
+Zhiqiang Shen,1,ICCV,2015
+Jie Shao,1,ICCV,2015
+Xiangyang Xue,1,ICCV,2015
+Zheng Zhang,1,ICCV,2015
+Xu Jia,1,ICCV,2015
+Aron Yu,1,ICCV,2015
+Stanislaw Antol,1,ICCV,2015
+Aishwarya Agrawal,1,ICCV,2015
+Jiasen Lu,1,ICCV,2015
+Margaret Mitchell,1,ICCV,2015
+Guoyu Lu,1,ICCV,2015
+Li Ren,1,ICCV,2015
+Jingkuan Song,1,ICCV,2015
+Chandra Kambhamettu,1,ICCV,2015
+Jacob Walker,1,ICCV,2015
+Elyor Kodirov,1,ICCV,2015
+Zhenyong Fu,1,ICCV,2015
+Licheng Yu,1,ICCV,2015
+Eunbyung Park,1,ICCV,2015
+Weicheng Kuo,1,ICCV,2015
+Bharath Hariharan,1,ICCV,2015
+Zhou Ren,1,ICCV,2015
+Chaohui Wang,1,ICCV,2015
+Kongming Liang,1,ICCV,2015
+Hong Chang,1,ICCV,2015
+Senjian An,1,ICCV,2015
+Munawar Hayat,1,ICCV,2015
+Salman H. Khan,1,ICCV,2015
+Farid Boussaid,1,ICCV,2015
+Ferdous Sohel,1,ICCV,2015
+Zhe Xu,1,ICCV,2015
+Shaoli Huang,1,ICCV,2015
+Ya Zhang,1,ICCV,2015
+Dacheng Tao,1,ICCV,2015
+Junhua Mao,1,ICCV,2015
+Xu Wei,1,ICCV,2015
+Zhiheng Huang,1,ICCV,2015
+Ramakrishna Vedantam,1,ICCV,2015
+Xiao Lin,1,ICCV,2015
+Tanmay Batra,1,ICCV,2015
+Muhammad Ghifary,1,ICCV,2015
+W. Bastiaan Kleijn,1,ICCV,2015
+Mengjie Zhang,1,ICCV,2015
+David Balduzzi,1,ICCV,2015
+Yongyi Lu,1,ICCV,2015
+Hao Chen,1,ICCV,2015
+Amir Ghodrati,1,ICCV,2015
+Ali Diba,1,ICCV,2015
+Xiaojuan Qi,1,ICCV,2015
+Chen Sun,1,ICCV,2015
+Chuang Gan,1,ICCV,2015
+Ram Nevatia,1,ICCV,2015
+Ragav Venkatesan,1,ICCV,2015
+Parag Chandakkar,1,ICCV,2015
+Baoxin Li,1,ICCV,2015
+Ziyu Zhang,1,ICCV,2015
+Alexander G. Schwing,1,ICCV,2015
+Zhengdong Lu,1,ICCV,2015
+Lifeng Shang,1,ICCV,2015
+Hang Li,1,ICCV,2015
+Zeeshan Hayder,1,ICCV,2015
+Xuming He,1,ICCV,2015
+Bryan A. Plummer,1,ICCV,2015
+Liwei Wang,1,ICCV,2015
+Chris M. Cervantes,1,ICCV,2015
+Julia Hockenmaier,1,ICCV,2015
+Donggeun Yoo,1,ICCV,2015
+Sunggyun Park,1,ICCV,2015
+Anthony S. Paek,1,ICCV,2015
+Yoshitaka Ushiku,1,ICCV,2015
+Masataka Yamaguchi,1,ICCV,2015
+Yusuke Mukuta,1,ICCV,2015
+Tatsuya Harada,1,ICCV,2015
+Eric Yi,1,ICCV,2015
+Charles R. Qi,1,ICCV,2015
+Yangyan Li,1,ICCV,2015
+Bernhard Zeisl,1,ICCV,2015
+Thibaut Durand,1,ICCV,2015
+Nicolas Thome,1,ICCV,2015
+Matthieu Cord,1,ICCV,2015
+Chenyi Chen,1,ICCV,2015
+Ari Seff,1,ICCV,2015
+Alain Kornhauser,1,ICCV,2015
+Jianxiong Xiao,1,ICCV,2015
+Tatiana Tommasi,1,ICCV,2015
+Zhicheng Yan,1,ICCV,2015
+Hao Zhang,1,ICCV,2015
+Robinson Piramuthu,1,ICCV,2015
+Vignesh Jagadeesh,1,ICCV,2015
+Dennis Decoste,1,ICCV,2015
+Wei Di,1,ICCV,2015
+Jiashi Feng,1,ICCV,2015
+Alexey Dosovitskiy,1,ICCV,2015
+Philipp Fischer,1,ICCV,2015
+Eddy Ilg,1,ICCV,2015
+Philip Hausser,1,ICCV,2015
+Caner Hazirbas,1,ICCV,2015
+Vladimir Golkov,1,ICCV,2015
+Patrick Van Der Smagt,1,ICCV,2015
+Chun-Guang Li,1,ICCV,2015
+Zhouchen Lin,1,ICCV,2015
+Honggang Zhang,1,ICCV,2015
+Jun Guo,1,ICCV,2015
+Kwang In Kim,1,ICCV,2015
+James Tompkin,1,ICCV,2015
+Hanspeter Pfister,1,ICCV,2015
+Damien Muselet,1,ICCV,2015
+Xiaolong Wang,1,ICCV,2015
+Sotirios P. Chatzis,1,ICCV,2015
+Dimitrios Kosmopoulos,1,ICCV,2015
+Nauman Shahid,1,ICCV,2015
+Vassilis Kalofolias,1,ICCV,2015
+Xavier Bresson,1,ICCV,2015
+Michael Bronstein,1,ICCV,2015
+Pierre Vandergheynst,1,ICCV,2015
+Li Liu,1,ICCV,2015
+Mengyang Yu,1,ICCV,2015
+Ling Shao,1,ICCV,2015
+Vasileios Belagiannis,1,ICCV,2015
+Christian Rupprecht,1,ICCV,2015
+Chengjiang Long,1,ICCV,2015
+Sijin Li,1,ICCV,2015
+Weichen Zhang,1,ICCV,2015
+Antoni B. Chan,1,ICCV,2015
+Yu Cheng,1,ICCV,2015
+Alok Choudhary,1,ICCV,2015
+Zhenzhen Wang,1,ICCV,2015
+Xiao-Tong Yuan,1,ICCV,2015
+Qingshan Liu,1,ICCV,2015
+Mathieu Aubry,1,ICCV,2015
+Bryan C. Russell,1,ICCV,2015
+Hyunwoo J. Kim,1,ICCV,2015
+Monami Banerjee,1,ICCV,2015
+Tuan-Hung Vu,1,ICCV,2015
+Anton Osokin,1,ICCV,2015
+Hanzi Wang,1,ICCV,2015
+Guobao Xiao,1,ICCV,2015
+David Suter,1,ICCV,2015
+Oren Freifeld,1,ICCV,2015
+Soren Hauberg,1,ICCV,2015
+Kayhan Batmanghelich,1,ICCV,2015
+Diane Bouchacourt,1,ICCV,2015
+Xu Zhang,1,ICCV,2015
+Ruiqi Guo,1,ICCV,2015
+Alex Kendall,1,ICCV,2015
+Matthew Grimes,1,ICCV,2015
+Roberto Cipolla,1,ICCV,2015
+Debadeepta Dey,1,ICCV,2015
+Varun Ramakrishna,1,ICCV,2015
+J. Andrew Bagnell,1,ICCV,2015
+Chunshui Cao,1,ICCV,2015
+Xianming Liu,1,ICCV,2015
+Zilei Wang,1,ICCV,2015
+Yongzhen Huang,1,ICCV,2015
+Wei Xu,1,ICCV,2015
+Thomas S. Huang,1,ICCV,2015
+Catalin Ionescu,1,ICCV,2015
+Orestis Vantzos,1,ICCV,2015
+Ksenia Konyushkova,1,ICCV,2015
+Raphael Sznitman,1,ICCV,2015
+Heechul Jung,1,ICCV,2015
+Sihaeng Lee,1,ICCV,2015
+Junho Yim,1,ICCV,2015
+Sunjeong Park,1,ICCV,2015
+Takuya Narihira,1,ICCV,2015
+Michael Maire,1,ICCV,2015
+Stella X. Yu,1,ICCV,2015
+Patrick Snape,1,ICCV,2015
+Anastasios Roussos,1,ICCV,2015
+Yao Sui,1,ICCV,2015
+Yafei Tang,1,ICCV,2015
+Li Zhang,1,ICCV,2015
+Han-Ul Kim,1,ICCV,2015
+Dae-Youn Lee,1,ICCV,2015
+Jae-Young Sim,1,ICCV,2015
+Chang-Su Kim,1,ICCV,2015
+Ofir Levy,1,ICCV,2015
+Lior Wolf,1,ICCV,2015
+Wongun Choi,1,ICCV,2015
+Ming Tang,1,ICCV,2015
+Jiayi Feng,1,ICCV,2015
+Seyed Hamid Rezatofighi,1,ICCV,2015
+Anton Milan,1,ICCV,2015
+Zhen Zhang,1,ICCV,2015
+Anthony Dick,1,ICCV,2015
+Jeany Son,1,ICCV,2015
+Ilchae Jung,1,ICCV,2015
+Kayoung Park,1,ICCV,2015
+Karel Lebeda,1,ICCV,2015
+Chao Ma,1,ICCV,2015
+Jia-Bin Huang,1,ICCV,2015
+Kaiwen Guo,1,ICCV,2015
+Feng Xu,1,ICCV,2015
+Yangang Wang,1,ICCV,2015
+Yebin Liu,1,ICCV,2015
+Qionghai Dai,1,ICCV,2015
+Yang Hua,1,ICCV,2015
+Karteek Alahari,1,ICCV,2015
+Naiyan Wang,1,ICCV,2015
+Hsin-I Chen,1,ICCV,2015
+Yi-Ling Chen,1,ICCV,2015
+Wei-Tse Lee,1,ICCV,2015
+Bing-Yu Chen,1,ICCV,2015
+Lijun Wang,1,ICCV,2015
+Huchuan Lu,1,ICCV,2015
+Jianjiang Feng,1,ICCV,2015
+Shuai Yi,1,ICCV,2015
+Hongsheng Li,1,ICCV,2015
+Daniel S. Messinger,1,ICCV,2015
+Chen-Ping Yu,1,ICCV,2015
+Hieu Le,1,ICCV,2015
+Gregory Zelinsky,1,ICCV,2015
+Philippe Weinzaepfel,1,ICCV,2015
+Suha Kwak,1,ICCV,2015
+Minsu Cho,1,ICCV,2015
+Ashesh Jain,1,ICCV,2015
+Hema S. Koppula,1,ICCV,2015
+Bharad Raghavan,1,ICCV,2015
+Shane Soh,1,ICCV,2015
+Zhen Xu,1,ICCV,2015
+Laiyun Qing,1,ICCV,2015
+Jun Miao,1,ICCV,2015
+Yang Shen,1,ICCV,2015
+Mingliang Xu,1,ICCV,2015
+Jianxin Wu,1,ICCV,2015
+Kang Dang,1,ICCV,2015
+Jiong Yang,1,ICCV,2015
+Junsong Yuan,1,ICCV,2015
+Guilhem Cheron,1,ICCV,2015
+Federico Perazzi,1,ICCV,2015
+Markus Gross,1,ICCV,2015
+Naveen Shankar Nagaraja,1,ICCV,2015
+Frank R. Schmidt,1,ICCV,2015
+Ye Luo,1,ICCV,2015
+Loong-Fah Cheong,1,ICCV,2015
+An Tran,1,ICCV,2015
+Viet-Quoc Pham,1,ICCV,2015
+Tatsuo Kozakaya,1,ICCV,2015
+Osamu Yamaguchi,1,ICCV,2015
+Ryuzo Okada,1,ICCV,2015
+Saehoon Yi,1,ICCV,2015
+Vladimir Pavlovic,1,ICCV,2015
+Bjoern Andres,1,ICCV,2015
+Khurram Soomro,1,ICCV,2015
+Haroon Idrees,1,ICCV,2015
+Albert Haque,1,ICCV,2015
+Wei Chen,1,ICCV,2015
+Jason J. Corso,1,ICCV,2015
+Jaemyun Kim,1,ICCV,2015
+Adin Ramirez Rivera,1,ICCV,2015
+Byungyong Ryu,1,ICCV,2015
+Oksam Chae,1,ICCV,2015
+Markus Oberweger,1,ICCV,2015
+Paul Wohlhart,1,ICCV,2015
+Jonathan Taylor,1,ICCV,2015
+Pushmeet Kohli,1,ICCV,2015
+Cem Keskin,1,ICCV,2015
+Hanbyul Joo,1,ICCV,2015
+Hao Liu,1,ICCV,2015
+Lei Tan,1,ICCV,2015
+Lin Gui,1,ICCV,2015
+Bart Nabbe,1,ICCV,2015
+Takeo Kanade,1,ICCV,2015
+M. Hadi Kiapour,1,ICCV,2015
+Xufeng Han,1,ICCV,2015
+Xiao Chu,1,ICCV,2015
+Zhaowei Cai,1,ICCV,2015
+Mohammad Saberian,1,ICCV,2015
+Achuta Kadambi,1,ICCV,2015
+Vage Taamazyan,1,ICCV,2015
+Aviad Levis,1,ICCV,2015
+Yoav Y. Schechner,1,ICCV,2015
+Amit Aides,1,ICCV,2015
+Anthony B. Davis,1,ICCV,2015
+Tomas F. Yago Vicente,1,ICCV,2015
+Minh Hoai,1,ICCV,2015
+Yu Luo,1,ICCV,2015
+Yong Xu,1,ICCV,2015
+Xiaoyong Shen,1,ICCV,2015
+Chao Zhou,1,ICCV,2015
+Li Xu,1,ICCV,2015
+Zak Murez,1,ICCV,2015
+Tali Treibitz,1,ICCV,2015
+Lingfei Meng,1,ICCV,2015
+Liyang Lu,1,ICCV,2015
+Noah Bedard,1,ICCV,2015
+Kathrin Berkner,1,ICCV,2015
+Yichao Xu,1,ICCV,2015
+Hajime Nagahara,1,ICCV,2015
+Atsushi Shimada,1,ICCV,2015
+Rin-Ichiro Taniguchi,1,ICCV,2015
+Can Chen,1,ICCV,2015
+W. Williem,1,ICCV,2015
+In Kyu Park,1,ICCV,2015
+Tinghui Zhou,1,ICCV,2015
+Jian Wang,1,ICCV,2015
+Yasuyuki Matsushita,1,ICCV,2015
+Aswin C. Sankaranarayanan,1,ICCV,2015
+Ting-Chun Wang,1,ICCV,2015
+Pratul P. Srinivasan,1,ICCV,2015
+Michael W. Tao,1,ICCV,2015
+Ren Ng,1,ICCV,2015
+Ryunosuke Yokoya,1,ICCV,2015
+Naejin Kong,1,ICCV,2015
+Yinqiang Zheng,1,ICCV,2015
+Yiming Qian,1,ICCV,2015
+Minglun Gong,1,ICCV,2015
+Yee-Hong Yang,1,ICCV,2015
+Yudeog Han,1,ICCV,2015
+Seon Joo Kim,1,ICCV,2015
+Wei Wei,1,ICCV,2015
+Yanning Zhang,1,ICCV,2015
+Fei Li,1,ICCV,2015
+Chunhua Shen,1,ICCV,2015
+Stamatios Georgoulis,1,ICCV,2015
+Vincent Vanweddingen,1,ICCV,2015
+Marc Proesmans,1,ICCV,2015
+Hiroshi Kawasaki,1,ICCV,2015
+Satoshi Ono,1,ICCV,2015
+Yuki Horita,1,ICCV,2015
+Yuki Shiba,1,ICCV,2015
+Ryo Furukawa,1,ICCV,2015
+Shinsaku Hiura,1,ICCV,2015
+Jan Stuhmer,1,ICCV,2015
+Richard Szeliski,1,ICCV,2015
+Travis Perry,1,ICCV,2015
+Sunil Acharya,1,ICCV,2015
+Charis Lanaras,1,ICCV,2015
+Emmanuel Baltsavias,1,ICCV,2015
+Ryuichi Tadano,1,ICCV,2015
+Adithya Kumar Pediredla,1,ICCV,2015
+Ashok Veeraraghavan,1,ICCV,2015
+Timo Bolkart,1,ICCV,2015
+Stefanie Wuhrer,1,ICCV,2015
+Ang Li,1,ICCV,2015
+Vlad Morariu,1,ICCV,2015
+Zhang Xiong,1,ICCV,2015
+Zhanpeng Zhang,1,ICCV,2015
+Yoshinori Kuno,1,ICCV,2015
+Gregory P. Meyer,1,ICCV,2015
+Shalini Gupta,1,ICCV,2015
+Iuri Frosio,1,ICCV,2015
+Dikpal Reddy,1,ICCV,2015
+Jan Kautz,1,ICCV,2015
+Chao Xiong,1,ICCV,2015
+Xiaowei Zhao,1,ICCV,2015
+Karlekar Jayashree,1,ICCV,2015
+Shuo Yang,1,ICCV,2015
+Amin Jourabloo,1,ICCV,2015
+Xiaoming Liu,1,ICCV,2015
+Adria Ruiz,1,ICCV,2015
+Joost Van De Weijer,1,ICCV,2015
+Xavier Binefa,1,ICCV,2015
+Jungseock Joo,1,ICCV,2015
+Francis F. Steen,1,ICCV,2015
+Venice Erin Liong,1,ICCV,2015
+Chi Su,1,ICCV,2015
+Fan Yang,1,ICCV,2015
+Shiliang Zhang,1,ICCV,2015
+Wen Gao,1,ICCV,2015
+Sergey Tulyakov,1,ICCV,2015
+Erroll Wood,1,ICCV,2015
+Tadas Baltrusaitis,1,ICCV,2015
+Xucong Zhang,1,ICCV,2015
+Yusuke Sugano,1,ICCV,2015
+Peter Robinson,1,ICCV,2015
+Andreas Bulling,1,ICCV,2015
+Xiaojuan Wang,1,ICCV,2015
+Timur Almaev,1,ICCV,2015
+Arnaud Dapogny,1,ICCV,2015
+Kevin Bailly,1,ICCV,2015
+Severine Dubuisson,1,ICCV,2015
+Stefanos Eleftheriadis,1,ICCV,2015
+Ognjen Rudovic,1,ICCV,2015
+Jie Zhang,1,ICCV,2015
+Kan Liu,1,ICCV,2015
+Bingpeng Ma,1,ICCV,2015
+Rui Huang,1,ICCV,2015
+Yan Li,1,ICCV,2015
+Ruiping Wang,1,ICCV,2015
+Haomiao Liu,1,ICCV,2015
+Huajie Jiang,1,ICCV,2015
+Zijing Zhao,1,ICCV,2015
+Kumar Ajay,1,ICCV,2015
+Soubhik Sanyal,1,ICCV,2015
+Sivaram Prasad Mudunuri,1,ICCV,2015
+Soma Biswas,1,ICCV,2015
+Gee-Sern Hsu,1,ICCV,2015
+Kai-Hsiang Chang,1,ICCV,2015
+Shih-Chieh Huang,1,ICCV,2015
+Seong Joon Oh,1,ICCV,2015
+Rodrigo Benenson,1,ICCV,2015
+Christos Sagonas,1,ICCV,2015
+Xi Peng,1,ICCV,2015
+Yu Yang,1,ICCV,2015
+Dimitris N. Metaxas,1,ICCV,2015
+Arnaud Dessein,1,ICCV,2015
+Richard C. Wilson,1,ICCV,2015
+Edwin R. Hancock,1,ICCV,2015
+Mai Xu,1,ICCV,2015
+Yun Ren,1,ICCV,2015
+Zulin Wang,1,ICCV,2015
+Yuting Chen,1,ICCV,2015
+Gaofeng Meng,1,ICCV,2015
+Zuming Huang,1,ICCV,2015
+Yonghong Song,1,ICCV,2015
+Yan Lu,1,ICCV,2015
+Dezhen Song,1,ICCV,2015
+Jun-Yan Zhu,1,ICCV,2015
+Supasorn Suwajanakorn,1,ICCV,2015
+Ira Kemelmacher-Shlizerman,1,ICCV,2015
+Scott Workman,1,ICCV,2015
+Richard Souvenir,1,ICCV,2015
+Hanjiang Lai,1,ICCV,2015
+Charles Malleson,1,ICCV,2015
+Derek Bradley,1,ICCV,2015
+Thabo Beeler,1,ICCV,2015
+Daniel Glasner,1,ICCV,2015
+Todd Zickler,1,ICCV,2015
+Lihi Zelnik-Manor,1,ICCV,2015
+Dongbo Min,1,ICCV,2015
+Jiangbo Lu,1,ICCV,2015
+Christian Bailer,1,ICCV,2015
+Bertram Taetz,1,ICCV,2015
+Didier Stricker,1,ICCV,2015
+Hilton Bristow,1,ICCV,2015
+Jack Valmadre,1,ICCV,2015
+Simon Lucey,1,ICCV,2015
+Vivek Veeriah,1,ICCV,2015
+Naifan Zhuang,1,ICCV,2015
+Guo-Jun Qi,1,ICCV,2015
+Guoli Song,1,ICCV,2015
+Shuhui Wang,1,ICCV,2015
+Qingming Huang,1,ICCV,2015
+Hossein Hajimirsadeghi,1,ICCV,2015
+Eric Tzeng,1,ICCV,2015
+Ondrej Chum,1,ICCV,2015
+Ross Goroshin,1,ICCV,2015
+Joan Bruna,1,ICCV,2015
+Jonathan Tompson,1,ICCV,2015
+Yann Lecun,1,ICCV,2015
+Viresh Ranjan,1,ICCV,2015
+Nikhil Rasiwasia,1,ICCV,2015
+Antonio L. Rodriguez,1,ICCV,2015
+Vitor Sequeira,1,ICCV,2015
+Mehrtash Harandi,1,ICCV,2015
+Mahsa Baktashmotlagh,1,ICCV,2015
+Tzu Ming Harry Hsu,1,ICCV,2015
+Wei Yu Chen,1,ICCV,2015
+Cheng-An Hou,1,ICCV,2015
+Yao-Hung Hubert Tsai,1,ICCV,2015
+Yi-Ren Yeh,1,ICCV,2015
+Yu-Chiang Frank Wang,1,ICCV,2015
+Je Hyeong Hong,1,ICCV,2015
+Jiaji Huang,1,ICCV,2015
+Qiang Qiu,1,ICCV,2015
+Robert Calderbank,1,ICCV,2015
+Guillermo Sapiro,1,ICCV,2015
+Fumin Shen,1,ICCV,2015
+Yang Yang,1,ICCV,2015
+Heng Tao Shen,1,ICCV,2015
+Baoyuan Wu,1,ICCV,2015
+Bo Liu,1,ICCV,2015
+Lopamudra Mukherjee,1,ICCV,2015
+Tyler Holmes,1,ICCV,2015
+Li Niu,1,ICCV,2015
+Wen Li,1,ICCV,2015
+Dong Xu,1,ICCV,2015
+Giorgio Roffo,1,ICCV,2015
+Simone Melzi,1,ICCV,2015
+Marco Cristani,1,ICCV,2015
+Yuhong Guo,1,ICCV,2015
+Dale Schuurmans,1,ICCV,2015
+Farzad Siyahjani,1,ICCV,2015
+Ranya Almohsen,1,ICCV,2015
+Sinan Sabri,1,ICCV,2015
+Gianfranco Doretto,1,ICCV,2015
+Rudrasis Chakraborty,1,ICCV,2015
+Hongchang Gao,1,ICCV,2015
+Feiping Nie,1,ICCV,2015
+Xuelong Li,1,ICCV,2015
+Heng Huang,1,ICCV,2015
+Jimmy Lei Ba,1,ICCV,2015
+Kevin Swersky,1,ICCV,2015
+Tian Gao,1,ICCV,2015
+Ziheng Wang,1,ICCV,2015
+Wei Wang,1,ICCV,2015
+Xue Geng,1,ICCV,2015
+Hanwang Zhang,1,ICCV,2015
+Jingwen Bian,1,ICCV,2015
+Tat-Seng Chua,1,ICCV,2015
+Lu Yuan,1,ICCV,2015
+Dylan Campbell,1,ICCV,2015
+Xiaoqin Zhang,1,ICCV,2015
+Weiming Hu,1,ICCV,2015
+Junliang Xing,1,ICCV,2015
+Martin Danelljan,1,ICCV,2015
+Gustav Hager,1,ICCV,2015
+Fahad Shahbaz Khan,1,ICCV,2015
+Michael Felsberg,1,ICCV,2015
+Kensei Jo,1,ICCV,2015
+Mohit Gupta,1,ICCV,2015
+Yang Zhou,1,ICCV,2015
+Xiaomeng Wang,1,ICCV,2015
+Muhammad Haris Khan,1,ICCV,2015
+Tony Pridmore,1,ICCV,2015
+Katerina Fragkiadaki,1,ICCV,2015
+Sergey Levine,1,ICCV,2015
+Panna Felsen,1,ICCV,2015
+Huijun Di,1,ICCV,2015
+Qingxuan Shi,1,ICCV,2015
+Feng Lv,1,ICCV,2015
+Ming Qin,1,ICCV,2015
+Yao Lu,1,ICCV,2015
+Philip Lenz,1,ICCV,2015
+Francesco Solera,1,ICCV,2015
+Simone Calderara,1,ICCV,2015
+Rita Cucchiara,1,ICCV,2015
+Mahdi Rad,1,ICCV,2015
+Yannick Verdie,1,ICCV,2015
+Kwang Moo Yi,1,ICCV,2015
+Bo Ma,1,ICCV,2015
+Hongwei Hu,1,ICCV,2015
+Jianbing Shen,1,ICCV,2015
+Yuping Zhang,1,ICCV,2015
+Yanchao Yang,1,ICCV,2015
+Ganesh Sundaramoorthi,1,ICCV,2015
+Stefano Soatto,1,ICCV,2015
+Andrei Zanfir,1,ICCV,2015
+Yuewei Lin,1,ICCV,2015
+Kareem Abdelfatah,1,ICCV,2015
+Youjie Zhou,1,ICCV,2015
+Xiaochuan Fan,1,ICCV,2015
+Hongkai Yu,1,ICCV,2015
+Hui Qian,1,ICCV,2015
+Song Wang,1,ICCV,2015
+Wenbo Li,1,ICCV,2015
+Longyin Wen,1,ICCV,2015
+Mooi Choo Chuah,1,ICCV,2015
+Sheng Li,1,ICCV,2015
+Kang Li,1,ICCV,2015
+Yun Fu,1,ICCV,2015
+Piotr Bojanowski,1,ICCV,2015
+Remi Lajugie,1,ICCV,2015
+Edouard Grave,1,ICCV,2015
+Francis Bach,1,ICCV,2015
+Vignesh Ramanathan,1,ICCV,2015
+Ozan Sener,1,ICCV,2015
+Amir R. Zamir,1,ICCV,2015
+Du Tran,1,ICCV,2015
+Yipin Zhou,1,ICCV,2015
+Li Yao,1,ICCV,2015
+Atousa Torabi,1,ICCV,2015
+Kyunghyun Cho,1,ICCV,2015
+Nicolas Ballas,1,ICCV,2015
+Christopher Pal,1,ICCV,2015
+Hugo Larochelle,1,ICCV,2015
+Aaron Courville,1,ICCV,2015
+Srikrishna Karanam,1,ICCV,2015
+Yang Li,1,ICCV,2015
+Richard J. Radke,1,ICCV,2015
+Bo Xiong,1,ICCV,2015
+Gunhee Kim,1,ICCV,2015
+Leonid Sigal,1,ICCV,2015
+Subhashini Venugopalan,1,ICCV,2015
+Jeffrey Donahue,1,ICCV,2015
+Raymond Mooney,1,ICCV,2015
+Mahmudul Hasan,1,ICCV,2015
+Amit K. Roy-Chowdhury,1,ICCV,2015
+Tian Lan,1,ICCV,2015
+Yuke Zhu,1,ICCV,2015
+Amir Roshan Zamir,1,ICCV,2015
+Bharat Singh,1,ICCV,2015
+Xintong Han,1,ICCV,2015
+Zhe Wu,1,ICCV,2015
+Vlad I. Morariu,1,ICCV,2015
+Lei Wang,1,ICCV,2015
+Jianjia Zhang,1,ICCV,2015
+Luping Zhou,1,ICCV,2015
+Chang Tang,1,ICCV,2015
+Wanqing Li,1,ICCV,2015
+David Varas,1,ICCV,2015
+Monica Alfaro,1,ICCV,2015
+Ferran Marques,1,ICCV,2015
+Mihir Jain,1,ICCV,2015
+Jan C. Van Gemert,1,ICCV,2015
+Lin Sun,1,ICCV,2015
+Kui Jia,1,ICCV,2015
+Bertram E. Shi,1,ICCV,2015
+Yuncheng Li,1,ICCV,2015
+Xitong Yang,1,ICCV,2015
+Jiebo Luo,1,ICCV,2015
+Justin Johnson,1,ICCV,2015
+Lamberto Ballan,1,ICCV,2015
+Huan Yang,1,ICCV,2015
+David Wipf,1,ICCV,2015
+Minyi Guo,1,ICCV,2015
+Baining Guo,1,ICCV,2015
+Andreas Veit,1,ICCV,2015
+Balazs Kovacs,1,ICCV,2015
+Sean Bell,1,ICCV,2015
+Julian Mcauley,1,ICCV,2015
+Kavita Bala,1,ICCV,2015
+Shangxuan Tian,1,ICCV,2015
+Yifeng Pan,1,ICCV,2015
+Shijian Lu,1,ICCV,2015
+Kai Yu,1,ICCV,2015
+Chew Lim Tan,1,ICCV,2015
+Elisa Ricci,1,ICCV,2015
+Jagannadan Varadarajan,1,ICCV,2015
+Ramanathan Subramanian,1,ICCV,2015
+Oswald Lanz,1,ICCV,2015
+Bilge Soran,1,ICCV,2015
+Linda Shapiro,1,ICCV,2015
+Jianhuang Lai,1,ICCV,2015
+Pan Ji,1,ICCV,2015
+Hongdong Li,1,ICCV,2015
+Chanho Kim,1,ICCV,2015
+Yu Xiang,1,ICCV,2015

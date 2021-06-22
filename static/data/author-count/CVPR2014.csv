@@ -1,0 +1,1443 @@
+author,count,conference,year
+Luc Van Gool,8,CVPR,2014
+Stefanos Zafeiriou,7,CVPR,2014
+Xiaogang Wang,7,CVPR,2014
+Shuicheng Yan,7,CVPR,2014
+Marc Pollefeys,6,CVPR,2014
+Mubarak Shah,6,CVPR,2014
+Jiaya Jia,6,CVPR,2014
+Raquel Urtasun,6,CVPR,2014
+Jian Sun,6,CVPR,2014
+Maja Pantic,5,CVPR,2014
+Kristen Grauman,5,CVPR,2014
+Song-Chun Zhu,5,CVPR,2014
+Alan L. Yuille,5,CVPR,2014
+Ming-Hsuan Yang,5,CVPR,2014
+Trevor Darrell,5,CVPR,2014
+Andrew Zisserman,5,CVPR,2014
+Sanja Fidler,5,CVPR,2014
+Jingyi Yu,5,CVPR,2014
+Qi Tian,5,CVPR,2014
+Zhouchen Lin,5,CVPR,2014
+Bernt Schiele,4,CVPR,2014
+Iasonas Kokkinos,4,CVPR,2014
+Ling Shao,4,CVPR,2014
+Deva Ramanan,4,CVPR,2014
+Mathieu Salzmann,4,CVPR,2014
+Cewu Lu,4,CVPR,2014
+Subhransu Maji,4,CVPR,2014
+Junmo Kim,4,CVPR,2014
+Xiaoou Tang,4,CVPR,2014
+Gang Hua,4,CVPR,2014
+Narendra Ahuja,4,CVPR,2014
+Tae-Kyun Kim,4,CVPR,2014
+Sing Bing Kang,4,CVPR,2014
+Shiguang Shan,4,CVPR,2014
+David Doermann,4,CVPR,2014
+Eric P. Xing,4,CVPR,2014
+Cordelia Schmid,4,CVPR,2014
+Martial Hebert,3,CVPR,2014
+Fredrik Kahl,3,CVPR,2014
+Yi Yang,3,CVPR,2014
+Bjorn Stenger,3,CVPR,2014
+Pietro Perona,3,CVPR,2014
+Ali Farhadi,3,CVPR,2014
+Jitendra Malik,3,CVPR,2014
+Dieter Schmalstieg,3,CVPR,2014
+Ross Girshick,3,CVPR,2014
+Mao Ye,3,CVPR,2014
+Ruigang Yang,3,CVPR,2014
+Jamie Shotton,3,CVPR,2014
+Shahram Izadi,3,CVPR,2014
+Andrew Fitzgibbon,3,CVPR,2014
+Xiaobai Liu,3,CVPR,2014
+Cees G.M. Snoek,3,CVPR,2014
+Chi-Keung Tang,3,CVPR,2014
+Qiang Ji,3,CVPR,2014
+Jianchao Yang,3,CVPR,2014
+Yu-Wing Tai,3,CVPR,2014
+Shih-Fu Chang,3,CVPR,2014
+Fatih Porikli,3,CVPR,2014
+C. V. Jawahar,3,CVPR,2014
+Yichen Wei,3,CVPR,2014
+Pushmeet Kohli,3,CVPR,2014
+Yuri Boykov,3,CVPR,2014
+Slobodan Ilic,3,CVPR,2014
+Longyin Wen,3,CVPR,2014
+Stan Z. Li,3,CVPR,2014
+Chetan Arora,3,CVPR,2014
+Kyoung Mu Lee,3,CVPR,2014
+Oren Freifeld,3,CVPR,2014
+Michael J. Black,3,CVPR,2014
+Ying Wu,3,CVPR,2014
+Li Fei-Fei,3,CVPR,2014
+Yasuyuki Matsushita,3,CVPR,2014
+Xilin Chen,3,CVPR,2014
+Andrea Vedaldi,3,CVPR,2014
+Peng Ye,3,CVPR,2014
+Yi Li,3,CVPR,2014
+Jonathan Brandt,3,CVPR,2014
+Zhe Lin,3,CVPR,2014
+Yoichi Sato,3,CVPR,2014
+Weiming Hu,3,CVPR,2014
+Stefano Soatto,3,CVPR,2014
+In So Kweon,3,CVPR,2014
+Dinggang Shen,3,CVPR,2014
+Haibin Ling,3,CVPR,2014
+Li Xu,3,CVPR,2014
+Zhe Hu,3,CVPR,2014
+Tinne Tuytelaars,3,CVPR,2014
+Jian Cheng,2,CVPR,2014
+Konrad Schindler,2,CVPR,2014
+Jean Ponce,2,CVPR,2014
+Yubin Kuang,2,CVPR,2014
+Kalle Astrom,2,CVPR,2014
+Joao Carreira,2,CVPR,2014
+Lourdes Agapito,2,CVPR,2014
+Jorge Batista,2,CVPR,2014
+Xiao Liu,2,CVPR,2014
+Dacheng Tao,2,CVPR,2014
+Mingli Song,2,CVPR,2014
+Chun Chen,2,CVPR,2014
+Jiajun Bu,2,CVPR,2014
+Jorg H. Kappes,2,CVPR,2014
+Fred A. Hamprecht,2,CVPR,2014
+Samuel Rota Bulo,2,CVPR,2014
+Minh-Tri Pham,2,CVPR,2014
+Rui Zhao,2,CVPR,2014
+Wanli Ouyang,2,CVPR,2014
+Yuhui Quan,2,CVPR,2014
+Stavros Tsogkas,2,CVPR,2014
+Francesc Moreno-Noguer,2,CVPR,2014
+Mahdi M. Kalayeh,2,CVPR,2014
+Haroon Idrees,2,CVPR,2014
+Chao-Yeh Chen,2,CVPR,2014
+Yibiao Zhao,2,CVPR,2014
+James M. Rehg,2,CVPR,2014
+Gustavo Carneiro,2,CVPR,2014
+Xuming He,2,CVPR,2014
+Anuj Srivastava,2,CVPR,2014
+Jimei Yang,2,CVPR,2014
+Ferran Marques,2,CVPR,2014
+Lei Zhang,2,CVPR,2014
+Yen-Yu Lin,2,CVPR,2014
+Yinqiang Zheng,2,CVPR,2014
+Imari Sato,2,CVPR,2014
+Hongdong Li,2,CVPR,2014
+Vladlen Koltun,2,CVPR,2014
+Hayko Riemenschneider,2,CVPR,2014
+Richard Hartley,2,CVPR,2014
+Enrique Dunn,2,CVPR,2014
+Jan-Michael Frahm,2,CVPR,2014
+Michael Donoser,2,CVPR,2014
+Xida Chen,2,CVPR,2014
+Yee-Hong Yang,2,CVPR,2014
+Olof Enqvist,2,CVPR,2014
+Sebastian Nowozin,2,CVPR,2014
+Mario Fritz,2,CVPR,2014
+Simon Jones,2,CVPR,2014
+Yasutaka Furukawa,2,CVPR,2014
+Bo Fu,2,CVPR,2014
+Cem Keskin,2,CVPR,2014
+Jianzhuang Liu,2,CVPR,2014
+Quanshi Zhang,2,CVPR,2014
+Xuan Song,2,CVPR,2014
+Xiaowei Shao,2,CVPR,2014
+Huijing Zhao,2,CVPR,2014
+Ryosuke Shibasaki,2,CVPR,2014
+Herve Jegou,2,CVPR,2014
+Bingbing Ni,2,CVPR,2014
+Pierre Moulin,2,CVPR,2014
+Nuno Vasconcelos,2,CVPR,2014
+Xiaohui Shen,2,CVPR,2014
+Sean Ryan Fanello,2,CVPR,2014
+Steve Branson,2,CVPR,2014
+Kate Saenko,2,CVPR,2014
+Roozbeh Mottaghi,2,CVPR,2014
+Xianjie Chen,2,CVPR,2014
+Alan Yuille,2,CVPR,2014
+Ping Luo,2,CVPR,2014
+Yu Zhang,2,CVPR,2014
+Jianxin Wu,2,CVPR,2014
+Jianfei Cai,2,CVPR,2014
+Dragomir Anguelov,2,CVPR,2014
+Peter M. Roth,2,CVPR,2014
+Horst Bischof,2,CVPR,2014
+Tatsuya Harada,2,CVPR,2014
+Quanfu Fan,2,CVPR,2014
+Deyu Meng,2,CVPR,2014
+Mehrtash Harandi,2,CVPR,2014
+Lin Chen,2,CVPR,2014
+Wenze Hu,2,CVPR,2014
+Ying Nian Wu,2,CVPR,2014
+Dhruv Batra,2,CVPR,2014
+Ce Liu,2,CVPR,2014
+Sinisa Todorovic,2,CVPR,2014
+Lena Gorelick,2,CVPR,2014
+Olga Veksler,2,CVPR,2014
+Gerard Medioni,2,CVPR,2014
+Gang Wang,2,CVPR,2014
+Kui Jia,2,CVPR,2014
+Yi Ma,2,CVPR,2014
+Junjie Yan,2,CVPR,2014
+Zhen Lei,2,CVPR,2014
+Wenhan Luo,2,CVPR,2014
+Xiaowei Zhao,2,CVPR,2014
+William T. Freeman,2,CVPR,2014
+S.N. Maheshwari,2,CVPR,2014
+Soren Hauberg,2,CVPR,2014
+Jiang Wang,2,CVPR,2014
+Thomas Leung,2,CVPR,2014
+Guiguang Ding,2,CVPR,2014
+Dong Xu,2,CVPR,2014
+Erik Rodner,2,CVPR,2014
+Joachim Denzler,2,CVPR,2014
+Chen Change Loy,2,CVPR,2014
+Julien Mairal,2,CVPR,2014
+Zaid Harchaoui,2,CVPR,2014
+Edmond Boyer,2,CVPR,2014
+Manmohan Chandraker,2,CVPR,2014
+Kostas Daniilidis,2,CVPR,2014
+Sudipta N. Sinha,2,CVPR,2014
+Yuqiang Fang,2,CVPR,2014
+Marc'Aurelio Ranzato,2,CVPR,2014
+Jiashi Feng,2,CVPR,2014
+Alexander Toshev,2,CVPR,2014
+Christian Szegedy,2,CVPR,2014
+Mykhaylo Andriluka,2,CVPR,2014
+Nassir Navab,2,CVPR,2014
+Ruiping Wang,2,CVPR,2014
+Karen Simonyan,2,CVPR,2014
+Lior Wolf,2,CVPR,2014
+Ivan Laptev,2,CVPR,2014
+Josef Sivic,2,CVPR,2014
+Rahul Sukthankar,2,CVPR,2014
+Le Kang,2,CVPR,2014
+Afshin Dehghan,2,CVPR,2014
+Junliang Xing,2,CVPR,2014
+Xin Geng,2,CVPR,2014
+Mohammed Bennamoun,2,CVPR,2014
+Liang Zheng,2,CVPR,2014
+Shengjin Wang,2,CVPR,2014
+David Suter,2,CVPR,2014
+Bharath Hariharan,2,CVPR,2014
+C. L. Zitnick,2,CVPR,2014
+Maks Ovsjanikov,2,CVPR,2014
+Abhinav Gupta,2,CVPR,2014
+Bin Zhao,2,CVPR,2014
+Liang-Chieh Chen,2,CVPR,2014
+Hao Zhang,2,CVPR,2014
+Efstratios Gavves,2,CVPR,2014
+Jonathan Balzer,2,CVPR,2014
+Xiaochun Cao,2,CVPR,2014
+Jaesik Park,2,CVPR,2014
+Ping Tan,2,CVPR,2014
+Bodo Rosenhahn,2,CVPR,2014
+Golnaz Ghiasi,2,CVPR,2014
+Charless C. Fowlkes,2,CVPR,2014
+Jakob Verbeek,2,CVPR,2014
+Juho Kannala,2,CVPR,2014
+Esa Rahtu,2,CVPR,2014
+Florent Perronnin,2,CVPR,2014
+Amir Roshan Zamir,2,CVPR,2014
+Chunfeng Yuan,2,CVPR,2014
+Dahua Lin,2,CVPR,2014
+Chen Kong,2,CVPR,2014
+Vincent Lepetit,2,CVPR,2014
+Pascal Fua,2,CVPR,2014
+Chen Chen,2,CVPR,2014
+Junzhou Huang,2,CVPR,2014
+Heung-Il Suk,2,CVPR,2014
+Michael S. Brown,2,CVPR,2014
+Wei Liu,2,CVPR,2014
+Jinwei Ye,2,CVPR,2014
+Yu Ji,2,CVPR,2014
+Feng Wu,2,CVPR,2014
+Xiaoyan Sun,2,CVPR,2014
+Lawrence Carin,2,CVPR,2014
+Stephen Lin,2,CVPR,2014
+Jue Wang,2,CVPR,2014
+Dengxin Dai,2,CVPR,2014
+Baba C. Vemuri,2,CVPR,2014
+Scott Cohen,2,CVPR,2014
+Brian Price,2,CVPR,2014
+Alexander G. Schwing,2,CVPR,2014
+Ming-Ming Cheng,2,CVPR,2014
+Carsten Rother,2,CVPR,2014
+Matthias B. Hullin,2,CVPR,2014
+Qionghai Dai,2,CVPR,2014
+Feng Liu,2,CVPR,2014
+Wen-Yan Lin,2,CVPR,2014
+Steven M. Seitz,2,CVPR,2014
+Hailin Jin,2,CVPR,2014
+Devi Parikh,2,CVPR,2014
+Sammy Mohamed,2,CVPR,2014
+Marco Pedersoli,2,CVPR,2014
+Di Lin,2,CVPR,2014
+Guy Rosman,2,CVPR,2014
+John W. Fisher Iii,2,CVPR,2014
+Gunhee Kim,2,CVPR,2014
+Youngwook Kee,2,CVPR,2014
+Daniel Cremers,2,CVPR,2014
+Cong Leng,1,CVPR,2014
+Jiaxiang Wu,1,CVPR,2014
+Hainan Cui,1,CVPR,2014
+Hanqing Lu,1,CVPR,2014
+Wilfried Hartmann,1,CVPR,2014
+Michal Havlena,1,CVPR,2014
+Changchang Wu,1,CVPR,2014
+Jan E. Solem,1,CVPR,2014
+Sara Vicente,1,CVPR,2014
+Fabio Galasso,1,CVPR,2014
+Margret Keuper,1,CVPR,2014
+Thomas Brox,1,CVPR,2014
+Ying Ruan,1,CVPR,2014
+Dijun Luo,1,CVPR,2014
+Heng Huang,1,CVPR,2014
+Thorsten Beier,1,CVPR,2014
+Thorben Kroeger,1,CVPR,2014
+Ullrich Kothe,1,CVPR,2014
+Peter Kontschieder,1,CVPR,2014
+Lubor Ladicky,1,CVPR,2014
+Jianbo Shi,1,CVPR,2014
+Zhongwen Xu,1,CVPR,2014
+Ivor W. Tsang,1,CVPR,2014
+Zhigang Ma,1,CVPR,2014
+Alexander G. Hauptmann,1,CVPR,2014
+Stephan Liwicki,1,CVPR,2014
+Ali Borji,1,CVPR,2014
+Laurent Itti,1,CVPR,2014
+Arif Mahmood,1,CVPR,2014
+Ajmal Mian,1,CVPR,2014
+Robyn Owens,1,CVPR,2014
+Mahdi Rezaei,1,CVPR,2014
+Reinhard Klette,1,CVPR,2014
+Andrew Gardner,1,CVPR,2014
+Jinko Kanno,1,CVPR,2014
+Christian A. Duncan,1,CVPR,2014
+Rastko Selmic,1,CVPR,2014
+Wei Li,1,CVPR,2014
+Tong Xiao,1,CVPR,2014
+Yong Xu,1,CVPR,2014
+Yuping Sun,1,CVPR,2014
+Yu Luo,1,CVPR,2014
+Eduard Trulls,1,CVPR,2014
+Alberto Sanfeliu,1,CVPR,2014
+David Hall,1,CVPR,2014
+Aron Yu,1,CVPR,2014
+Lucy Liang,1,CVPR,2014
+Jungseock Joo,1,CVPR,2014
+Weixin Li,1,CVPR,2014
+Francis F. Steen,1,CVPR,2014
+Winn Voravuthikunchai,1,CVPR,2014
+Bruno Cremilleux,1,CVPR,2014
+Frederic Jurie,1,CVPR,2014
+Hamid Izadinia,1,CVPR,2014
+Fereshteh Sadeghi,1,CVPR,2014
+Mehmet Ersin Yumer,1,CVPR,2014
+Won Chun,1,CVPR,2014
+Ameesh Makadia,1,CVPR,2014
+Ran Margolin,1,CVPR,2014
+Lihi Zelnik-Manor,1,CVPR,2014
+Ayellet Tal,1,CVPR,2014
+Jiajun Wu,1,CVPR,2014
+Jun-Yan Zhu,1,CVPR,2014
+Siwei Luo,1,CVPR,2014
+Zhuowen Tu,1,CVPR,2014
+Zhuwen Li,1,CVPR,2014
+Loong-Fah Cheong,1,CVPR,2014
+Steven Zhiying Zhou,1,CVPR,2014
+Andrew Kae,1,CVPR,2014
+Benjamin Marlin,1,CVPR,2014
+Erik Learned-Miller,1,CVPR,2014
+Yin Li,1,CVPR,2014
+Xiaodi Hou,1,CVPR,2014
+Christof Koch,1,CVPR,2014
+Jacinto C. Nascimento,1,CVPR,2014
+Stephen Gould,1,CVPR,2014
+Simon Christoph Stein,1,CVPR,2014
+Markus Schoeler,1,CVPR,2014
+Jeremie Papon,1,CVPR,2014
+Florentin Worgotter,1,CVPR,2014
+Darshan Bryner,1,CVPR,2014
+Simon Safar,1,CVPR,2014
+Pablo Arbelaez,1,CVPR,2014
+Jordi Pont-Tuset,1,CVPR,2014
+Jonathan T. Barron,1,CVPR,2014
+Ahmad Humayun,1,CVPR,2014
+Fuxin Li,1,CVPR,2014
+Steven Hickson,1,CVPR,2014
+Stan Birchfield,1,CVPR,2014
+Irfan Essa,1,CVPR,2014
+Henrik Christensen,1,CVPR,2014
+Wei Lian,1,CVPR,2014
+Feng-Ju Chang,1,CVPR,2014
+Kuang-Jui Hsu,1,CVPR,2014
+Adeel Mumtaz,1,CVPR,2014
+Weichen Zhang,1,CVPR,2014
+Antoni B. Chan,1,CVPR,2014
+S. Avinash Ramakanth,1,CVPR,2014
+R. Venkatesh Babu,1,CVPR,2014
+Wallace Casaca,1,CVPR,2014
+Luis Gustavo Nonato,1,CVPR,2014
+Gabriel Taubin,1,CVPR,2014
+Junjie Bai,1,CVPR,2014
+Xiaodong Wu,1,CVPR,2014
+Nagesh Subbanna,1,CVPR,2014
+Doina Precup,1,CVPR,2014
+Tal Arbel,1,CVPR,2014
+Rasmus Jensen,1,CVPR,2014
+Anders Dahl,1,CVPR,2014
+George Vogiatzis,1,CVPR,2014
+Engin Tola,1,CVPR,2014
+Henrik Aanaes,1,CVPR,2014
+Tony Tung,1,CVPR,2014
+Takashi Matsuyama,1,CVPR,2014
+Jonathan Ventura,1,CVPR,2014
+Clemens Arth,1,CVPR,2014
+Gerhard Reitmayr,1,CVPR,2014
+Shigeki Sugimoto,1,CVPR,2014
+Masatoshi Okutomi,1,CVPR,2014
+Laurent Kneip,1,CVPR,2014
+Qian-Yi Zhou,1,CVPR,2014
+Song Cao,1,CVPR,2014
+Noah Snavely,1,CVPR,2014
+Andras Bodis-Szomoru,1,CVPR,2014
+Behrooz Nasihatkon,1,CVPR,2014
+Jochen Trumpf,1,CVPR,2014
+Yilin Wang,1,CVPR,2014
+Ke Wang,1,CVPR,2014
+Adlane Habed,1,CVPR,2014
+Danda Pani Paudel,1,CVPR,2014
+Cedric Demonceaux,1,CVPR,2014
+David Fofi,1,CVPR,2014
+Luis Ferraz,1,CVPR,2014
+Xavier Binefa,1,CVPR,2014
+Jose Lezama,1,CVPR,2014
+Rafael Grompone Von Gioi,1,CVPR,2014
+Gregory Randall,1,CVPR,2014
+Jean-Michel Morel,1,CVPR,2014
+Linus Svarm,1,CVPR,2014
+Magnus Oskarsson,1,CVPR,2014
+Gim Hee Lee,1,CVPR,2014
+Friedrich Fraundorfer,1,CVPR,2014
+Thierry Guillemot,1,CVPR,2014
+Andres Almansa,1,CVPR,2014
+Tamy Boubekeur,1,CVPR,2014
+Oisin Mac Aodha,1,CVPR,2014
+Neill D.F. Campbell,1,CVPR,2014
+Jan Kautz,1,CVPR,2014
+Gabriel J. Brostow,1,CVPR,2014
+Sergey Karayev,1,CVPR,2014
+Jeff Donahue,1,CVPR,2014
+Raviteja Vemulapalli,1,CVPR,2014
+Felipe Arrate,1,CVPR,2014
+Rama Chellappa,1,CVPR,2014
+Zhuowei Cai,1,CVPR,2014
+Limin Wang,1,CVPR,2014
+Xiaojiang Peng,1,CVPR,2014
+Yu Qiao,1,CVPR,2014
+Hamed Pirsiavash,1,CVPR,2014
+Jingyong Su,1,CVPR,2014
+Fillipe D. M. De Souza,1,CVPR,2014
+Sudeep Sarkar,1,CVPR,2014
+Ricardo Cabral,1,CVPR,2014
+Chenxi Zhang,1,CVPR,2014
+Jonathan Taylor,1,CVPR,2014
+Richard Stebbing,1,CVPR,2014
+Varun Ramakrishna,1,CVPR,2014
+Aaron Hertzmann,1,CVPR,2014
+Christian Hane,1,CVPR,2014
+Nikolay Savinov,1,CVPR,2014
+Ding Liu,1,CVPR,2014
+Frank Perbet,1,CVPR,2014
+Sam Johnson,1,CVPR,2014
+Qing Zhang,1,CVPR,2014
+Changqing Zou,1,CVPR,2014
+Heng Yang,1,CVPR,2014
+Ajad Chhatkuli,1,CVPR,2014
+Daniel Pizarro,1,CVPR,2014
+Adrien Bartoli,1,CVPR,2014
+Miaomiao Liu,1,CVPR,2014
+Di Wu,1,CVPR,2014
+Narayanaswamy Siddharth,1,CVPR,2014
+Andrei Barbu,1,CVPR,2014
+Jeffrey Mark Siskind,1,CVPR,2014
+Mihir Jain,1,CVPR,2014
+Jan Van Gemert,1,CVPR,2014
+Patrick Bouthemy,1,CVPR,2014
+Wei Chen,1,CVPR,2014
+Caiming Xiong,1,CVPR,2014
+Ran Xu,1,CVPR,2014
+Jason J. Corso,1,CVPR,2014
+Vignesh R. Paramathayalan,1,CVPR,2014
+Waqas Sultani,1,CVPR,2014
+Imran Saleemi,1,CVPR,2014
+Hilde Kuehne,1,CVPR,2014
+Ali Arslan,1,CVPR,2014
+Thomas Serre,1,CVPR,2014
+Eran Swears,1,CVPR,2014
+Anthony Hoogs,1,CVPR,2014
+Kim Boyer,1,CVPR,2014
+Mahmudul Hasan,1,CVPR,2014
+Amit K. Roy-Chowdhury,1,CVPR,2014
+Xiaodong Yang,1,CVPR,2014
+Yingli Tian,1,CVPR,2014
+Ivan Lillo,1,CVPR,2014
+Alvaro Soto,1,CVPR,2014
+Juan Carlos Niebles,1,CVPR,2014
+Makarand Tapaswi,1,CVPR,2014
+Martin Bauml,1,CVPR,2014
+Rainer Stiefelhagen,1,CVPR,2014
+Can Xu,1,CVPR,2014
+Jian Dong,1,CVPR,2014
+Qiang Chen,1,CVPR,2014
+Nicoletta Noceti,1,CVPR,2014
+Carlo Ciliberto,1,CVPR,2014
+Giorgio Metta,1,CVPR,2014
+Francesca Odone,1,CVPR,2014
+Catherine Wah,1,CVPR,2014
+Grant Van Horn,1,CVPR,2014
+Serge Belongie,1,CVPR,2014
+Judy Hoffman,1,CVPR,2014
+Minh Hoai,1,CVPR,2014
+Jiwhan Kim,1,CVPR,2014
+Dongyoon Han,1,CVPR,2014
+Nam-Gyu Cho,1,CVPR,2014
+Seong-Whan Lee,1,CVPR,2014
+Yonglong Tian,1,CVPR,2014
+Xiangxin Zhu,1,CVPR,2014
+Samuel Schulter,1,CVPR,2014
+Christian Leistner,1,CVPR,2014
+Paul Wohlhart,1,CVPR,2014
+Artem Babenko,1,CVPR,2014
+Victor Lempitsky,1,CVPR,2014
+Tiezheng Ge,1,CVPR,2014
+Kaiming He,1,CVPR,2014
+Shanshan Zhang,1,CVPR,2014
+Christian Bauckhage,1,CVPR,2014
+Armin B. Cremers,1,CVPR,2014
+Hiroharu Kato,1,CVPR,2014
+Teng Li,1,CVPR,2014
+Jiyan Yang,1,CVPR,2014
+Vikas Sindhwani,1,CVPR,2014
+Haim Avron,1,CVPR,2014
+Michael W. Mahoney,1,CVPR,2014
+Yadong Mu,1,CVPR,2014
+Wei Fan,1,CVPR,2014
+Zhiding Yu,1,CVPR,2014
+Chunjing Xu,1,CVPR,2014
+Zhuo Hui,1,CVPR,2014
+Fanyi Xiao,1,CVPR,2014
+Wenbo Liu,1,CVPR,2014
+Chetan Tonde,1,CVPR,2014
+Ahmed Elgammal,1,CVPR,2014
+Aseem Behl,1,CVPR,2014
+M. Pawan Kumar,1,CVPR,2014
+Stephen Tierney,1,CVPR,2014
+Junbin Gao,1,CVPR,2014
+Yi Guo,1,CVPR,2014
+Qiang Zhang,1,CVPR,2014
+Baoxin Li,1,CVPR,2014
+Jianwen Xie,1,CVPR,2014
+Vittal Premachandran,1,CVPR,2014
+Daniel Tarlow,1,CVPR,2014
+Marc T. Law,1,CVPR,2014
+Nicolas Thome,1,CVPR,2014
+Matthieu Cord,1,CVPR,2014
+Patrick Snape,1,CVPR,2014
+Symeon Nikitidis,1,CVPR,2014
+Bang Zhang,1,CVPR,2014
+Yi Wang,1,CVPR,2014
+Yang Wang,1,CVPR,2014
+Fang Chen,1,CVPR,2014
+Tim Marrinan,1,CVPR,2014
+J. Ross Beveridge,1,CVPR,2014
+Bruce Draper,1,CVPR,2014
+Michael Kirby,1,CVPR,2014
+Chris Peterson,1,CVPR,2014
+Martin Danelljan,1,CVPR,2014
+Fahad Shahbaz Khan,1,CVPR,2014
+Michael Felsberg,1,CVPR,2014
+Joost Van De Weijer,1,CVPR,2014
+Deqing Sun,1,CVPR,2014
+Hanspeter Pfister,1,CVPR,2014
+Chen Qian,1,CVPR,2014
+Xiao Sun,1,CVPR,2014
+Abner Guzman-Rivera,1,CVPR,2014
+Ben Glocker,1,CVPR,2014
+Toby Sharp,1,CVPR,2014
+Hanbyul Joo,1,CVPR,2014
+Hyun Soo Park,1,CVPR,2014
+Yaser Sheikh,1,CVPR,2014
+Sheng Chen,1,CVPR,2014
+Alan Fern,1,CVPR,2014
+Alexander Fix,1,CVPR,2014
+Chen Wang,1,CVPR,2014
+Ramin Zabih,1,CVPR,2014
+Hossam Isack,1,CVPR,2014
+Ismail Ben Ayed,1,CVPR,2014
+Andrew Delong,1,CVPR,2014
+Alexander Shekhovtsov,1,CVPR,2014
+Paul Swoboda,1,CVPR,2014
+Bogdan Savchynskyy,1,CVPR,2014
+Christoph Schnorr,1,CVPR,2014
+Anirban Roy,1,CVPR,2014
+Jan Prokaj,1,CVPR,2014
+Xiangyuan Lan,1,CVPR,2014
+Andy J. Ma,1,CVPR,2014
+Pong C. Yuen,1,CVPR,2014
+David J. Tan,1,CVPR,2014
+Heechul Jung,1,CVPR,2014
+Jeongwoo Ju,1,CVPR,2014
+Seung-Hwan Bae,1,CVPR,2014
+Kuk-Jin Yoon,1,CVPR,2014
+Zhe Zhang,1,CVPR,2014
+Kin Hong Wong,1,CVPR,2014
+Bing Wang,1,CVPR,2014
+Kap Luk Chan,1,CVPR,2014
+Li Wang,1,CVPR,2014
+Xiaojing Chen,1,CVPR,2014
+Zhen Qin,1,CVPR,2014
+Le An,1,CVPR,2014
+Bir Bhanu,1,CVPR,2014
+Xiongbiao Luo,1,CVPR,2014
+Ying Wan,1,CVPR,2014
+Xiangjian He,1,CVPR,2014
+Jie Yang,1,CVPR,2014
+Kensaku Mori,1,CVPR,2014
+Tianzhu Zhang,1,CVPR,2014
+Changsheng Xu,1,CVPR,2014
+Lu Zhang,1,CVPR,2014
+Hamdi Dibeklioglu,1,CVPR,2014
+Laurens Van Der Maaten,1,CVPR,2014
+Matthew Berger,1,CVPR,2014
+Lee M. Seversky,1,CVPR,2014
+Wenbo Li,1,CVPR,2014
+Dong Yi,1,CVPR,2014
+Roberto Cipolla,1,CVPR,2014
+Menglong Yang,1,CVPR,2014
+Yiguang Liu,1,CVPR,2014
+Zhisheng You,1,CVPR,2014
+Horst Possegger,1,CVPR,2014
+Thomas Mauthner,1,CVPR,2014
+Andreas M. Lehrmann,1,CVPR,2014
+Peter V. Gehler,1,CVPR,2014
+Hossein Mobahi,1,CVPR,2014
+Christopher Zach,1,CVPR,2014
+Subhashis Banerjee,1,CVPR,2014
+Prem Kalra,1,CVPR,2014
+Wonsik Kim,1,CVPR,2014
+Hiroshi Ishikawa,1,CVPR,2014
+Yin Zheng,1,CVPR,2014
+Yu-Jin Zhang,1,CVPR,2014
+Hugo Larochelle,1,CVPR,2014
+Yang Song,1,CVPR,2014
+Chuck Rosenberg,1,CVPR,2014
+Jingbin Wang,1,CVPR,2014
+James Philbin,1,CVPR,2014
+Bo Chen,1,CVPR,2014
+Vladyslav Sydorov,1,CVPR,2014
+Mayu Sakurada,1,CVPR,2014
+Christoph H. Lampert,1,CVPR,2014
+Mingsheng Long,1,CVPR,2014
+Jianmin Wang,1,CVPR,2014
+Jiaguang Sun,1,CVPR,2014
+Philip S. Yu,1,CVPR,2014
+Wen Li,1,CVPR,2014
+Daniel Haase,1,CVPR,2014
+Maksim Lapin,1,CVPR,2014
+Matthias Hein,1,CVPR,2014
+Novi Patricia,1,CVPR,2014
+Barbara Caputo,1,CVPR,2014
+Xiatian Zhu,1,CVPR,2014
+Shaogang Gong,1,CVPR,2014
+Vitaliy Kurlin,1,CVPR,2014
+Kevin Tang,1,CVPR,2014
+Armand Joulin,1,CVPR,2014
+Li-Jia Li,1,CVPR,2014
+Debarghya Ghoshdastidar,1,CVPR,2014
+Ambedkar Dukkipati,1,CVPR,2014
+Ajay P. Adsul,1,CVPR,2014
+Aparna S. Vijayan,1,CVPR,2014
+Yuansi Chen,1,CVPR,2014
+Amael Delaunoy,1,CVPR,2014
+Marc Serra,1,CVPR,2014
+Olivier Penacchio,1,CVPR,2014
+Robert Benavente,1,CVPR,2014
+Maria Vanrell,1,CVPR,2014
+Dimitris Samaras,1,CVPR,2014
+Vagia Tsiminaki,1,CVPR,2014
+Jean-Sebastien Franco,1,CVPR,2014
+Enliang Zheng,1,CVPR,2014
+Vladimir Jojic,1,CVPR,2014
+Can Chen,1,CVPR,2014
+Haiting Lin,1,CVPR,2014
+Zhan Yu,1,CVPR,2014
+Di Xu,1,CVPR,2014
+Qi Duan,1,CVPR,2014
+Jianming Zheng,1,CVPR,2014
+Juyong Zhang,1,CVPR,2014
+Tat-Jen Cham,1,CVPR,2014
+Ilya Kostrikov,1,CVPR,2014
+Esther Horbert,1,CVPR,2014
+Bastian Leibe,1,CVPR,2014
+Yingying Zhu,1,CVPR,2014
+Dong Huang,1,CVPR,2014
+Fernando De La Torre,1,CVPR,2014
+Simon Lucey,1,CVPR,2014
+Minsik Lee,1,CVPR,2014
+Chong-Ho Choi,1,CVPR,2014
+Songhwai Oh,1,CVPR,2014
+Antonio Agudo,1,CVPR,2014
+Begona Calvo,1,CVPR,2014
+Jose M. M. Montiel,1,CVPR,2014
+Shiyu Song,1,CVPR,2014
+Roberto Tron,1,CVPR,2014
+Daniel Scharstein,1,CVPR,2014
+Richard Szeliski,1,CVPR,2014
+Kang Zhang,1,CVPR,2014
+Dongbo Min,1,CVPR,2014
+Lifeng Sun,1,CVPR,2014
+Shiqiang Yang,1,CVPR,2014
+Wenbing Tao,1,CVPR,2014
+Kun Sun,1,CVPR,2014
+Johan Fredriksson,1,CVPR,2014
+Tatsunori Taniai,1,CVPR,2014
+Takeshi Naemura,1,CVPR,2014
+Aristotle Spyropoulos,1,CVPR,2014
+Nikos Komodakis,1,CVPR,2014
+Philippos Mordohai,1,CVPR,2014
+Dinesh Jayaraman,1,CVPR,2014
+Fei Sha,1,CVPR,2014
+Ning Zhang,1,CVPR,2014
+Manohar Paluri,1,CVPR,2014
+Lubomir Bourdev,1,CVPR,2014
+Stefanie Jegelka,1,CVPR,2014
+Catalin Ionescu,1,CVPR,2014
+Cristian Sminchisescu,1,CVPR,2014
+Vasileios Belagiannis,1,CVPR,2014
+Sikandar Amin,1,CVPR,2014
+Zhiwu Huang,1,CVPR,2014
+Shaoqing Ren,1,CVPR,2014
+Xudong Cao,1,CVPR,2014
+Omkar M. Parkhi,1,CVPR,2014
+Yaniv Taigman,1,CVPR,2014
+Ming Yang,1,CVPR,2014
+Antonio Criminisi,1,CVPR,2014
+Ugo Pattacini,1,CVPR,2014
+Tim Paek,1,CVPR,2014
+Maxime Oquab,1,CVPR,2014
+Leon Bottou,1,CVPR,2014
+Andrej Karpathy,1,CVPR,2014
+George Toderici,1,CVPR,2014
+Sanketh Shetty,1,CVPR,2014
+Brandon M. Smith,1,CVPR,2014
+Li Zhang,1,CVPR,2014
+Mengyi Liu,1,CVPR,2014
+Enrique G. Ortiz,1,CVPR,2014
+Ruben Villegas,1,CVPR,2014
+Kenneth Alberto Funes Mora,1,CVPR,2014
+Jean-Marc Odobez,1,CVPR,2014
+Yue Wu,1,CVPR,2014
+Ziheng Wang,1,CVPR,2014
+Christos Sagonas,1,CVPR,2014
+Yannis Panagakis,1,CVPR,2014
+Pedro Martins,1,CVPR,2014
+Rui Caseiro,1,CVPR,2014
+Ping Liu,1,CVPR,2014
+Shizhong Han,1,CVPR,2014
+Zibo Meng,1,CVPR,2014
+Yan Tong,1,CVPR,2014
+Epameinondas Antonakos,1,CVPR,2014
+Yusuke Sugano,1,CVPR,2014
+Zhiheng Niu,1,CVPR,2014
+Junshi Huang,1,CVPR,2014
+Yu Xia,1,CVPR,2014
+Haoxiang Li,1,CVPR,2014
+Georgios Tzimiropoulos,1,CVPR,2014
+Akshay Asthana,1,CVPR,2014
+Shiyang Cheng,1,CVPR,2014
+Vahid Kazemi,1,CVPR,2014
+Josephine Sullivan,1,CVPR,2014
+Junlin Hu,1,CVPR,2014
+Jiwen Lu,1,CVPR,2014
+Yap-Peng Tan,1,CVPR,2014
+Meina Kan,1,CVPR,2014
+Hong Chang,1,CVPR,2014
+Yi Sun,1,CVPR,2014
+Baptiste Chu,1,CVPR,2014
+Sami Romdhani,1,CVPR,2014
+Liming Chen,1,CVPR,2014
+Munawar Hayat,1,CVPR,2014
+Senjian An,1,CVPR,2014
+Angela Yao,1,CVPR,2014
+Eng-Jon Ong,1,CVPR,2014
+Oscar Koller,1,CVPR,2014
+Nicolas Pugeault,1,CVPR,2014
+Richard Bowden,1,CVPR,2014
+Salman Hameed Khan,1,CVPR,2014
+Ferdous Sohel,1,CVPR,2014
+Roberto Togneri,1,CVPR,2014
+Ziqiong Liu,1,CVPR,2014
+Haichuan Yang,1,CVPR,2014
+Xiao Bai,1,CVPR,2014
+Jun Zhou,1,CVPR,2014
+Peng Ren,1,CVPR,2014
+Zhihong Zhang,1,CVPR,2014
+Wengang Zhou,1,CVPR,2014
+Guosheng Lin,1,CVPR,2014
+Chunhua Shen,1,CVPR,2014
+Qinfeng Shi,1,CVPR,2014
+Anton Van Den Hengel,1,CVPR,2014
+Alexander Vezhnevets,1,CVPR,2014
+Vittorio Ferrari,1,CVPR,2014
+Piotr Dollar,1,CVPR,2014
+Chunyuan Li,1,CVPR,2014
+Frederic Chazal,1,CVPR,2014
+Thomas Berg,1,CVPR,2014
+Jiongxin Liu,1,CVPR,2014
+Seung Woo Lee,1,CVPR,2014
+Michelle L. Alexander,1,CVPR,2014
+David W. Jacobs,1,CVPR,2014
+Peter N. Belhumeur,1,CVPR,2014
+David F. Fouhey,1,CVPR,2014
+Xinlei Chen,1,CVPR,2014
+Abhinav Shrivastava,1,CVPR,2014
+Lyndsey C. Pickup,1,CVPR,2014
+Zheng Pan,1,CVPR,2014
+Donglai Wei,1,CVPR,2014
+Yichang Shih,1,CVPR,2014
+Changshui Zhang,1,CVPR,2014
+Bernhard Scholkopf,1,CVPR,2014
+George Papandreou,1,CVPR,2014
+Wenjun Zhou,1,CVPR,2014
+Christopher Reardon,1,CVPR,2014
+Lynne E. Parker,1,CVPR,2014
+Anders Glent Buch,1,CVPR,2014
+Yang Yang,1,CVPR,2014
+Norbert Kruger,1,CVPR,2014
+Henrik Gordon Petersen,1,CVPR,2014
+Yuchen Guo,1,CVPR,2014
+Jile Zhou,1,CVPR,2014
+Minsu Cho,1,CVPR,2014
+Olivier Duchenne,1,CVPR,2014
+Ran Tao,1,CVPR,2014
+Arnold W.M. Smeulders,1,CVPR,2014
+Itai Ben-Shalom,1,CVPR,2014
+Noga Levy,1,CVPR,2014
+Nachum Dershowitz,1,CVPR,2014
+Adiel Ben-Shalom,1,CVPR,2014
+Roni Shweka,1,CVPR,2014
+Yaacov Choueka,1,CVPR,2014
+Tamir Hazan,1,CVPR,2014
+Yaniv Bar,1,CVPR,2014
+Damek Davis,1,CVPR,2014
+Go Irie,1,CVPR,2014
+Zhenguo Li,1,CVPR,2014
+Xiao-Ming Wu,1,CVPR,2014
+Vasiliy Karasev,1,CVPR,2014
+Avinash Ravichandran,1,CVPR,2014
+Jae-Pil Heo,1,CVPR,2014
+Sung-Eui Yoon,1,CVPR,2014
+Xianglong Liu,1,CVPR,2014
+Junfeng He,1,CVPR,2014
+Cheng Deng,1,CVPR,2014
+Bo Lang,1,CVPR,2014
+Dumitru Erhan,1,CVPR,2014
+Geoffrey Oxholm,1,CVPR,2014
+Ko Nishino,1,CVPR,2014
+Ying Fu,1,CVPR,2014
+Antony Lam,1,CVPR,2014
+Yasuyuki Kobashi,1,CVPR,2014
+Takahiro Okabe,1,CVPR,2014
+Satoshi Ikehata,1,CVPR,2014
+Kiyoharu Aizawa,1,CVPR,2014
+Xiaojie Guo,1,CVPR,2014
+Wuyuan Xie,1,CVPR,2014
+Yunbo Zhang,1,CVPR,2014
+Charlie C. L. Wang,1,CVPR,2014
+Ronald C.-K. Chung,1,CVPR,2014
+Alexandre Alahi,1,CVPR,2014
+Vignesh Ramanathan,1,CVPR,2014
+Shuai Yi,1,CVPR,2014
+Jing Shao,1,CVPR,2014
+Yu Cheng,1,CVPR,2014
+Sharath Pankanti,1,CVPR,2014
+Alok Choudhary,1,CVPR,2014
+Subhabrata Bhattacharya,1,CVPR,2014
+Kuan-Ting Lai,1,CVPR,2014
+Felix X. Yu,1,CVPR,2014
+Ming-Syan Chen,1,CVPR,2014
+Chourmouzios Tsiotsios,1,CVPR,2014
+Maria E. Angelopoulou,1,CVPR,2014
+Andrew J. Davison,1,CVPR,2014
+Rakesh Shiradkar,1,CVPR,2014
+Li Shen,1,CVPR,2014
+George Landon,1,CVPR,2014
+Sim Heng Ong,1,CVPR,2014
+Sk. Mohammadul Haque,1,CVPR,2014
+Avishek Chatterjee,1,CVPR,2014
+Venu Madhav Govindu,1,CVPR,2014
+Hicham Badri,1,CVPR,2014
+Hussein Yahia,1,CVPR,2014
+Driss Aboutajdine,1,CVPR,2014
+Bo Dong,1,CVPR,2014
+Kathleen D. Moore,1,CVPR,2014
+Weiyi Zhang,1,CVPR,2014
+Pieter Peers,1,CVPR,2014
+Moumen T. El-Melegy,1,CVPR,2014
+Aly S. Abdelrahim,1,CVPR,2014
+Aly A. Farag,1,CVPR,2014
+Nan Hu,1,CVPR,2014
+Raif M. Rustamov,1,CVPR,2014
+Leonidas Guibas,1,CVPR,2014
+Kangwei Liu,1,CVPR,2014
+Junge Zhang,1,CVPR,2014
+Kaiqi Huang,1,CVPR,2014
+Tieniu Tan,1,CVPR,2014
+Yannis Kalantidis,1,CVPR,2014
+Yannis Avrithis,1,CVPR,2014
+Xiao Chu,1,CVPR,2014
+Gerard Pons-Moll,1,CVPR,2014
+David J. Fleet,1,CVPR,2014
+Anoop Cherian,1,CVPR,2014
+Karteek Alahari,1,CVPR,2014
+Chunyu Wang,1,CVPR,2014
+Yizhou Wang,1,CVPR,2014
+Wen Gao,1,CVPR,2014
+Koen E. A. Van De Sande,1,CVPR,2014
+Cees G. M. Snoek,1,CVPR,2014
+Arnold W. M. Smeulders,1,CVPR,2014
+Yusuf Aytar,1,CVPR,2014
+Arthur Daniel Costea,1,CVPR,2014
+Sergiu Nedevschi,1,CVPR,2014
+Ramazan Gokberk Cinbis,1,CVPR,2014
+Pekka Rantalankila,1,CVPR,2014
+Duc Thanh Nguyen,1,CVPR,2014
+Karim Ali,1,CVPR,2014
+Thomas Mensink,1,CVPR,2014
+Mohsen Hejrati,1,CVPR,2014
+Fan Zhu,1,CVPR,2014
+Zhuolin Jiang,1,CVPR,2014
+Kun Duan,1,CVPR,2014
+David J. Crandall,1,CVPR,2014
+Naila Murray,1,CVPR,2014
+Mahsa Baktashmotlagh,1,CVPR,2014
+Mehrtash T. Harandi,1,CVPR,2014
+Brian C. Lovell,1,CVPR,2014
+Christoph Goring,1,CVPR,2014
+Alexander Freytag,1,CVPR,2014
+Jifeng Dai,1,CVPR,2014
+Yi Hong,1,CVPR,2014
+Al Mansur,1,CVPR,2014
+Yasushi Makihara,1,CVPR,2014
+Rasyid Aqmar,1,CVPR,2014
+Yasushi Yagi,1,CVPR,2014
+Shayan Modiri Assari,1,CVPR,2014
+Yair Poleg,1,CVPR,2014
+Shmuel Peleg,1,CVPR,2014
+Dan Oneata,1,CVPR,2014
+Brais Cancela,1,CVPR,2014
+Alberto Iglesias,1,CVPR,2014
+Marcos Ortega,1,CVPR,2014
+Manuel G. Penedo,1,CVPR,2014
+Xiaoyang Wang,1,CVPR,2014
+Chen Sun,1,CVPR,2014
+Ram Nevatia,1,CVPR,2014
+Weiyao Lin,1,CVPR,2014
+Vadim Kantorov,1,CVPR,2014
+Ankur Gupta,1,CVPR,2014
+Julieta Martinez,1,CVPR,2014
+James J. Little,1,CVPR,2014
+Robert J. Woodham,1,CVPR,2014
+Baoxin Wu,1,CVPR,2014
+Ju-Hsuan Hua,1,CVPR,2014
+Nick C. Tang,1,CVPR,2014
+Min-Hung Chen,1,CVPR,2014
+Hong-Yuan Mark Liao,1,CVPR,2014
+Lin Sun,1,CVPR,2014
+Tsung-Han Chan,1,CVPR,2014
+Sanath Narayan,1,CVPR,2014
+Kalpathi R. Ramakrishnan,1,CVPR,2014
+Nam N. Vo,1,CVPR,2014
+Aaron F. Bobick,1,CVPR,2014
+Xiaohan Nie,1,CVPR,2014
+Yin Xia,1,CVPR,2014
+Shuang Wu,1,CVPR,2014
+Sravanthi Bondugula,1,CVPR,2014
+Florian Luisier,1,CVPR,2014
+Xiaodan Zhuang,1,CVPR,2014
+Pradeep Natarajan,1,CVPR,2014
+Liang Chen,1,CVPR,2014
+Christoph Feichtenhofer,1,CVPR,2014
+Axel Pinz,1,CVPR,2014
+Richard P. Wildes,1,CVPR,2014
+Chuan Sun,1,CVPR,2014
+Marshall Tappen,1,CVPR,2014
+Hassan Foroosh,1,CVPR,2014
+Amos Sironi,1,CVPR,2014
+Hyunwoo J. Kim,1,CVPR,2014
+Nagesh Adluru,1,CVPR,2014
+Maxwell D. Collins,1,CVPR,2014
+Moo K. Chung,1,CVPR,2014
+Barbara B. Bendlin,1,CVPR,2014
+Sterling C. Johnson,1,CVPR,2014
+Richard J. Davidson,1,CVPR,2014
+Vikas Singh,1,CVPR,2014
+Lei He,1,CVPR,2014
+Hongsheng Li,1,CVPR,2014
+Yinghuan Shi,1,CVPR,2014
+Yang Gao,1,CVPR,2014
+Demian Wassermann,1,CVPR,2014
+James Ross,1,CVPR,2014
+George Washko,1,CVPR,2014
+William M. Wells Iii,1,CVPR,2014
+Raul San Jose-Estepar,1,CVPR,2014
+Luca Fiaschi,1,CVPR,2014
+Ferran Diego,1,CVPR,2014
+Konstantin Gregor,1,CVPR,2014
+Martin Schiegg,1,CVPR,2014
+Ullrich Koethe,1,CVPR,2014
+Marta Zlatic,1,CVPR,2014
+Gou Koutaki,1,CVPR,2014
+Keiichi Uchimura,1,CVPR,2014
+Yu Li,1,CVPR,2014
+Yeqing Li,1,CVPR,2014
+Tae Hyun Kim,1,CVPR,2014
+Uwe Schmidt,1,CVPR,2014
+Stefan Roth,1,CVPR,2014
+Andrew Owens,1,CVPR,2014
+Connelly Barnes,1,CVPR,2014
+Alex Flint,1,CVPR,2014
+Hanumant Singh,1,CVPR,2014
+William Freeman,1,CVPR,2014
+Song Lu,1,CVPR,2014
+Vijay Mahadevan,1,CVPR,2014
+Eleonora Vig,1,CVPR,2014
+Michael Dorr,1,CVPR,2014
+David Cox,1,CVPR,2014
+Nianyi Li,1,CVPR,2014
+Wangjiang Zhu,1,CVPR,2014
+Shuang Liang,1,CVPR,2014
+Tianlin Shi,1,CVPR,2014
+Ming Liang,1,CVPR,2014
+Xiaolin Hu,1,CVPR,2014
+Qi Zhang,1,CVPR,2014
+Miao Hua,1,CVPR,2014
+Xiaohui Bie,1,CVPR,2014
+Minying Zhang,1,CVPR,2014
+Wencheng Wang,1,CVPR,2014
+Abhishek Singh,1,CVPR,2014
+Xiaowu Chen,1,CVPR,2014
+Dongqing Zou,1,CVPR,2014
+Jianwei Li,1,CVPR,2014
+Qinping Zhao,1,CVPR,2014
+Shuhang Gu,1,CVPR,2014
+Wangmeng Zuo,1,CVPR,2014
+Xiangchu Feng,1,CVPR,2014
+Xing Zhang,1,CVPR,2014
+Siwei Lyu,1,CVPR,2014
+Huixuan Tang,1,CVPR,2014
+Neel Joshi,1,CVPR,2014
+Ashish Kapoor,1,CVPR,2014
+Lu Fang,1,CVPR,2014
+Haifeng Liu,1,CVPR,2014
+Houqiang Li,1,CVPR,2014
+Jinshan Pan,1,CVPR,2014
+Zhixun Su,1,CVPR,2014
+Daniele Perrone,1,CVPR,2014
+Paolo Favaro,1,CVPR,2014
+Yu Zhu,1,CVPR,2014
+Yanning Zhang,1,CVPR,2014
+Haichao Zhang,1,CVPR,2014
+Huanjing Yue,1,CVPR,2014
+Jingyu Yang,1,CVPR,2014
+Xiao Tan,1,CVPR,2014
+Changming Sun,1,CVPR,2014
+Tuan D. Pham,1,CVPR,2014
+Yi Peng,1,CVPR,2014
+Zongben Xu,1,CVPR,2014
+Chenqiang Gao,1,CVPR,2014
+Biao Zhang,1,CVPR,2014
+Xiangqi Huang,1,CVPR,2014
+Bo Zheng,1,CVPR,2014
+Takeshi Masuda,1,CVPR,2014
+Katsushi Ikeuchi,1,CVPR,2014
+Jianping Shi,1,CVPR,2014
+James Pritts,1,CVPR,2014
+Ondrej Chum,1,CVPR,2014
+Jiri Matas,1,CVPR,2014
+Marcelo Cicconet,1,CVPR,2014
+Davi Geiger,1,CVPR,2014
+Kristin C. Gunsalus,1,CVPR,2014
+Michael Werman,1,CVPR,2014
+Jianzhou Yan,1,CVPR,2014
+Ketan Tang,1,CVPR,2014
+Zhengying Chen,1,CVPR,2014
+Tingting Jiang,1,CVPR,2014
+Yonghong Tian,1,CVPR,2014
+Yao Xiao,1,CVPR,2014
+Efstratios Tsougenis,1,CVPR,2014
+Hongteng Xu,1,CVPR,2014
+Hongyuan Zha,1,CVPR,2014
+Mark A. Davenport,1,CVPR,2014
+Przemyslaw Glowacki,1,CVPR,2014
+Miguel Amavel Pinheiro,1,CVPR,2014
+Engin Turetken,1,CVPR,2014
+Raphael Sznitman,1,CVPR,2014
+Daniel Lebrecht,1,CVPR,2014
+Jan Kybic,1,CVPR,2014
+Anthony Holtmaat,1,CVPR,2014
+Jingjia Xu,1,CVPR,2014
+Azar Rahimi Dehaghani,1,CVPR,2014
+Fei Gao,1,CVPR,2014
+Linwei Wang,1,CVPR,2014
+Yuanxiang Wang,1,CVPR,2014
+Hesamoddin Salehian,1,CVPR,2014
+Guang Cheng,1,CVPR,2014
+Erkang Cheng,1,CVPR,2014
+Yu Pang,1,CVPR,2014
+Ying Zhu,1,CVPR,2014
+Christian Ledig,1,CVPR,2014
+Wenzhe Shi,1,CVPR,2014
+Wenjia Bai,1,CVPR,2014
+Daniel Rueckert,1,CVPR,2014
+Simon Hermann,1,CVPR,2014
+Yin Zhou,1,CVPR,2014
+Hang Chang,1,CVPR,2014
+Kenneth Barner,1,CVPR,2014
+Paul Spellman,1,CVPR,2014
+Bahram Parvin,1,CVPR,2014
+Xiaofeng Zhu,1,CVPR,2014
+Luping Zhou,1,CVPR,2014
+Lei Wang,1,CVPR,2014
+Philip Ogunbona,1,CVPR,2014
+Touseef Ahmad Qureshi,1,CVPR,2014
+Andrew Hunter,1,CVPR,2014
+Bashir Al-Diri,1,CVPR,2014
+Gerard Sanroma,1,CVPR,2014
+Guorong Wu,1,CVPR,2014
+Yaozong Gao,1,CVPR,2014
+Tuan Anh Ngo,1,CVPR,2014
+Ganesh Sundaramoorthi,1,CVPR,2014
+Byung-Woo Hong,1,CVPR,2014
+Victoria Yanulevskaya,1,CVPR,2014
+Jasper Uijlings,1,CVPR,2014
+Nicu Sebe,1,CVPR,2014
+Fan Wang,1,CVPR,2014
+Qixing Huang,1,CVPR,2014
+Leonidas J. Guibas,1,CVPR,2014
+Ejaz Ahmed,1,CVPR,2014
+Huazhu Fu,1,CVPR,2014
+Bao Zhang,1,CVPR,2014
+Rashmi Tonge,1,CVPR,2014
+Wei Yang,1,CVPR,2014
+Liang Lin,1,CVPR,2014
+Jia Xu,1,CVPR,2014
+Andrea Cohen,1,CVPR,2014
+Shuai Zheng,1,CVPR,2014
+Jonathan Warrell,1,CVPR,2014
+Paul Sturgess,1,CVPR,2014
+Vibhav Vineet,1,CVPR,2014
+Philip H. S. Torr,1,CVPR,2014
+Felix Heide,1,CVPR,2014
+Lei Xiao,1,CVPR,2014
+Wolfgang Heidrich,1,CVPR,2014
+Jingyu Lin,1,CVPR,2014
+Yebin Liu,1,CVPR,2014
+Chenguang Ma,1,CVPR,2014
+Xing Lin,1,CVPR,2014
+Jinli Suo,1,CVPR,2014
+Gordon Wetzstein,1,CVPR,2014
+Matthew O'Toole,1,CVPR,2014
+John Mather,1,CVPR,2014
+Kiriakos N. Kutulakos,1,CVPR,2014
+Che-Han Chang,1,CVPR,2014
+Yung-Yu Chuang,1,CVPR,2014
+Fan Zhang,1,CVPR,2014
+Santosh K. Divvala,1,CVPR,2014
+Carlos Guestrin,1,CVPR,2014
+Takumi Kobayashi,1,CVPR,2014
+Ziming Zhang,1,CVPR,2014
+Philip Torr,1,CVPR,2014
+Jacob Walker,1,CVPR,2014
+Xin Yuan,1,CVPR,2014
+Patrick Llull,1,CVPR,2014
+Xuejun Liao,1,CVPR,2014
+Jianbo Yang,1,CVPR,2014
+David J. Brady,1,CVPR,2014
+Guillermo Sapiro,1,CVPR,2014
+Zhaolin Xiao,1,CVPR,2014
+Qing Wang,1,CVPR,2014
+Guoqing Zhou,1,CVPR,2014
+Ira Kemelmacher-Shlizerman,1,CVPR,2014
+Supasorn Suwajanakorn,1,CVPR,2014
+Youngbae Hwang,1,CVPR,2014
+Joon-Young Lee,1,CVPR,2014
+Seon Joo Kim,1,CVPR,2014
+Feng Zhou,1,CVPR,2014
+Michael F. Cohen,1,CVPR,2014
+Sung Hee Park,1,CVPR,2014
+Marc Levoy,1,CVPR,2014
+Jing Li,1,CVPR,2014
+Zhichao Lu,1,CVPR,2014
+Gang Zeng,1,CVPR,2014
+Rui Gan,1,CVPR,2014
+Hongbin Zha,1,CVPR,2014
+Sunghyun Cho,1,CVPR,2014
+Si Lu,1,CVPR,2014
+Xiaofeng Ren,1,CVPR,2014
+Rang Nguyen,1,CVPR,2014
+Dilip K. Prasad,1,CVPR,2014
+Hongsheng Yang,1,CVPR,2014
+Jiangbo Lu,1,CVPR,2014
+Alberto Crivellaro,1,CVPR,2014
+Iason Oikonomidis,1,CVPR,2014
+Manolis I.A. Lourakis,1,CVPR,2014
+Antonis A. Argyros,1,CVPR,2014
+Nikolaos Kyriazis,1,CVPR,2014
+Antonis Argyros,1,CVPR,2014
+Joan Alabort-I-Medina,1,CVPR,2014
+Chun-Hao Huang,1,CVPR,2014
+Bryan Poling,1,CVPR,2014
+Gilad Lerman,1,CVPR,2014
+Arthur Szlam,1,CVPR,2014
+Yang Lu,1,CVPR,2014
+Tianfu Wu,1,CVPR,2014
+Song Chun Zhu,1,CVPR,2014
+David Varas,1,CVPR,2014
+Dong Wang,1,CVPR,2014
+Huchuan Lu,1,CVPR,2014
+Dae-Youn Lee,1,CVPR,2014
+Jae-Young Sim,1,CVPR,2014
+Chang-Su Kim,1,CVPR,2014
+Junseok Kwon,1,CVPR,2014
+Nan Jiang,1,CVPR,2014
+Jiejie Zhu,1,CVPR,2014
+Omar Javed,1,CVPR,2014
+Jingen Liu,1,CVPR,2014
+Qian Yu,1,CVPR,2014
+Hui Cheng,1,CVPR,2014
+Harpreet Sawhney,1,CVPR,2014
+Xinchu Shi,1,CVPR,2014
+Michael Hornacek,1,CVPR,2014
+Linchao Bao,1,CVPR,2014
+Qingxiong Yang,1,CVPR,2014
+Laura Leal-Taixe,1,CVPR,2014
+Michele Fenzi,1,CVPR,2014
+Alina Kuznetsova,1,CVPR,2014
+Silvio Savarese,1,CVPR,2014
+Xingchen Zhou,1,CVPR,2014
+Mohit Bansal,1,CVPR,2014
+Peng Zhang,1,CVPR,2014
+Jiuling Wang,1,CVPR,2014
+Yoshitaka Ushiku,1,CVPR,2014
+Masatoshi Hidaka,1,CVPR,2014
+Georgia Gkioxari,1,CVPR,2014
+Angela Eigenstetter,1,CVPR,2014
+Masato Takami,1,CVPR,2014
+Bjorn Ommer,1,CVPR,2014
+Guang Chen,1,CVPR,2014
+Eli Shechtman,1,CVPR,2014
+Aseem Agarwala,1,CVPR,2014
+Tony X. Han,1,CVPR,2014
+Mircea Cimpoi,1,CVPR,2014
+Ramachandruni N. Sandeep,1,CVPR,2014
+Yashaswi Verma,1,CVPR,2014
+Siddharth Mahendran,1,CVPR,2014
+Matthew B. Blaschko,1,CVPR,2014
+David Weiss,1,CVPR,2014
+Ben Taskar,1,CVPR,2014
+Naomi Saphra,1,CVPR,2014
+Gordon Christie,1,CVPR,2014
+Amar Parkash,1,CVPR,2014
+Ujwal Krothapalli,1,CVPR,2014
+Weihong Deng,1,CVPR,2014
+Jiani Hu,1,CVPR,2014
+Jun Guo,1,CVPR,2014
+Mattis Paulin,1,CVPR,2014
+Jerome Revaud,1,CVPR,2014
+Marko Ristin,1,CVPR,2014
+Matthieu Guillaumin,1,CVPR,2014
+Juergen Gall,1,CVPR,2014
+Hakan Bilen,1,CVPR,2014
+Vinay P. Namboodiri,1,CVPR,2014
+Eyal Krupka,1,CVPR,2014
+Alon Vinnikov,1,CVPR,2014
+Ben Klein,1,CVPR,2014
+Aharon Bar Hillel,1,CVPR,2014
+Daniel Freedman,1,CVPR,2014
+Simon Stachniak,1,CVPR,2014
+Muhammad Zeeshan Zia,1,CVPR,2014
+Michael Stark,1,CVPR,2014
+Leonid Pishchulin,1,CVPR,2014
+Peter Gehler,1,CVPR,2014
+Kristjan Eldjarn Hjorleifsson,1,CVPR,2014
+Aditya Khosla,1,CVPR,2014
+Byoungkwon An An,1,CVPR,2014
+Joseph J. Lim,1,CVPR,2014
+Antonio Torralba,1,CVPR,2014
+Renjie Liao,1,CVPR,2014
+Lingxi Xie,1,CVPR,2014
+Jingdong Wang,1,CVPR,2014
+Baining Guo,1,CVPR,2014
+Bo Zhang,1,CVPR,2014
+Longrun Luo,1,CVPR,2014
+Joseph Tighe,1,CVPR,2014
+Marc Niethammer,1,CVPR,2014
+Svetlana Lazebnik,1,CVPR,2014
+Yan Deng,1,CVPR,2014
+Anand Rangarajan,1,CVPR,2014
+Stephan Eisenschenk,1,CVPR,2014
+Mathieu Aubry,1,CVPR,2014
+Daniel Maturana,1,CVPR,2014
+Alexei A. Efros,1,CVPR,2014
+Bryan C. Russell,1,CVPR,2014
+Julian Straub,1,CVPR,2014
+John J. Leonard,1,CVPR,2014
+Jingchen Liu,1,CVPR,2014
+Yanxi Liu,1,CVPR,2014
+Danhang Tang,1,CVPR,2014
+Hyung Jin Chang,1,CVPR,2014
+Alykhan Tejani,1,CVPR,2014
+Federica Bogo,1,CVPR,2014
+Javier Romero,1,CVPR,2014
+Matthew Loper,1,CVPR,2014
+Sadeep Jayasumana,1,CVPR,2014
+Aasa Feragen,1,CVPR,2014
+Huan Xu,1,CVPR,2014
+John R. Smith,1,CVPR,2014
+Han Hu,1,CVPR,2014
+Jianjiang Feng,1,CVPR,2014
+Jie Zhou,1,CVPR,2014
+Zemin Zhang,1,CVPR,2014
+Gregory Ely,1,CVPR,2014
+Shuchin Aeron,1,CVPR,2014
+Ning Hao,1,CVPR,2014
+Misha Kilmer,1,CVPR,2014
+Chenglong Bao,1,CVPR,2014
+Hui Ji,1,CVPR,2014
+Zuowei Shen,1,CVPR,2014
+Risheng Liu,1,CVPR,2014
+Junjie Cao,1,CVPR,2014
+Xianbiao Shu,1,CVPR,2014
+Gaofeng Meng,1,CVPR,2014
+Ying Wang,1,CVPR,2014
+Shenquan Qu,1,CVPR,2014
+Shiming Xiang,1,CVPR,2014
+Chunhong Pan,1,CVPR,2014
+Konstantinos Rematas,1,CVPR,2014
+Tobias Ritschel,1,CVPR,2014
+Sergi Pujades,1,CVPR,2014
+Frederic Devernay,1,CVPR,2014
+Bastian Goldluecke,1,CVPR,2014
+Qifeng Chen,1,CVPR,2014
+Gyeongmin Choe,1,CVPR,2014
+Alvaro Parra Bustos,1,CVPR,2014
+Tat-Jun Chin,1,CVPR,2014
+Siyu Zhu,1,CVPR,2014
+Tian Fang,1,CVPR,2014
+Jianxiong Xiao,1,CVPR,2014
+Long Quan,1,CVPR,2014
+Kalin Kolev,1,CVPR,2014
+Petri Tanskanen,1,CVPR,2014
+Pablo Speciale,1,CVPR,2014
+Luca Magri,1,CVPR,2014
+Andrea Fusiello,1,CVPR,2014
+Tak-Wai Hui,1,CVPR,2014
+King Ngi Ngan,1,CVPR,2014
+Avinash Kumar,1,CVPR,2014
+Mayank Bansal,1,CVPR,2014
+Fisher Yu,1,CVPR,2014
+David Gallup,1,CVPR,2014
+Karl Pauwels,1,CVPR,2014
+Leonardo Rubio,1,CVPR,2014
+Eduardo Ros,1,CVPR,2014
+Qi Shan,1,CVPR,2014
+Brian Curless,1,CVPR,2014
+Carlos Hernandez,1,CVPR,2014
+Randi Cabezas,1,CVPR,2014
+Ruizhe Wang,1,CVPR,2014
+Jongmoo Choi,1,CVPR,2014
+Ralf Dragon,1,CVPR,2014
+Cong Yao,1,CVPR,2014
+Xiang Bai,1,CVPR,2014
+Baoguang Shi,1,CVPR,2014
+Wenyu Liu,1,CVPR,2014
+Chen-Yu Lee,1,CVPR,2014
+Anurag Bhardwaj,1,CVPR,2014
+Wei Di,1,CVPR,2014
+Vignesh Jagadeesh,1,CVPR,2014
+Robinson Piramuthu,1,CVPR,2014
+Haithem Boussaid,1,CVPR,2014
+Anders Eriksson,1,CVPR,2014
+Mats Isaksson,1,CVPR,2014
+Mohamed Souiai,1,CVPR,2014
+Shunsuke Ono,1,CVPR,2014
+Isao Yamada,1,CVPR,2014
+Claudia Nieuwenhuis,1,CVPR,2014
+Eno Toeppe,1,CVPR,2014
+Hongxing Wang,1,CVPR,2014
+Chaoqun Weng,1,CVPR,2014
+Junsong Yuan,1,CVPR,2014
+Soheil Bahrampour,1,CVPR,2014
+Asok Ray,1,CVPR,2014
+Nasser M. Nasrabadi,1,CVPR,2014
+Kenneth W. Jenkins,1,CVPR,2014
+Xiao-Tong Yuan,1,CVPR,2014
+Qingshan Liu,1,CVPR,2014
+Canyi Lu,1,CVPR,2014
+Jinhui Tang,1,CVPR,2014
+Meng Yang,1,CVPR,2014
+Lilin Shen,1,CVPR,2014
+Qiuhong Ke,1,CVPR,2014
+Guilin Liu,1,CVPR,2014
+Zhonghua Xi,1,CVPR,2014
+Jyh-Ming Lien,1,CVPR,2014
+Konstantinos A. Raftopoulos,1,CVPR,2014
+Marin Ferecatu,1,CVPR,2014
+Wei Zeng,1,CVPR,2014
+Lok Ming Lui,1,CVPR,2014
+Xianfeng Gu,1,CVPR,2014
+Emanuele Rodola,1,CVPR,2014
+Thomas Windheuser,1,CVPR,2014
+Matthias Vestner,1,CVPR,2014
+Hedi Tabia,1,CVPR,2014
+Hamid Laga,1,CVPR,2014
+David Picard,1,CVPR,2014
+Philippe-Henri Gosselin,1,CVPR,2014
+Yusuke Yoshiyasu,1,CVPR,2014
+Eiichi Yoshida,1,CVPR,2014
+Kazuhito Yokoi,1,CVPR,2014
+Ryusuke Sagawa,1,CVPR,2014
+Shaojing Fan,1,CVPR,2014
+Tian-Tsong Ng,1,CVPR,2014
+Jonathan S. Herberg,1,CVPR,2014
+Bryan L. Koenig,1,CVPR,2014
+Cheston Y.-C. Tan,1,CVPR,2014
+Rangding Wang,1,CVPR,2014
+Shuaicheng Liu,1,CVPR,2014
+Lu Yuan,1,CVPR,2014
+Pablo Garrido,1,CVPR,2014
+Levi Valgaerts,1,CVPR,2014
+Ole Rehmsen,1,CVPR,2014
+Thorsten Thormahlen,1,CVPR,2014
+Patrick Perez,1,CVPR,2014
+Christian Theobalt,1,CVPR,2014
+Leonid Sigal,1,CVPR,2014
+Zhenxing Niu,1,CVPR,2014
+Xinbo Gao,1,CVPR,2014
+Jayant Kumar,1,CVPR,2014
+Guodong Guo,1,CVPR,2014
+Chao Zhang,1,CVPR,2014
+Xiaobai Li,1,CVPR,2014
+Jie Chen,1,CVPR,2014
+Guoying Zhao,1,CVPR,2014
+Matti Pietikainen,1,CVPR,2014
+Miriam Redi,1,CVPR,2014
+Neil O'Hare,1,CVPR,2014
+Rossano Schifanella,1,CVPR,2014
+Michele Trevisiol,1,CVPR,2014
+Alejandro Jaimes,1,CVPR,2014
+Shervin Ardeshir,1,CVPR,2014
