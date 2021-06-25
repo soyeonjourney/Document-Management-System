@@ -27,18 +27,19 @@ def register(request):
                 if duplicated_username:
                     message = "Username already exist"
                     return render(request, 'users/register.html', {'message': message, 'register_form': register_form})
-                duplicated_email = User.objects.filter(email=email)
-                if duplicated_email:
-                    message = "E-mail already exist"
-                    return render(request, 'users/register.html', {'message': message, 'register_form': register_form})
-                
-                new_user = User.objects.create()
-                new_user.name = username
-                new_user.password = hash_pwd(password1)
-                new_user.email = email
-                new_user.save()
-                send_register_email(email)
-                return redirect('/user/login')
+                else:
+                    duplicated_email = User.objects.filter(email=email)
+                    if duplicated_email:
+                        message = "E-mail already exist"
+                        return render(request, 'users/register.html', {'message': message, 'register_form': register_form})
+                    else:
+                        new_user = User.objects.create()
+                        new_user.name = username
+                        new_user.password = hash_pwd(password1)
+                        new_user.email = email
+                        new_user.save()
+                        send_register_email(email)
+                        return redirect('/user/login')
 
     register_form = RegisterForm()
     return render(request, 'users/register.html', {'register_form': register_form})
