@@ -9,7 +9,7 @@ class AuthorPaperCount(models.Model):
     year = models.IntegerField()
 
     def __str__(self):
-        return self.author, self.count, self.conference, self.year
+        return self.author
     
     class Meta:
         verbose_name = 'author-ranking'

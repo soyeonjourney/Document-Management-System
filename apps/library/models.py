@@ -11,7 +11,7 @@ class Paper(models.Model):
     abstract = models.TextField()
 
     def __str__(self):
-        return self.title, self.conference, self.year
+        return self.title
 
     class Meta:
         verbose_name = 'paper-info'

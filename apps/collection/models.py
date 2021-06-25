@@ -8,7 +8,7 @@ class Collection(models.Model):
     collection_time = models.DateField(auto_now_add=True)
 
     def __str__(self):
-        return self.collection_time, self.user_id, self.paper.title
+        return self.paper.title
 
     class Meta:
         verbose_name = 'user-collection'
