@@ -3,7 +3,7 @@
 {% load static %}
 
 <!-- Title -->
-{% block title %}Lilac ICCV 2019{% endblock %}
+{% block title %}Lilac ICCV {{ year }}{% endblock %}
 
 <!-- Optional CSS -->
 {% block stylesheet %}
@@ -29,7 +29,7 @@
             <button type="button" id="sidebarCollapse" class="btn btn-info">
                 <i class="fa fa-align-left"></i><span>&nbsp;Toggle Library</span>
             </button>
-            <form action="2019" method="POST">
+            <form action="{{ year }}" method="POST">
                 <!-- Search Form -->
                 {% csrf_token %}
                 <select name="search_by">
@@ -122,15 +122,15 @@
         <ul class="pagination justify-content-center">
             {% if papers.has_previous %}
             <li class="page-item">
-                <a class="page-link" href="/library/iccv/2019"><i class="fa fa-fast-backward"></i></a>
+                <a class="page-link" href="/library/iccv/{{ year }}"><i class="fa fa-fast-backward"></i></a>
             </li>
             <li class="page-item">
-                <a class="page-link" href="/library/iccv/2019?page={{ papers.previous_page_number }}"><i
+                <a class="page-link" href="/library/iccv/{{ year }}?page={{ papers.previous_page_number }}"><i
                         class="fa fa-backward"></i></a>
             </li>
             {% else %}
             <li class="page-item disabled">
-                <a class="page-link" href="/library/iccv/2019"><i class="fa fa-fast-backward"></i></a>
+                <a class="page-link" href="/library/iccv/{{ year }}"><i class="fa fa-fast-backward"></i></a>
             </li>
             <li class="page-item disabled">
                 <a class="page-link" href="#" tabindex="-1" aria-disabled="true"><i class="fa fa-backward"></i></a>
@@ -139,7 +139,7 @@
 
             {% if papers.number|add:'-4' > 1 %}
             <li class="page-item"><a class="page-link"
-                    href="/library/iccv/2019?page={{ papers.number|add:'-5' }}">&hellip;</a></li>
+                    href="/library/iccv/{{ year }}?page={{ papers.number|add:'-5' }}">&hellip;</a></li>
             {% endif %}
 
             {% for i in papers.paginator.page_range %}
@@ -157,16 +157,16 @@
 
                 {% if papers.paginator.num_pages > papers.number|add:'4' %}
                 <li class="page-item"><a class="page-link"
-                        href="/library/iccv/2019?page={{ papers.number|add:'5' }}">&hellip;</a></li>
+                        href="/library/iccv/{{ year }}?page={{ papers.number|add:'5' }}">&hellip;</a></li>
                 {% endif %}
 
                 {% if papers.has_next %}
                 <li class="page-item">
-                    <a class="page-link" href="/library/iccv/2019?page={{ papers.next_page_number }}"><i
+                    <a class="page-link" href="/library/iccv/{{ year }}?page={{ papers.next_page_number }}"><i
                             class="fa fa-forward"></i></a>
                 </li>
                 <li class="page-item">
-                    <a class="page-link" href="/library/iccv/2019?page={{ last_page }}"><i
+                    <a class="page-link" href="/library/iccv/{{ year }}?page={{ last_page }}"><i
                             class="fa fa-fast-forward"></i></a>
                 </li>
                 {% else %}
@@ -174,7 +174,7 @@
                     <a class="page-link" href="#" tabindex="-1" aria-disabled="true"><i class="fa fa-forward"></i></a>
                 </li>
                 <li class="page-item disabled">
-                    <a class="page-link" href="/library/iccv/2019?page={{ last_page }}"><i
+                    <a class="page-link" href="/library/iccv/{{ year }}?page={{ last_page }}"><i
                             class="fa fa-fast-forward"></i></a>
                 </li>
                 {% endif %}
