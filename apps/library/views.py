@@ -85,7 +85,7 @@ def cvpr_by_year(request, year):
         except EmptyPage:
             papers = paginator.page(paginator.num_pages)
 
-        return render(request, f'library/cvpr{year}.html', {'papers': papers, 'last_page': last_page})
+        return render(request, f'library/cvpr.html', {'year': year, 'papers': papers, 'last_page': last_page})
 
     else:
         search_by = request.session['search_by']
@@ -125,7 +125,7 @@ def cvpr_by_year(request, year):
         except EmptyPage:
             papers = paginator.page(paginator.num_pages)
 
-        return render(request, f'library/cvpr{year}.html', {'papers': papers, 'last_page': last_page})
+        return render(request, f'library/cvpr.html', {'year': year, 'papers': papers, 'last_page': last_page})
 
 
 def other_cvs(request, conf, year):
@@ -151,7 +151,7 @@ def other_cvs(request, conf, year):
         except EmptyPage:
             papers = paginator.page(paginator.num_pages)
 
-        return render(request, f'library/{conf}{year}.html', {'papers': papers, 'last_page': last_page})
+        return render(request, f'library/{conf}.html', {'year': year, 'papers': papers, 'last_page': last_page})
 
     else:
         search_by = request.session['search_by']
@@ -191,7 +191,7 @@ def other_cvs(request, conf, year):
         except EmptyPage:
             papers = paginator.page(paginator.num_pages)
 
-        return render(request, f'library/{conf}{year}.html', {'papers': papers, 'last_page': last_page})
+        return render(request, f'library/{conf}.html', {'year': year, 'papers': papers, 'last_page': last_page})
 
 
 def search_retry(request, return_url):
