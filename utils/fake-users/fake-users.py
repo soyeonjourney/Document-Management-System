@@ -1,6 +1,8 @@
 import random
 import string
 import hashlib
+import datetime
+import time
 import csv
 
 def generator_str(user_min, user_max):
@@ -21,11 +23,17 @@ def generator_email():
     suffix = email_suffix[choose]
     return email_first + '@' + suffix + '.com'
 
-def generator_date(year):
-    date_first = str(year)
-    date_second = '{:0>2d}'.format(random.randint(1,12))
-    date_third = '{:0>2d}'.format(random.randint(1,28))
-    date = date_first + '-' + date_second + '-' + date_third
+def generator_date():
+    end_time = datetime.datetime.now()
+    start_time = datetime.datetime.now() + datetime.timedelta(days=-1000)
+    a1 = tuple(start_time.timetuple()[0:9])
+    a2 = tuple(end_time.timetuple()[0:9])
+    start = time.mktime(a1)    
+    end = time.mktime(a2)      
+    for i in range(random.randint(1, 1000)):
+        t = random.randint(start, end)    
+        date_touple = time.localtime(t)          
+        date = time.strftime("%Y-%m-%d",date_touple)  
     return date
 
 if __name__ == '__main__':
@@ -33,12 +41,12 @@ if __name__ == '__main__':
         csv_writer = csv.writer(user_csv, delimiter=',')
         csv_writer.writerow(['name', 'password', 'email', 'is_active', 'join_time'])
     for i in range(200):
-        username = generator_str(3, 8)  # Unername
+        username = generator_str(3, 8)  # Username
         pwd = generator_str(8, 16)  # Password
         encry_pwd = hash_pwd(pwd)  # Encrypted Password
         email = generator_email()  # E-mail Address
         is_active = random.randint(0,1)
-        join_time = generator_date(2021)
+        join_time = generator_date()
         with open('fake-users.csv', 'a', newline='') as user_csv:
             csv_writer = csv.writer(user_csv, delimiter=',')
             csv_writer.writerow([username, encry_pwd, email, is_active, join_time])
