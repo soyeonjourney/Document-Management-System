@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'DMS.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'dms',
+        'NAME': '',
         'USER': '',
         'PASSWORD': '',
         'HOST': '127.0.0.1',
