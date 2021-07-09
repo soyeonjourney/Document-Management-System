@@ -8,7 +8,7 @@
 * [Prerequisites](#prerequisites)
 * [Usage](#usage)
 * [Preview](#preview)
-* [Reference](#reference)
+* [References](#references)
 
 
 
@@ -146,7 +146,7 @@ pip install -r requirements.txt
 
 
 
-## Reference
+## References
 
 1. [Django documents](https://docs.djangoproject.com/en/3.2/) everything you need to know about Django
 2. [W3schools](https://www.w3schools.com/)  learn HTML / CSS / JS / Bootstrap
