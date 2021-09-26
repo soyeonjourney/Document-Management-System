@@ -43,8 +43,8 @@ pip install -r requirements.txt
    DATABASES = {
        'default': {
            'ENGINE': 'django.db.backends.mysql',
-           'NAME': '',  # eg. DMS
-           'USER': '',  # eg. root
+           'NAME': '',  # e.g. DMS
+           'USER': '',  # e.g. root
            'PASSWORD': '',
            'HOST': '127.0.0.1',
            'PORT': '3306',
