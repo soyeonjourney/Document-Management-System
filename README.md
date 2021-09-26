@@ -53,10 +53,10 @@ pip install -r requirements.txt
    
    ...
    
-   EMAIL_HOST = 'smtp.xxx.com'  # 'smtp.163.com'
+   EMAIL_HOST = 'smtp.xxx.com'  # e.g. 'smtp.163.com'
    EMAIL_PORT = '25'
-   EMAIL_HOST_USER = ''  # 'xxxxxx@163.com'
-   EMAIL_HOST_PASSWORD = ''  # Password to use for the SMTP server, not your e-mail password
+   EMAIL_HOST_USER = ''  # e.g. 'xxxxxx@163.com'
+   EMAIL_HOST_PASSWORD = ''  # Password for the SMTP server, not your e-mail password
    ```
 
 2. Apply migrations to your database ( in command window ) :
