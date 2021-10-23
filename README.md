@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Database Final Project based on MySQL.
+This repo includes final project based on MySQL in Database and Implementation course (DATA130039.01) in School of Data Science @Fudan University.
 
 <img src="https://github.com/Tequila-Sunrise/Image-Hosting/blob/main/Document-Management-System/E-R.png" width="800">
 
