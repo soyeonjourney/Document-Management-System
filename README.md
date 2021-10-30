@@ -148,10 +148,11 @@ pip install -r requirements.txt
 
 ## References
 
-1. [Django documents](https://docs.djangoproject.com/en/3.2/) everything you need to know about Django
-2. [W3schools](https://www.w3schools.com/)  learn HTML / CSS / JS / Bootstrap
+1. [Django documents](https://docs.djangoproject.com/en/3.2/) Everything you need to know about Django
+2. [W3schools](https://www.w3schools.com/)  Learn HTML / CSS / JS / Bootstrap
 3. [Django ORM Query](https://docs.djangoproject.com/en/3.2/topics/db/queries/) / [CN](https://www.django.cn/article/show-15.html) Django making queries to MySQL
-4. [Looka](https://looka.com/logo-maker/) logo maker
-5. [Color Space](https://mycolor.space/) nice color palettes generator
-6. [Font Awesome](https://fontawesome.com/v4.7/icons/) icons
+4. [Looka](https://looka.com/logo-maker/) Logo maker
+5. [Color Space](https://mycolor.space/) Fancy color palettes generator
+6. [Font Awesome](https://fontawesome.com/v4.7/icons/) Frequently used icons
+7. [Django用户登录与注册系统-CSDN](Django用户登录与注册系统) Start your first attempt
 
