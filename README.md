@@ -154,5 +154,5 @@ pip install -r requirements.txt
 4. [Looka](https://looka.com/logo-maker/) Logo maker
 5. [Color Space](https://mycolor.space/) Fancy color palettes generator
 6. [Font Awesome](https://fontawesome.com/v4.7/icons/) Frequently used icons
-7. [Django用户登录与注册系统-CSDN](Django用户登录与注册系统) Start your first attempt
+7. [Django用户登录与注册系统-CSDN](https://blog.csdn.net/laikaikai/article/details/80563387) Start your first attempt
 
