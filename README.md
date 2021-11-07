@@ -45,7 +45,7 @@ pip install -r requirements.txt
            'ENGINE': 'django.db.backends.mysql',
            'NAME': '',  # e.g. DMS
            'USER': '',  # e.g. root
-           'PASSWORD': '',
+           'PASSWORD': '',  # Your MySQL server password
            'HOST': '127.0.0.1',
            'PORT': '3306',
        }
@@ -59,7 +59,7 @@ pip install -r requirements.txt
    EMAIL_HOST_PASSWORD = ''  # Password for the SMTP server, not your e-mail password
    ```
 
-2. Apply migrations to your database ( in command window ) :
+2. Apply migrations to your database (in command window) :
 
    ```powershell
    python manage.py makemigrations
@@ -74,9 +74,13 @@ pip install -r requirements.txt
 
 4. Run scripts in `/utils/` to get required data, and connect with your database.
 
-   - `/spider/cvpr2csv_withoutdate.py` : cvpr data, and you can get iccv/wacv in the same way
+   - `/spider/cvpr2csv_withoutdate.py` : CVPR data, and you can get ICCV / WACV in the same way
    - `/fake-users/fake-users.py` : generate some lorem ipsum users
    - `/wordcloud/wc_for_year.py` :  generate word cloud images
+
+   You can skip this step and use the backup data we provided in `./static/data/` (may be out of date)
+
+   And don't forget to import data to the corresponding database, you can easily identify them by databases' names
 
 5. Run server :
 
