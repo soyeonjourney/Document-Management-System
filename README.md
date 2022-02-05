@@ -1,6 +1,4 @@
-<h1 align="center">Document-Management-System</h1>
-
-
+<h1 align="center">Document Management System (2021 Spring)</h1>
 
 ## Contents
 
@@ -10,15 +8,11 @@
 * [Preview](#preview)
 * [References](#references)
 
-
-
 ## Introduction
 
 This repo includes final project based on MySQL in Database and Implementation course (DATA130039.01) in School of Data Science @Fudan University.
 
 <img src="https://github.com/Tequila-Sunrise/Image-Hosting/blob/main/Document-Management-System/E-R.png" width="800">
-
-
 
 ## Prerequisites
 
@@ -32,8 +26,6 @@ Install requirements with:
 ```powershell
 pip install -r requirements.txt
 ```
-
-
 
 ## Usage
 
@@ -87,8 +79,6 @@ pip install -r requirements.txt
    ```powershell
    python manage.py runserver
    ```
-
-
 
 ## Preview
 
@@ -147,8 +137,6 @@ pip install -r requirements.txt
 14. Admin
 
     <img src="https://github.com/Tequila-Sunrise/Image-Hosting/blob/main/Document-Management-System/preview-20.jpg" width="800"><img src="https://github.com/Tequila-Sunrise/Image-Hosting/blob/main/Document-Management-System/preview-21.jpg" width="800"><img src="https://github.com/Tequila-Sunrise/Image-Hosting/blob/main/Document-Management-System/preview-22.jpg" width="800"><img src="https://github.com/Tequila-Sunrise/Image-Hosting/blob/main/Document-Management-System/preview-23.jpg" width="800">
-
-
 
 ## References
 
