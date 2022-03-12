@@ -1,15 +1,16 @@
-# coding:utf-8
 import requests
 from bs4 import BeautifulSoup
 
+
 def main():
     root_link = 'http://openaccess.thecvf.com/'
-    conference = 'WACV'         # conference name
-    year = 2020                # conference year
+    conference = 'WACV'  # conference name
+    year = 2020  # conference year
     filename = conference + str(year) + '.csv'
     with open(filename, 'w') as f:
         f.write('id, title, authors, conference, year, download_link, abstract\n')
     from_page(root_link=root_link, conference=conference, year=year, filename=filename)
+
 
 def from_page(root_link, conference, year, filename):
     url = root_link + conference + str(year)
@@ -44,12 +45,30 @@ def from_page(root_link, conference, year, filename):
     else:
         print("ERRORS occur!")
 
+
 def write_row(csv_path, id, conference, year, authors, title, link, abstract):
     '''
     write data into data.csv
     '''
-    with open(csv_path, 'a', encoding = "utf-8") as data:# id, title, authors, conference, year, download_link, abstract
-        data.write(','.join([str(id), '"' + title + '"', '"' + ','.join(authors) + '"',conference, str(year), link, '"' + abstract + '"']) + '\n')
+    with open(
+        csv_path, 'a', encoding="utf-8"
+    ) as data:  # id, title, authors, conference, year, download_link, abstract
+        data.write(
+            ','.join(
+                [
+                    str(id),
+                    '"' + title + '"',
+                    '"' + ','.join(authors) + '"',
+                    conference,
+                    str(year),
+                    link,
+                    '"' + abstract + '"',
+                ]
+            )
+            + '\n'
+        )
     print("Completed Writing: {}: {:30}".format(id, title))
+
+
 if __name__ == "__main__":
     main()

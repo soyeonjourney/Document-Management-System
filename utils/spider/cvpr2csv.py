@@ -1,30 +1,31 @@
-# coding:utf-8
 import requests
 from bs4 import BeautifulSoup
 import re
 
+
 def main():
     root_link = 'http://openaccess.thecvf.com/'
-    conference = 'ICCV'         # conference name
-    year = 2019                 # conference year
+    conference = 'ICCV'  # conference name
+    year = 2019  # conference year
     filename = conference + str(year) + '.csv'
     with open(filename, 'w') as f:
         f.write('id, title, authors, conference, year, download_link, abstract\n')
     from_page(root_link=root_link, conference=conference, year=year, filename=filename)
 
+
 def from_page(root_link, conference, year, filename):
     url = root_link + conference + str(year) + '.py'
     r0 = requests.get(url)
-    if r0.status_code == 200:# get all dates from r0
+    if r0.status_code == 200:  # get all dates from r0
         datelist = re.findall(r'\d\d\d\d-\d\d-\d\d', r0.text)
-        dateset = set(datelist)# delete repeated dates
+        dateset = set(datelist)  # delete repeated dates
         dates = list(dateset)
         dates.sort()
     else:
         print("ERRORS occur!")
     id = 1
     for date in dates:
-        r = requests.get(url, params = {'day': date})
+        r = requests.get(url, params={'day': date})
         if r.status_code == 200:
             soup = BeautifulSoup(r.text, "lxml")
             for ptitle in soup.find_all('dt', class_='ptitle'):
@@ -48,19 +49,38 @@ def from_page(root_link, conference, year, filename):
                     authors.append(form.a.string)
                 for author in authors:
                     author = author.replace('"', '""')
-                write_row(filename, id, conference, year, authors, title, link, abstract)
+                write_row(
+                    filename, id, conference, year, authors, title, link, abstract
+                )
                 id += 1
             print('Successfully completed.')
         else:
             print("ERRORS occur!")
 
+
 def write_row(csv_path, id, conference, year, authors, title, link, abstract):
     '''
     write data into csv
     '''
-    with open(csv_path, 'a', encoding = "utf-8") as data:# id, title, authors, conference, year, download_link, abstract
-        data.write(','.join([str(id), '"' + title + '"', '"' + ','.join(authors) + '"',conference, str(year), link, '"' + abstract + '"']) + '\n')
+    with open(
+        csv_path, 'a', encoding="utf-8"
+    ) as data:  # id, title, authors, conference, year, download_link, abstract
+        data.write(
+            ','.join(
+                [
+                    str(id),
+                    '"' + title + '"',
+                    '"' + ','.join(authors) + '"',
+                    conference,
+                    str(year),
+                    link,
+                    '"' + abstract + '"',
+                ]
+            )
+            + '\n'
+        )
     print("Completed Writing: {}: {:30}".format(id, title))
+
 
 if __name__ == "__main__":
     main()
