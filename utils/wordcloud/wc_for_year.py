@@ -22,7 +22,7 @@ for year, conferences in zip(range(2013, 2022), conference_list):
     txt = ''
 
     for conference in conferences:
-        path = ''.join(['../requests/', conference, str(year), '.csv'])
+        path = ''.join(['../spider/', conference, str(year), '.csv'])
         with open(path, 'r', encoding='utf-8') as f:
             data = csv.reader(f)
             for row in data:
